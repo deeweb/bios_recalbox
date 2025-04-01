@@ -1,0 +1,745 @@
+
+![Logo](https://retrogaming.me/wp-content/uploads/2021/07/Logo_Retrogaming_me-300x53.png)
+
+
+## 🚀 retrogaming.me
+Plongez dans l'univers du rétrogaming, une époque où les pixels étaient rois !
+Toute l'actualité du rétrogaming est sur [**retrogaming.me**](https://retrogaming.me/).
+# Bios Recalbox 9.2 (9.2.3) - Pulstar
+
+## Description
+[**retrogaming.me**](https://retrogaming.me/) vous propose un pack de bios 100% vérifiés et compatibles avec Recalbox : 0 bios manquants.
+
+## Installation
+
+- Placez les dossiers `bios` et `roms` dans la partition `share` de votre Recalbox
+
+## Contenu du pack
+
+- \bios\32X_G_BIOS.BIN
+- \bios\32X_M_BIOS.BIN
+- \bios\32X_S_BIOS.BIN
+- \bios\3do_arcade_saot.bin
+- \bios\5200.rom
+- \bios\64DD_IPL.bin
+- \bios\7800 BIOS (E).rom
+- \bios\7800 BIOS (U).rom
+- \bios\8dos2.rom
+- \bios\agb_boot.bin
+- \bios\apple2gs.rom
+- \bios\apple2gs1.rom
+- \bios\apple2gs3.rom
+- \bios\ATARIBAS.ROM
+- \bios\ATARIOSA.ROM
+- \bios\ATARIOSB.ROM
+- \bios\ATARIXL.ROM
+- \bios\basic10.rom
+- \bios\basic11b.rom
+- \bios\BD500.ROM
+- \bios\bios.gg
+- \bios\bios.min
+- \bios\bios7.bin
+- \bios\bios9.bin
+- \bios\bios_CD_E.bin
+- \bios\bios_CD_J.bin
+- \bios\bios_CD_U.bin
+- \bios\bios_E.sms
+- \bios\bios_J.sms
+- \bios\bios_MD.bin
+- \bios\bios_U.sms
+- \bios\bootloader-dbvz.rom
+- \bios\bootloader-en-m515.rom
+- \bios\BS-X.bin
+- \bios\c52.bin
+- \bios\CARTS.SHA
+- \bios\cgb_boot.bin
+- \bios\CYRILLIC.FNT
+- \bios\dc_boot.bin
+- \bios\dc_flash.bin
+- \bios\dc_nvmem.bin
+- \bios\DISK.ROM
+- \bios\disksys.rom
+- \bios\dmg_boot.bin
+- \bios\ecwolf.pk3
+- \bios\exec.bin
+- \bios\firmware.bin
+- \bios\FMPAC.ROM
+- \bios\FMPAC16.ROM
+- \bios\g7400.bin
+- \bios\gba_bios.bin
+- \bios\gbc_bios.bin
+- \bios\gb_bios.bin
+- \bios\gexpress.pce
+- \bios\goldstar.bin
+- \bios\grom.bin
+- \bios\hyperbas.rom
+- \bios\ITALIC.FNT
+- \bios\jasmin.rom
+- \bios\jopac.bin
+- \bios\KANJI.ROM
+- \bios\kick02019.AROS
+- \bios\kick02019.AROS.ext
+- \bios\kick02019.AROS.ext.rom
+- \bios\kick02019.AROS.rom
+- \bios\kick33180.A500
+- \bios\kick33180.A500.rom
+- \bios\kick33180.A500.RTB
+- \bios\kick34005.A500
+- \bios\kick34005.A500.rom
+- \bios\kick34005.A500.RTB
+- \bios\kick34005.CDTV
+- \bios\KICK34005.CDTV.rom
+- \bios\kick37175.A500
+- \bios\kick37175.A500.rom
+- \bios\kick39106.A1200
+- \bios\kick39106.A1200.rom
+- \bios\kick40060.CD32
+- \bios\kick40060.CD32.ext
+- \bios\kick40060.CD32.ext.rom
+- \bios\kick40060.CD32.rom
+- \bios\kick40063.A600
+- \bios\kick40063.A600.rom
+- \bios\kick40063.A600.RTB
+- \bios\kick40068.A1200
+- \bios\kick40068.A1200.rom
+- \bios\kick40068.A1200.RTB
+- \bios\kick40068.A4000
+- \bios\kick40068.A4000.rom
+- \bios\kick40068.A4000.RTB
+- \bios\lisez-moi.txt
+- \bios\lynxboot.img
+- \bios\microdis.rom
+- \bios\missing_bios_report.txt
+- \bios\mpr-17933.bin
+- \bios\mpr-18811-mx.ic1
+- \bios\mpr-19367-mx.ic1
+- \bios\MSX.ROM
+- \bios\MSX2.ROM
+- \bios\MSX2EXT.ROM
+- \bios\MSX2P.ROM
+- \bios\MSX2PEXT.ROM
+- \bios\MSXDOS2.ROM
+- \bios\neocdz.zip
+- \bios\neogeo.zip
+- \bios\o2rom.bin
+- \bios\PAINTER.ROM
+- \bios\palmos41-en-m515.rom
+- \bios\panafz1-kanji.bin
+- \bios\panafz1.bin
+- \bios\panafz10-norsa.bin
+- \bios\panafz10.bin
+- \bios\panafz10e-anvil-norsa.bin
+- \bios\panafz10e-anvil.bin
+- \bios\panafz10ja-anvil-kanji.bin
+- \bios\panafz1j-kanji.bin
+- \bios\panafz1j-norsa.bin
+- \bios\panafz1j.bin
+- \bios\pcfx.rom
+- \bios\pravetzt.rom
+- \bios\ps1_rom.bin
+- \bios\readme.txt
+- \bios\RS232.ROM
+- \bios\sanyotry.bin
+- \bios\saturn_bios.bin
+- \bios\scph1001.bin
+- \bios\scph101.bin
+- \bios\scph5500.bin
+- \bios\scph5501.bin
+- \bios\scph5502.bin
+- \bios\scph7001.bin
+- \bios\sega_101.bin
+- \bios\sgb2_boot.bin
+- \bios\sgb_bios.bin
+- \bios\sgb_boot.bin
+- \bios\SL31253.bin
+- \bios\SL31254.bin
+- \bios\SL90025.bin
+- \bios\STBIOS.bin
+- \bios\stvbios.zip
+- \bios\syscard1.pce
+- \bios\syscard2.pce
+- \bios\syscard3.pce
+- \bios\teleass.rom
+- \bios\telmon24.rom
+- \bios\tos.img
+- \bios\upd7801g.s01
+- \bios\amiga\whdl\C\DIC
+- \bios\amiga\whdl\C\exitemu
+- \bios\amiga\whdl\C\Patcher
+- \bios\amiga\whdl\C\RawDIC
+- \bios\amiga\whdl\C\uaequit
+- \bios\amiga\whdl\C\WHDLoad
+- \bios\amiga\whdl\Devs\Kickstarts\kick33180.A500.RTB
+- \bios\amiga\whdl\Devs\Kickstarts\kick33192.A500.RTB
+- \bios\amiga\whdl\Devs\Kickstarts\kick34005.A500.RTB
+- \bios\amiga\whdl\Devs\Kickstarts\kick40068.A1200.RTB
+- \bios\amiga\whdl\S\WHDLoad-Cleanup
+- \bios\amiga\whdl\S\WHDLoad-Startup
+- \bios\amiga\whdl\S\WHDLoad.prefs
+- \bios\atarist\emutos.img
+- \bios\atarist\falcon.img
+- \bios\atarist\megaste.img
+- \bios\atarist\st.img
+- \bios\atarist\ste.img
+- \bios\atarist\tos.img
+- \bios\atarist\tt.img
+- \bios\bk\B11M_BOS.ROM
+- \bios\bk\B11M_EXT.ROM
+- \bios\bk\BAS11M_0.ROM
+- \bios\bk\BAS11M_1.ROM
+- \bios\bk\Disk_327.rom
+- \bios\bk\FOCAL10.ROM
+- \bios\bk\MONIT10.ROM
+- \bios\cdi\cdibios.zip
+- \bios\cdi\cdimono1.zip
+- \bios\cdi\cdimono2.zip
+- \bios\coleco\boot.rom
+- \bios\creativision\bioscv.rom
+- \bios\creativision\cslbios.rom
+- \bios\creativision\cslbiossm.rom
+- \bios\creativision\disk.rom
+- \bios\creativision\laser2001.rom
+- \bios\creativision\saloram.rom
+- \bios\Databases\colecodb.xml
+- \bios\Databases\msxcaswavdb.xml
+- \bios\Databases\msxromdb.xml
+- \bios\Databases\msxsysromdb.xml
+- \bios\Databases\segadb.xml
+- \bios\Databases\svidb.xml
+- \bios\dc\airlbios.zip
+- \bios\dc\Atomiswave-0.220_NoClones_V1.0 barhi.dat.7z
+- \bios\dc\Atomiswave-0.239_NoClones_V1.0 barhi.zip
+- \bios\dc\Atomiswave_datfiles.zip
+- \bios\dc\awbios.zip
+- \bios\dc\dc_boot.bin
+- \bios\dc\dc_flash.bin
+- \bios\dc\f355bios.zip
+- \bios\dc\f355dlx.zip
+- \bios\dc\hod2bios.zip
+- \bios\dc\Naomi-0.220_NoClones_V1.0 barhi.dat.7z
+- \bios\dc\Naomi-0.239_NoClones_V1.0 barhi.zip
+- \bios\dc\naomi.zip
+- \bios\dc\naomi2.zip
+- \bios\dc\NaomiGd-0.220_NoClones_V1.0 barhi.dat.7z
+- \bios\dc\NaomiGd-0.239_NoClones_V1.0 barhi.zip
+- \bios\dc\naomigd.zip
+- \bios\dc\Naomi_datfiles.zip
+- \bios\dragon\d200rom1.rom
+- \bios\dragon\d200rom2.rom
+- \bios\dragon\d32.rom
+- \bios\dragon\d64rom1.rom
+- \bios\dragon\d64rom2.rom
+- \bios\dragon\d64tano.rom
+- \bios\dragon\d64tano2.rom
+- \bios\dragon\ddos10.rom
+- \bios\dragon\ddos11c.rom
+- \bios\dragon\ddos12a.rom
+- \bios\dragon\ddos40.rom
+- \bios\dragon\ddos42.rom
+- \bios\dragon\deltados.rom
+- \bios\dragon\dplus48.rom
+- \bios\dragon\dplus49b.rom
+- \bios\dragon\dplus50.rom
+- \bios\dragon\sdose6.rom
+- \bios\dragon\sdose8.rom
+- \bios\fba\fba_029671_od_release_10_working_roms.dat
+- \bios\fba\fba_029671_od_release_10_working_roms_filtered.dat
+- \bios\fba\piFBA_gamelist.txt
+- \bios\fbneo\FinalBurn Neo (ClrMame Pro XML, Arcade only).dat
+- \bios\fbneo\FinalBurn Neo (ClrMame Pro XML, ColecoVision only).dat
+- \bios\fbneo\FinalBurn Neo (ClrMame Pro XML, Fairchild Channel F Games only).dat
+- \bios\fbneo\FinalBurn Neo (ClrMame Pro XML, FDS Games only).dat
+- \bios\fbneo\FinalBurn Neo (ClrMame Pro XML, Game Gear only).dat
+- \bios\fbneo\FinalBurn Neo (ClrMame Pro XML, Master System only).dat
+- \bios\fbneo\FinalBurn Neo (ClrMame Pro XML, Megadrive only).dat
+- \bios\fbneo\FinalBurn Neo (ClrMame Pro XML, MSX 1 Games only).dat
+- \bios\fbneo\FinalBurn Neo (ClrMame Pro XML, Neogeo only).dat
+- \bios\fbneo\FinalBurn Neo (ClrMame Pro XML, NeoGeo Pocket Games only).dat
+- \bios\fbneo\FinalBurn Neo (ClrMame Pro XML, NES Games only).dat
+- \bios\fbneo\FinalBurn Neo (ClrMame Pro XML, PC-Engine only).dat
+- \bios\fbneo\FinalBurn Neo (ClrMame Pro XML, Sega SG-1000 only).dat
+- \bios\fbneo\FinalBurn Neo (ClrMame Pro XML, SuprGrafx only).dat
+- \bios\fbneo\FinalBurn Neo (ClrMame Pro XML, TurboGrafx16 only).dat
+- \bios\fbneo\FinalBurn Neo (ClrMame Pro XML, ZX Spectrum Games only).dat
+- \bios\fbneo\hiscore.dat
+- \bios\fbneo\light\FinalBurn Neo Light (ClrMame Pro XML, Arcade only).dat
+- \bios\fbneo\light\FinalBurn Neo Light (ClrMame Pro XML, ColecoVision only).dat
+- \bios\fbneo\light\FinalBurn Neo Light (ClrMame Pro XML, Fairchild Channel F Games only).dat
+- \bios\fbneo\light\FinalBurn Neo Light (ClrMame Pro XML, Game Gear only).dat
+- \bios\fbneo\light\FinalBurn Neo Light (ClrMame Pro XML, Master System only).dat
+- \bios\fbneo\light\FinalBurn Neo Light (ClrMame Pro XML, Megadrive only).dat
+- \bios\fbneo\light\FinalBurn Neo Light (ClrMame Pro XML, Neogeo only).dat
+- \bios\fbneo\light\FinalBurn Neo Light (ClrMame Pro XML, NeoGeo Pocket Games only).dat
+- \bios\fbneo\light\FinalBurn Neo Light (ClrMame Pro XML, Sega SG-1000 only).dat
+- \bios\fbneo\light\README.md
+- \bios\fuse\128p-0.rom
+- \bios\fuse\128p-1.rom
+- \bios\fuse\256s-0.rom
+- \bios\fuse\256s-1.rom
+- \bios\fuse\256s-2.rom
+- \bios\fuse\256s-3.rom
+- \bios\fuse\gluck.rom
+- \bios\fuse\trdos.rom
+- \bios\gamecube\EUR\.gitkeep
+- \bios\gamecube\EUR\IPL.bin
+- \bios\gamecube\JAP\.gitkeep
+- \bios\gamecube\JAP\IPL.bin
+- \bios\gamecube\USA\.gitkeep
+- \bios\gamecube\USA\IPL.bin
+- \bios\gba\open_gba_bios.bin
+- \bios\geolith\aes.zip
+- \bios\geolith\neogeo.zip
+- \bios\keropi\cgrom.dat
+- \bios\keropi\config
+- \bios\keropi\iplrom.dat
+- \bios\keropi\iplrom30.dat
+- \bios\keropi\iplromco.dat
+- \bios\keropi\iplromxv.dat
+- \bios\Machines\COL - Bit Corporation Dina\config.ini
+- \bios\Machines\COL - Bit Corporation Dina\czz50-1.rom
+- \bios\Machines\COL - Bit Corporation Dina\czz50-2.rom
+- \bios\Machines\COL - ColecoVision\coleco.rom
+- \bios\Machines\COL - ColecoVision\config.ini
+- \bios\Machines\COL - ColecoVision with Opcode Memory Extension\coleco.rom
+- \bios\Machines\COL - ColecoVision with Opcode Memory Extension\config.ini
+- \bios\Machines\COL - Spectravideo SVI-603 Coleco\config.ini
+- \bios\Machines\COL - Spectravideo SVI-603 Coleco\SVI603.ROM
+- \bios\Machines\Forte II Games - Pesadelo\config.ini
+- \bios\Machines\Forte II Games - Pesadelo\pesadelo.rom
+- \bios\Machines\MSX\config.ini
+- \bios\Machines\MSX - Al Alamiah AX-170\config.ini
+- \bios\Machines\MSX - Arabic\config.ini
+- \bios\Machines\MSX - Brazilian\config.ini
+- \bios\Machines\MSX - C-BIOS\cbios.txt
+- \bios\Machines\MSX - C-BIOS\cbios_logo_msx1.rom
+- \bios\Machines\MSX - C-BIOS\cbios_main_msx1.rom
+- \bios\Machines\MSX - C-BIOS\config.ini
+- \bios\Machines\MSX - Canon V-10\config.ini
+- \bios\Machines\MSX - Canon V-20\config.ini
+- \bios\Machines\MSX - Daewoo DPC-100\config.ini
+- \bios\Machines\MSX - Daewoo DPC-180\config.ini
+- \bios\Machines\MSX - Daewoo DPC-200\config.ini
+- \bios\Machines\MSX - Daewoo DPC-200E\config.ini
+- \bios\Machines\MSX - Estonian\config.ini
+- \bios\Machines\MSX - Frael Bruc 100-1\config.ini
+- \bios\Machines\MSX - French\config.ini
+- \bios\Machines\MSX - German\config.ini
+- \bios\Machines\MSX - Goldstar FC-200\config.ini
+- \bios\Machines\MSX - Gradiente Expert 1.0\config.ini
+- \bios\Machines\MSX - Gradiente Expert 1.1\config.ini
+- \bios\Machines\MSX - Gradiente Expert 1.3\config.ini
+- \bios\Machines\MSX - Gradiente Expert DDPlus\config.ini
+- \bios\Machines\MSX - Gradiente Expert Plus\config.ini
+- \bios\Machines\MSX - Japanese\config.ini
+- \bios\Machines\MSX - JVC HC-7GB\config.ini
+- \bios\Machines\MSX - Korean\config.ini
+- \bios\Machines\MSX - Mitsubishi ML-F80\config.ini
+- \bios\Machines\MSX - Mitsubishi ML-FX1\config.ini
+- \bios\Machines\MSX - National CF-1200\config.ini
+- \bios\Machines\MSX - National CF-2000\config.ini
+- \bios\Machines\MSX - National CF-2700\config.ini
+- \bios\Machines\MSX - National CF-3000\config.ini
+- \bios\Machines\MSX - National CF-3300\config.ini
+- \bios\Machines\MSX - National FS-1300\config.ini
+- \bios\Machines\MSX - National FS-4000\config.ini
+- \bios\Machines\MSX - Olympia PHC-2\config.ini
+- \bios\Machines\MSX - Olympia PHC-28\config.ini
+- \bios\Machines\MSX - Panasonic CF-2700G\config.ini
+- \bios\Machines\MSX - Philips NMS-801\config.ini
+- \bios\Machines\MSX - Philips VG-8000\config.ini
+- \bios\Machines\MSX - Philips VG-8010\config.ini
+- \bios\Machines\MSX - Philips VG-8010F\config.ini
+- \bios\Machines\MSX - Philips VG-8020-00\config.ini
+- \bios\Machines\MSX - Philips VG-8020-20\config.ini
+- \bios\Machines\MSX - Philips VG-8020F\config.ini
+- \bios\Machines\MSX - Pioneer PX-7\config.ini
+- \bios\Machines\MSX - Pioneer PX-V60\config.ini
+- \bios\Machines\MSX - Russian\config.ini
+- \bios\Machines\MSX - Sanyo MPC-100\config.ini
+- \bios\Machines\MSX - Sanyo MPC-64\config.ini
+- \bios\Machines\MSX - Sanyo PHC-28L\config.ini
+- \bios\Machines\MSX - Sanyo PHC-28S\config.ini
+- \bios\Machines\MSX - Sanyo Wavy MPC-10\config.ini
+- \bios\Machines\MSX - Sharp Epcom HotBit 1.1\config.ini
+- \bios\Machines\MSX - Sharp Epcom HotBit 1.2\config.ini
+- \bios\Machines\MSX - Sharp Epcom HotBit 1.3b\config.ini
+- \bios\Machines\MSX - Sharp Epcom HotBit 1.3p\config.ini
+- \bios\Machines\MSX - Sony HB-10P\config.ini
+- \bios\Machines\MSX - Sony HB-201\config.ini
+- \bios\Machines\MSX - Sony HB-201P\config.ini
+- \bios\Machines\MSX - Sony HB-20P\config.ini
+- \bios\Machines\MSX - Sony HB-501P\config.ini
+- \bios\Machines\MSX - Sony HB-55D\config.ini
+- \bios\Machines\MSX - Sony HB-55P\config.ini
+- \bios\Machines\MSX - Sony HB-75D\config.ini
+- \bios\Machines\MSX - Sony HB-75P\config.ini
+- \bios\Machines\MSX - Spanish\config.ini
+- \bios\Machines\MSX - Spectravideo SVI-728\config.ini
+- \bios\Machines\MSX - Spectravideo SVI-738\config.ini
+- \bios\Machines\MSX - Spectravideo SVI-738 Henrik Gilvad\config.ini
+- \bios\Machines\MSX - Spectravideo SVI-738 Swedish\config.ini
+- \bios\Machines\MSX - Swedish\config.ini
+- \bios\Machines\MSX - Talent DPC-200\config.ini
+- \bios\Machines\MSX - Talent DPC-200A\config.ini
+- \bios\Machines\MSX - Toshiba HX-10\config.ini
+- \bios\Machines\MSX - Toshiba HX-10S\config.ini
+- \bios\Machines\MSX - Toshiba HX-20\config.ini
+- \bios\Machines\MSX - Yamaha CX5M-1\config.ini
+- \bios\Machines\MSX - Yamaha CX5M-128\config.ini
+- \bios\Machines\MSX - Yamaha CX5M-2\config.ini
+- \bios\Machines\MSX - Yamaha CX5MII\config.ini
+- \bios\Machines\MSX - Yamaha YIS303\config.ini
+- \bios\Machines\MSX - Yamaha YIS503\config.ini
+- \bios\Machines\MSX - Yamaha YIS503F\config.ini
+- \bios\Machines\MSX - Yamaha YIS503II\config.ini
+- \bios\Machines\MSX - Yamaha YIS503IIR\config.ini
+- \bios\Machines\MSX - Yamaha YIS503IIR Estonian\config.ini
+- \bios\Machines\MSX - Yamaha YIS503M\config.ini
+- \bios\Machines\MSX - Yashica YC-64\config.ini
+- \bios\Machines\MSX - Yeno DPC-64\config.ini
+- \bios\Machines\MSX - Yeno MX64\config.ini
+- \bios\Machines\MSX2\config.ini
+- \bios\Machines\MSX2 - Al Alamiah AX-350\config.ini
+- \bios\Machines\MSX2 - Al Alamiah AX-370\config.ini
+- \bios\Machines\MSX2 - Arabic\config.ini
+- \bios\Machines\MSX2 - Brazilian\config.ini
+- \bios\Machines\MSX2 - C-BIOS\cbios.txt
+- \bios\Machines\MSX2 - C-BIOS\cbios_logo_msx2.rom
+- \bios\Machines\MSX2 - C-BIOS\cbios_main_msx2.rom
+- \bios\Machines\MSX2 - C-BIOS\cbios_sub.rom
+- \bios\Machines\MSX2 - C-BIOS\config.ini
+- \bios\Machines\MSX2 - Daewoo CPC-300\config.ini
+- \bios\Machines\MSX2 - Daewoo CPC-300E\config.ini
+- \bios\Machines\MSX2 - Daewoo CPC-400\config.ini
+- \bios\Machines\MSX2 - Daewoo CPC-400S\config.ini
+- \bios\Machines\MSX2 - Estonian\config.ini
+- \bios\Machines\MSX2 - French\config.ini
+- \bios\Machines\MSX2 - German\config.ini
+- \bios\Machines\MSX2 - Gradiente Expert 2.0\config.ini
+- \bios\Machines\MSX2 - Japanese\config.ini
+- \bios\Machines\MSX2 - Korean\config.ini
+- \bios\Machines\MSX2 - National FS-4500\config.ini
+- \bios\Machines\MSX2 - National FS-4600\config.ini
+- \bios\Machines\MSX2 - National FS-4700\config.ini
+- \bios\Machines\MSX2 - National FS-5000\config.ini
+- \bios\Machines\MSX2 - National FS-5500F1\config.ini
+- \bios\Machines\MSX2 - National FS-5500F2\config.ini
+- \bios\Machines\MSX2 - Only PSG\config.ini
+- \bios\Machines\MSX2 - Panasonic FS-A1\config.ini
+- \bios\Machines\MSX2 - Panasonic FS-A1 (a)\config.ini
+- \bios\Machines\MSX2 - Panasonic FS-A1F\config.ini
+- \bios\Machines\MSX2 - Panasonic FS-A1FM\config.ini
+- \bios\Machines\MSX2 - Panasonic FS-A1MK2\config.ini
+- \bios\Machines\MSX2 - Philips NMS-8220\config.ini
+- \bios\Machines\MSX2 - Philips NMS-8220 (a)\config.ini
+- \bios\Machines\MSX2 - Philips NMS-8245\config.ini
+- \bios\Machines\MSX2 - Philips NMS-8245F\config.ini
+- \bios\Machines\MSX2 - Philips NMS-8250\config.ini
+- \bios\Machines\MSX2 - Philips NMS-8255\config.ini
+- \bios\Machines\MSX2 - Philips NMS-8280\config.ini
+- \bios\Machines\MSX2 - Philips NMS-8280G\config.ini
+- \bios\Machines\MSX2 - Philips VG-8230\config.ini
+- \bios\Machines\MSX2 - Philips VG-8235\config.ini
+- \bios\Machines\MSX2 - Philips VG-8235F\config.ini
+- \bios\Machines\MSX2 - Philips VG-8240\config.ini
+- \bios\Machines\MSX2 - Russian\config.ini
+- \bios\Machines\MSX2 - Sanyo Wavy MPC-25FD\config.ini
+- \bios\Machines\MSX2 - Sanyo Wavy PHC-23\config.ini
+- \bios\Machines\MSX2 - Sharp Epcom HotBit 2.0\config.ini
+- \bios\Machines\MSX2 - Sony HB-F1\config.ini
+- \bios\Machines\MSX2 - Sony HB-F1II\config.ini
+- \bios\Machines\MSX2 - Sony HB-F1XD\config.ini
+- \bios\Machines\MSX2 - Sony HB-F1XDMK2\config.ini
+- \bios\Machines\MSX2 - Sony HB-F500\config.ini
+- \bios\Machines\MSX2 - Sony HB-F500P\config.ini
+- \bios\Machines\MSX2 - Sony HB-F700D\config.ini
+- \bios\Machines\MSX2 - Sony HB-F700F\config.ini
+- \bios\Machines\MSX2 - Sony HB-F700P\config.ini
+- \bios\Machines\MSX2 - Sony HB-F700S\config.ini
+- \bios\Machines\MSX2 - Sony HB-F900\config.ini
+- \bios\Machines\MSX2 - Sony HB-F900 (a)\config.ini
+- \bios\Machines\MSX2 - Sony HB-F9P\config.ini
+- \bios\Machines\MSX2 - Sony HB-F9P Russian\config.ini
+- \bios\Machines\MSX2 - Sony HB-F9S\config.ini
+- \bios\Machines\MSX2 - Sony HB-G900AP\config.ini
+- \bios\Machines\MSX2 - Sony HB-G900P\config.ini
+- \bios\Machines\MSX2 - Spanish\config.ini
+- \bios\Machines\MSX2 - Spectravideo SVI-738-2 CUC\config.ini
+- \bios\Machines\MSX2 - Spectravideo SVI-738-2 JP Grobler\config.ini
+- \bios\Machines\MSX2 - Spectravideo SVI-738-2 LC Grosso\config.ini
+- \bios\Machines\MSX2 - Swedish\config.ini
+- \bios\Machines\MSX2 - Talent TPC-310\config.ini
+- \bios\Machines\MSX2 - Toshiba HX-23\config.ini
+- \bios\Machines\MSX2 - Toshiba HX-23F\config.ini
+- \bios\Machines\MSX2 - Virtual Haesung Console\config.ini
+- \bios\Machines\MSX2 - Yamaha CX7M\config.ini
+- \bios\Machines\MSX2 - Yamaha CX7M-128\config.ini
+- \bios\Machines\MSX2+\config.ini
+- \bios\Machines\MSX2+ - Brazilian\config.ini
+- \bios\Machines\MSX2+ - C-BIOS\cbios.txt
+- \bios\Machines\MSX2+ - C-BIOS\cbios_logo_msx2+.rom
+- \bios\Machines\MSX2+ - C-BIOS\cbios_main_msx2+.rom
+- \bios\Machines\MSX2+ - C-BIOS\cbios_music.rom
+- \bios\Machines\MSX2+ - C-BIOS\cbios_sub.rom
+- \bios\Machines\MSX2+ - C-BIOS\config.ini
+- \bios\Machines\MSX2+ - Ciel Expert 3 IDE\config.ini
+- \bios\Machines\MSX2+ - Ciel Expert 3 Turbo\config.ini
+- \bios\Machines\MSX2+ - European\config.ini
+- \bios\Machines\MSX2+ - European\KANJI.rom
+- \bios\Machines\MSX2+ - European\Msx2pe.rom
+- \bios\Machines\MSX2+ - European\Msx2pexte.rom
+- \bios\Machines\MSX2+ - European\MSX2PMUS.rom
+- \bios\Machines\MSX2+ - European\MSXKANJI.rom
+- \bios\Machines\MSX2+ - European\PANASONICDISK.rom
+- \bios\Machines\MSX2+ - European\XBASIC2.rom
+- \bios\Machines\MSX2+ - Gradiente Expert AC88+\config.ini
+- \bios\Machines\MSX2+ - Gradiente Expert DDX+\config.ini
+- \bios\Machines\MSX2+ - MSXPLAYer 2003\config.ini
+- \bios\Machines\MSX2+ - Panasonic FS-A1FX\config.ini
+- \bios\Machines\MSX2+ - Panasonic FS-A1WSX\config.ini
+- \bios\Machines\MSX2+ - Panasonic FS-A1WX\config.ini
+- \bios\Machines\MSX2+ - Panasonic FS-A1WX (a)\config.ini
+- \bios\Machines\MSX2+ - Sanyo Wavy PHC-35J\config.ini
+- \bios\Machines\MSX2+ - Sanyo Wavy PHC-70FD1\config.ini
+- \bios\Machines\MSX2+ - Sanyo Wavy PHC-70FD2\config.ini
+- \bios\Machines\MSX2+ - Sony HB-F1XDJ\config.ini
+- \bios\Machines\MSX2+ - Sony HB-F1XV\config.ini
+- \bios\Machines\MSX2+ - Sony HB-F9S+\config.ini
+- \bios\Machines\MSXturboR\config.ini
+- \bios\Machines\MSXturboR - European\config.ini
+- \bios\Machines\MSXturboR - Panasonic FS-A1GT\config.ini
+- \bios\Machines\MSXturboR - Panasonic FS-A1ST\config.ini
+- \bios\Machines\MSXturboR - Panasonic FS-A1ST (a)\config.ini
+- \bios\Machines\MSXturboR - Panasonic FS-A1ST (b)\config.ini
+- \bios\Machines\SEGA - SC-3000\config.ini
+- \bios\Machines\SEGA - SF-7000\config.ini
+- \bios\Machines\SEGA - SF-7000\sf7000.rom
+- \bios\Machines\SEGA - SG-1000\config.ini
+- \bios\Machines\Shared Roms\ARAB1.ROM
+- \bios\Machines\Shared Roms\ARABIC.rom
+- \bios\Machines\Shared Roms\BEERIDE.ROM
+- \bios\Machines\Shared Roms\FMPAC.rom
+- \bios\Machines\Shared Roms\GCVMX80.ROM
+- \bios\Machines\Shared Roms\HANGUL.rom
+- \bios\Machines\Shared Roms\KANJI.rom
+- \bios\Machines\Shared Roms\MICROSOLDISK.ROM
+- \bios\Machines\Shared Roms\MOONSOUND.rom
+- \bios\Machines\Shared Roms\MSX.rom
+- \bios\Machines\Shared Roms\MSX2.rom
+- \bios\Machines\Shared Roms\MSX2AR.ROM
+- \bios\Machines\Shared Roms\MSX2AREXT.ROM
+- \bios\Machines\Shared Roms\MSX2BR.rom
+- \bios\Machines\Shared Roms\MSX2BREXT.rom
+- \bios\Machines\Shared Roms\MSX2EXT.rom
+- \bios\Machines\Shared Roms\MSX2FR.rom
+- \bios\Machines\Shared Roms\MSX2FREXT.rom
+- \bios\Machines\Shared Roms\MSX2G.rom
+- \bios\Machines\Shared Roms\MSX2GEXT.rom
+- \bios\Machines\Shared Roms\MSX2HAN.rom
+- \bios\Machines\Shared Roms\MSX2J.rom
+- \bios\Machines\Shared Roms\MSX2JEXT.rom
+- \bios\Machines\Shared Roms\MSX2KR.rom
+- \bios\Machines\Shared Roms\MSX2KREXT.rom
+- \bios\Machines\Shared Roms\MSX2P.rom
+- \bios\Machines\Shared Roms\MSX2PEXT.rom
+- \bios\Machines\Shared Roms\MSX2PMUS.rom
+- \bios\Machines\Shared Roms\MSX2R.rom
+- \bios\Machines\Shared Roms\MSX2R2.ROM
+- \bios\Machines\Shared Roms\MSX2REXT.rom
+- \bios\Machines\Shared Roms\MSX2SE.rom
+- \bios\Machines\Shared Roms\MSX2SP.rom
+- \bios\Machines\Shared Roms\MSX2SPEXT.rom
+- \bios\Machines\Shared Roms\MSXAR.ROM
+- \bios\Machines\Shared Roms\MSXBR.rom
+- \bios\Machines\Shared Roms\MSXDOS23.ROM
+- \bios\Machines\Shared Roms\MSXFR.rom
+- \bios\Machines\Shared Roms\MSXG.rom
+- \bios\Machines\Shared Roms\MSXHAN.rom
+- \bios\Machines\Shared Roms\MSXJ.rom
+- \bios\Machines\Shared Roms\MSXKANJI.rom
+- \bios\Machines\Shared Roms\MSXKR.rom
+- \bios\Machines\Shared Roms\MSXR.rom
+- \bios\Machines\Shared Roms\MSXR2.ROM
+- \bios\Machines\Shared Roms\MSXSE.ROM
+- \bios\Machines\Shared Roms\MSXSP.rom
+- \bios\Machines\Shared Roms\MSXTR.ROM
+- \bios\Machines\Shared Roms\MSXTREXT.ROM
+- \bios\Machines\Shared Roms\MSXTRMUS.ROM
+- \bios\Machines\Shared Roms\MSXTROPT.ROM
+- \bios\Machines\Shared Roms\NATIONALDISK.rom
+- \bios\Machines\Shared Roms\NOVAXIS.rom
+- \bios\Machines\Shared Roms\nowindDos1.rom
+- \bios\Machines\Shared Roms\nowindDos2.rom
+- \bios\Machines\Shared Roms\PAINT.rom
+- \bios\Machines\Shared Roms\PANASONICDISK.rom
+- \bios\Machines\Shared Roms\PHILIPSDISK.rom
+- \bios\Machines\Shared Roms\RS232.ROM
+- \bios\Machines\Shared Roms\Shared.txt
+- \bios\Machines\Shared Roms\SUNRISEIDE.rom
+- \bios\Machines\Shared Roms\SWP.rom
+- \bios\Machines\Shared Roms\XBASIC2.rom
+- \bios\Machines\SVI - Spectravideo SVI-318\config.ini
+- \bios\Machines\SVI - Spectravideo SVI-318\svi318.rom
+- \bios\Machines\SVI - Spectravideo SVI-328\config.ini
+- \bios\Machines\SVI - Spectravideo SVI-328\svi328.rom
+- \bios\Machines\SVI - Spectravideo SVI-328 80 Column\config.ini
+- \bios\Machines\SVI - Spectravideo SVI-328 80 Column\svi328a.rom
+- \bios\Machines\SVI - Spectravideo SVI-328 80 Column\svi806.rom
+- \bios\Machines\SVI - Spectravideo SVI-328 80 Swedish\config.ini
+- \bios\Machines\SVI - Spectravideo SVI-328 80 Swedish\svi328a.rom
+- \bios\Machines\SVI - Spectravideo SVI-328 80 Swedish\svi806se.rom
+- \bios\Machines\SVI - Spectravideo SVI-328 MK2\config.ini
+- \bios\Machines\SVI - Spectravideo SVI-328 MK2\svi328a.rom
+- \bios\Machines\SVI - Spectravideo SVI-328 MK2\svi806.rom
+- \bios\macintosh\MacII.ROM
+- \bios\macintosh\MinivMacBootv2.dsk
+- \bios\mame\Mame-0.220_NoClones_V1.0 barhi.dat.7z
+- \bios\mame\Mame-0.220_V1.0 barhi.7z
+- \bios\mame\Mame-0.239_NoClones_V1.0 barhi.zip
+- \bios\mame\Mame-0.239_V1.0 barhi.zip
+- \bios\mame2000\catver.ini
+- \bios\mame2000\cheat.dat
+- \bios\mame2000\hiscore.dat
+- \bios\mame2000\MAME 0.37b5 XML.dat
+- \bios\mame2000\MAME 2000 Not-Working Gamelist.txt
+- \bios\mame2003\catver.ini
+- \bios\mame2003\cheat.dat
+- \bios\mame2003\hiscore.dat
+- \bios\mame2003\mame2003.xml
+- \bios\mame2003-plus\catver.ini
+- \bios\mame2003-plus\cheat.dat
+- \bios\mame2003-plus\hiscore.dat
+- \bios\mame2003-plus\history.dat
+- \bios\mame2003-plus\mame2003-plus.xml
+- \bios\mame2003-plus\artwork\blueshrk.zip
+- \bios\mame2003-plus\artwork\frogs.zip
+- \bios\mame2003-plus\artwork\invaders.zip
+- \bios\mame2003-plus\artwork\omegrace.zip
+- \bios\mame2003-plus\artwork\skydiver.zip
+- \bios\mame2003-plus\artwork\solarq.zip
+- \bios\mame2003-plus\artwork\warrior.zip
+- \bios\mame2010\catver.ini
+- \bios\mame2010\cheat-origin-docs-and-credits.txt
+- \bios\mame2010\cheat.zip
+- \bios\mame2010\hiscore.dat
+- \bios\mame2010\mame2010.xml
+- \bios\mame2015\catver.ini
+- \bios\mame2015\cheat-origin-docs-and-credits.txt
+- \bios\mame2015\cheat.7z
+- \bios\mame2015\hiscore.dat
+- \bios\mame2015\mame2014-xml.zip
+- \bios\mame2015\mame2015-xml.zip
+- \bios\Mupen64plus\IPL.n64
+- \bios\neocd\000-lo.lo
+- \bios\neocd\front-sp1.bin
+- \bios\neocd\neocd.bin
+- \bios\neocd\neocd_f.rom
+- \bios\neocd\neocd_sf.rom
+- \bios\neocd\neocd_st.rom
+- \bios\neocd\neocd_sz.rom
+- \bios\neocd\neocd_t.rom
+- \bios\neocd\neocd_z.rom
+- \bios\neocd\ng-lo.rom
+- \bios\neocd\top-sp1.bin
+- \bios\neocd\uni-bioscd.rom
+- \bios\np2kai\2608_bd.wav
+- \bios\np2kai\2608_hh.wav
+- \bios\np2kai\2608_rim.wav
+- \bios\np2kai\2608_sd.wav
+- \bios\np2kai\2608_tom.wav
+- \bios\np2kai\2608_top.wav
+- \bios\np2kai\bios.rom
+- \bios\np2kai\font.bmp
+- \bios\np2kai\font.rom
+- \bios\np2kai\itf.rom
+- \bios\np2kai\sound.rom
+- \bios\oricutron\8dos2.rom
+- \bios\oricutron\Bas122de.pch
+- \bios\oricutron\Bas122fr.pch
+- \bios\oricutron\Bas122uk.pch
+- \bios\oricutron\basic10.pch
+- \bios\oricutron\basic10.rom
+- \bios\oricutron\basic11b.pch
+- \bios\oricutron\basic11b.rom
+- \bios\oricutron\bd500.rom
+- \bios\oricutron\empty_orix.rom
+- \bios\oricutron\hyperbas.rom
+- \bios\oricutron\jasmin.rom
+- \bios\oricutron\kernel.rom
+- \bios\oricutron\microdis.rom
+- \bios\oricutron\pravetzt-1.0.pch
+- \bios\oricutron\pravetzt.pch
+- \bios\oricutron\pravetzt.rom
+- \bios\oricutron\shell.rom
+- \bios\oricutron\teleass.rom
+- \bios\oricutron\telmatic.rom
+- \bios\oricutron\telmon24.pch
+- \bios\oricutron\telmon24.rom
+- \bios\pcenginecd\gecard.pce
+- \bios\pcenginecd\gexpress.pce
+- \bios\pcenginecd\syscard1.pce
+- \bios\pcenginecd\syscard2.pce
+- \bios\pcenginecd\syscard2u.pce
+- \bios\pcenginecd\syscard3.pce
+- \bios\pcenginecd\syscard3u.pce
+- \bios\prboom\prboom.wad
+- \bios\ps2\ps2-0230a-20080220.bin
+- \bios\ps2\ps2-0230e-20080220.bin
+- \bios\ps2\ps2-0230h-20080220.bin
+- \bios\ps2\ps2-0230j-20080220.bin
+- \bios\quasi88\disk.rom
+- \bios\quasi88\n88.rom
+- \bios\quasi88\n88jisho.rom
+- \bios\quasi88\n88knj1.rom
+- \bios\quasi88\n88knj2.rom
+- \bios\quasi88\n88n.rom
+- \bios\quasi88\n88_0.rom
+- \bios\quasi88\n88_1.rom
+- \bios\quasi88\n88_2.rom
+- \bios\quasi88\n88_3.rom
+- \bios\sgb\SGB1.sfc
+- \bios\sgb\SGB2.sfc
+- \bios\supermodel\Model3-0.235_NoClones_V1.0 barhi.zip
+- \bios\ti994a\spchrom.bin
+- \bios\ti994a\TI-994A.ctg
+- \bios\ti994a\ti-disk.ctg
+- \bios\trs80coco\alice32.rom
+- \bios\trs80coco\alice4k.rom
+- \bios\trs80coco\bas10.rom
+- \bios\trs80coco\bas11.rom
+- \bios\trs80coco\bas12.rom
+- \bios\trs80coco\bas13.rom
+- \bios\trs80coco\coco3.rom
+- \bios\trs80coco\coco3p.rom
+- \bios\trs80coco\disk10.rom
+- \bios\trs80coco\disk11.rom
+- \bios\trs80coco\extbas10.rom
+- \bios\trs80coco\extbas11.rom
+- \bios\trs80coco\hdbdw3bck.rom
+- \bios\trs80coco\mc10.rom
+- \bios\trs80coco\mx1600bas.rom
+- \bios\vice\JiffyDOS_1541-II.bin
+- \bios\vice\JiffyDOS_1571_repl310654.bin
+- \bios\vice\JiffyDOS_1581.bin
+- \bios\vice\JiffyDOS_C128.bin
+- \bios\vice\JiffyDOS_C64.bin
+- \bios\vice\SCPU64\scpu-dos-1.4.bin
+- \bios\vice\SCPU64\scpu-dos-2.04.bin
+- \bios\xmil\IPLROM.X1
+- \bios\xmil\IPLROM.X1T
+- \roms\neogeo\gamelist.xml
+- \roms\neogeo\neogeo.zip
+- \roms\neogeo\_lisezmoi.txt
+- \roms\neogeo\_readme.txt
+- \roms\neogeo\media\images\neogeo.png
+- \roms\neogeocd\gamelist.Missing.Serial.txt
+- \roms\neogeocd\gamelist.xml
+- \roms\neogeocd\neocdz.zip
+- \roms\neogeocd\_lisezmoi.txt
+- \roms\neogeocd\_readme.txt
+ 
+ 
+ 
+ 
+ 
+ 
