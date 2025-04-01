@@ -8,7 +8,7 @@ Toute l'actualité du rétrogaming est sur [**retrogaming.me**](https://retrogam
 # Bios Recalbox 9.2 (9.2.3) - Pulstar
 
 ## Description
-[**retrogaming.me**](https://retrogaming.me/) vous propose un pack de bios 100% vérifiés et compatibles avec Recalbox : 0 bios manquants.
+Pack de bios 100% vérifiés et compatibles avec Recalbox : 0 bios manquants.
 
 ## Installation
 
