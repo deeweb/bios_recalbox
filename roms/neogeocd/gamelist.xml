@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>neocdz.zip</path>
+		<players>0</players>
+		<hidden>true</hidden>
+		<name>neocdz</name>
+	</game>
+	<game>
+		<path>neogeo.zip</path>
+		<players>0</players>
+		<hidden>true</hidden>
+		<name>neogeo</name>
+	</game>
+</gameList>

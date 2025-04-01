@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>neogeo.zip</path>
+		<image>media/images/neogeo.png</image>
+		<hidden>true</hidden>
+		<name>ZZZ(notgame):Neogeo</name>
+	</game>
+</gameList>
