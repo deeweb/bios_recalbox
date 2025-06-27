@@ -5,7 +5,7 @@
 ## 🚀 retrogaming.me
 Plongez dans l'univers du rétrogaming, une époque où les pixels étaient rois !
 Toute l'actualité du rétrogaming est sur [**retrogaming.me**](https://retrogaming.me/).
-# Bios Recalbox 9.2 (9.2.3) - Pulstar
+# Bios Recalbox 10
 
 ## Description
 Pack de bios 100% vérifiés et compatibles avec Recalbox : 0 bios manquants.
@@ -194,7 +194,7 @@ Pack de bios 100% vérifiés et compatibles avec Recalbox : 0 bios manquants.
 - \bios\cdi\cdimono1.zip
 - \bios\cdi\cdimono2.zip
 - \bios\coleco\boot.rom
-- \bios\creativision\bioscv.rom
+- \bios\creativision- \bios\cv.rom
 - \bios\creativision\cslbios.rom
 - \bios\creativision\cslbiossm.rom
 - \bios\creativision\disk.rom
@@ -310,10 +310,10 @@ Pack de bios 100% vérifiés et compatibles avec Recalbox : 0 bios manquants.
 - \bios\Machines\MSX - Al Alamiah AX-170\config.ini
 - \bios\Machines\MSX - Arabic\config.ini
 - \bios\Machines\MSX - Brazilian\config.ini
-- \bios\Machines\MSX - C-BIOS\cbios.txt
-- \bios\Machines\MSX - C-BIOS\cbios_logo_msx1.rom
-- \bios\Machines\MSX - C-BIOS\cbios_main_msx1.rom
-- \bios\Machines\MSX - C-BIOS\config.ini
+- \bios\Machines\MSX - C-- \bios\cbios.txt
+- \bios\Machines\MSX - C-- \bios\cbios_logo_msx1.rom
+- \bios\Machines\MSX - C-- \bios\cbios_main_msx1.rom
+- \bios\Machines\MSX - C-- \bios\config.ini
 - \bios\Machines\MSX - Canon V-10\config.ini
 - \bios\Machines\MSX - Canon V-20\config.ini
 - \bios\Machines\MSX - Daewoo DPC-100\config.ini
@@ -403,11 +403,11 @@ Pack de bios 100% vérifiés et compatibles avec Recalbox : 0 bios manquants.
 - \bios\Machines\MSX2 - Al Alamiah AX-370\config.ini
 - \bios\Machines\MSX2 - Arabic\config.ini
 - \bios\Machines\MSX2 - Brazilian\config.ini
-- \bios\Machines\MSX2 - C-BIOS\cbios.txt
-- \bios\Machines\MSX2 - C-BIOS\cbios_logo_msx2.rom
-- \bios\Machines\MSX2 - C-BIOS\cbios_main_msx2.rom
-- \bios\Machines\MSX2 - C-BIOS\cbios_sub.rom
-- \bios\Machines\MSX2 - C-BIOS\config.ini
+- \bios\Machines\MSX2 - C-- \bios\cbios.txt
+- \bios\Machines\MSX2 - C-- \bios\cbios_logo_msx2.rom
+- \bios\Machines\MSX2 - C-- \bios\cbios_main_msx2.rom
+- \bios\Machines\MSX2 - C-- \bios\cbios_sub.rom
+- \bios\Machines\MSX2 - C-- \bios\config.ini
 - \bios\Machines\MSX2 - Daewoo CPC-300\config.ini
 - \bios\Machines\MSX2 - Daewoo CPC-300E\config.ini
 - \bios\Machines\MSX2 - Daewoo CPC-400\config.ini
@@ -476,12 +476,12 @@ Pack de bios 100% vérifiés et compatibles avec Recalbox : 0 bios manquants.
 - \bios\Machines\MSX2 - Yamaha CX7M-128\config.ini
 - \bios\Machines\MSX2+\config.ini
 - \bios\Machines\MSX2+ - Brazilian\config.ini
-- \bios\Machines\MSX2+ - C-BIOS\cbios.txt
-- \bios\Machines\MSX2+ - C-BIOS\cbios_logo_msx2+.rom
-- \bios\Machines\MSX2+ - C-BIOS\cbios_main_msx2+.rom
-- \bios\Machines\MSX2+ - C-BIOS\cbios_music.rom
-- \bios\Machines\MSX2+ - C-BIOS\cbios_sub.rom
-- \bios\Machines\MSX2+ - C-BIOS\config.ini
+- \bios\Machines\MSX2+ - C-- \bios\cbios.txt
+- \bios\Machines\MSX2+ - C-- \bios\cbios_logo_msx2+.rom
+- \bios\Machines\MSX2+ - C-- \bios\cbios_main_msx2+.rom
+- \bios\Machines\MSX2+ - C-- \bios\cbios_music.rom
+- \bios\Machines\MSX2+ - C-- \bios\cbios_sub.rom
+- \bios\Machines\MSX2+ - C-- \bios\config.ini
 - \bios\Machines\MSX2+ - Ciel Expert 3 IDE\config.ini
 - \bios\Machines\MSX2+ - Ciel Expert 3 Turbo\config.ini
 - \bios\Machines\MSX2+ - European\config.ini
@@ -515,69 +515,69 @@ Pack de bios 100% vérifiés et compatibles avec Recalbox : 0 bios manquants.
 - \bios\Machines\SEGA - SF-7000\config.ini
 - \bios\Machines\SEGA - SF-7000\sf7000.rom
 - \bios\Machines\SEGA - SG-1000\config.ini
-- \bios\Machines\Shared Roms\ARAB1.ROM
-- \bios\Machines\Shared Roms\ARABIC.rom
-- \bios\Machines\Shared Roms\BEERIDE.ROM
-- \bios\Machines\Shared Roms\FMPAC.rom
-- \bios\Machines\Shared Roms\GCVMX80.ROM
-- \bios\Machines\Shared Roms\HANGUL.rom
-- \bios\Machines\Shared Roms\KANJI.rom
-- \bios\Machines\Shared Roms\MICROSOLDISK.ROM
-- \bios\Machines\Shared Roms\MOONSOUND.rom
-- \bios\Machines\Shared Roms\MSX.rom
-- \bios\Machines\Shared Roms\MSX2.rom
-- \bios\Machines\Shared Roms\MSX2AR.ROM
-- \bios\Machines\Shared Roms\MSX2AREXT.ROM
-- \bios\Machines\Shared Roms\MSX2BR.rom
-- \bios\Machines\Shared Roms\MSX2BREXT.rom
-- \bios\Machines\Shared Roms\MSX2EXT.rom
-- \bios\Machines\Shared Roms\MSX2FR.rom
-- \bios\Machines\Shared Roms\MSX2FREXT.rom
-- \bios\Machines\Shared Roms\MSX2G.rom
-- \bios\Machines\Shared Roms\MSX2GEXT.rom
-- \bios\Machines\Shared Roms\MSX2HAN.rom
-- \bios\Machines\Shared Roms\MSX2J.rom
-- \bios\Machines\Shared Roms\MSX2JEXT.rom
-- \bios\Machines\Shared Roms\MSX2KR.rom
-- \bios\Machines\Shared Roms\MSX2KREXT.rom
-- \bios\Machines\Shared Roms\MSX2P.rom
-- \bios\Machines\Shared Roms\MSX2PEXT.rom
-- \bios\Machines\Shared Roms\MSX2PMUS.rom
-- \bios\Machines\Shared Roms\MSX2R.rom
-- \bios\Machines\Shared Roms\MSX2R2.ROM
-- \bios\Machines\Shared Roms\MSX2REXT.rom
-- \bios\Machines\Shared Roms\MSX2SE.rom
-- \bios\Machines\Shared Roms\MSX2SP.rom
-- \bios\Machines\Shared Roms\MSX2SPEXT.rom
-- \bios\Machines\Shared Roms\MSXAR.ROM
-- \bios\Machines\Shared Roms\MSXBR.rom
-- \bios\Machines\Shared Roms\MSXDOS23.ROM
-- \bios\Machines\Shared Roms\MSXFR.rom
-- \bios\Machines\Shared Roms\MSXG.rom
-- \bios\Machines\Shared Roms\MSXHAN.rom
-- \bios\Machines\Shared Roms\MSXJ.rom
-- \bios\Machines\Shared Roms\MSXKANJI.rom
-- \bios\Machines\Shared Roms\MSXKR.rom
-- \bios\Machines\Shared Roms\MSXR.rom
-- \bios\Machines\Shared Roms\MSXR2.ROM
-- \bios\Machines\Shared Roms\MSXSE.ROM
-- \bios\Machines\Shared Roms\MSXSP.rom
-- \bios\Machines\Shared Roms\MSXTR.ROM
-- \bios\Machines\Shared Roms\MSXTREXT.ROM
-- \bios\Machines\Shared Roms\MSXTRMUS.ROM
-- \bios\Machines\Shared Roms\MSXTROPT.ROM
-- \bios\Machines\Shared Roms\NATIONALDISK.rom
-- \bios\Machines\Shared Roms\NOVAXIS.rom
-- \bios\Machines\Shared Roms\nowindDos1.rom
-- \bios\Machines\Shared Roms\nowindDos2.rom
-- \bios\Machines\Shared Roms\PAINT.rom
-- \bios\Machines\Shared Roms\PANASONICDISK.rom
-- \bios\Machines\Shared Roms\PHILIPSDISK.rom
-- \bios\Machines\Shared Roms\RS232.ROM
-- \bios\Machines\Shared Roms\Shared.txt
-- \bios\Machines\Shared Roms\SUNRISEIDE.rom
-- \bios\Machines\Shared Roms\SWP.rom
-- \bios\Machines\Shared Roms\XBASIC2.rom
+- \bios\Machines\Shared - \roms\ARAB1.ROM
+- \bios\Machines\Shared - \roms\ARABIC.rom
+- \bios\Machines\Shared - \roms\BEERIDE.ROM
+- \bios\Machines\Shared - \roms\FMPAC.rom
+- \bios\Machines\Shared - \roms\GCVMX80.ROM
+- \bios\Machines\Shared - \roms\HANGUL.rom
+- \bios\Machines\Shared - \roms\KANJI.rom
+- \bios\Machines\Shared - \roms\MICROSOLDISK.ROM
+- \bios\Machines\Shared - \roms\MOONSOUND.rom
+- \bios\Machines\Shared - \roms\MSX.rom
+- \bios\Machines\Shared - \roms\MSX2.rom
+- \bios\Machines\Shared - \roms\MSX2AR.ROM
+- \bios\Machines\Shared - \roms\MSX2AREXT.ROM
+- \bios\Machines\Shared - \roms\MSX2BR.rom
+- \bios\Machines\Shared - \roms\MSX2BREXT.rom
+- \bios\Machines\Shared - \roms\MSX2EXT.rom
+- \bios\Machines\Shared - \roms\MSX2FR.rom
+- \bios\Machines\Shared - \roms\MSX2FREXT.rom
+- \bios\Machines\Shared - \roms\MSX2G.rom
+- \bios\Machines\Shared - \roms\MSX2GEXT.rom
+- \bios\Machines\Shared - \roms\MSX2HAN.rom
+- \bios\Machines\Shared - \roms\MSX2J.rom
+- \bios\Machines\Shared - \roms\MSX2JEXT.rom
+- \bios\Machines\Shared - \roms\MSX2KR.rom
+- \bios\Machines\Shared - \roms\MSX2KREXT.rom
+- \bios\Machines\Shared - \roms\MSX2P.rom
+- \bios\Machines\Shared - \roms\MSX2PEXT.rom
+- \bios\Machines\Shared - \roms\MSX2PMUS.rom
+- \bios\Machines\Shared - \roms\MSX2R.rom
+- \bios\Machines\Shared - \roms\MSX2R2.ROM
+- \bios\Machines\Shared - \roms\MSX2REXT.rom
+- \bios\Machines\Shared - \roms\MSX2SE.rom
+- \bios\Machines\Shared - \roms\MSX2SP.rom
+- \bios\Machines\Shared - \roms\MSX2SPEXT.rom
+- \bios\Machines\Shared - \roms\MSXAR.ROM
+- \bios\Machines\Shared - \roms\MSXBR.rom
+- \bios\Machines\Shared - \roms\MSXDOS23.ROM
+- \bios\Machines\Shared - \roms\MSXFR.rom
+- \bios\Machines\Shared - \roms\MSXG.rom
+- \bios\Machines\Shared - \roms\MSXHAN.rom
+- \bios\Machines\Shared - \roms\MSXJ.rom
+- \bios\Machines\Shared - \roms\MSXKANJI.rom
+- \bios\Machines\Shared - \roms\MSXKR.rom
+- \bios\Machines\Shared - \roms\MSXR.rom
+- \bios\Machines\Shared - \roms\MSXR2.ROM
+- \bios\Machines\Shared - \roms\MSXSE.ROM
+- \bios\Machines\Shared - \roms\MSXSP.rom
+- \bios\Machines\Shared - \roms\MSXTR.ROM
+- \bios\Machines\Shared - \roms\MSXTREXT.ROM
+- \bios\Machines\Shared - \roms\MSXTRMUS.ROM
+- \bios\Machines\Shared - \roms\MSXTROPT.ROM
+- \bios\Machines\Shared - \roms\NATIONALDISK.rom
+- \bios\Machines\Shared - \roms\NOVAXIS.rom
+- \bios\Machines\Shared - \roms\nowindDos1.rom
+- \bios\Machines\Shared - \roms\nowindDos2.rom
+- \bios\Machines\Shared - \roms\PAINT.rom
+- \bios\Machines\Shared - \roms\PANASONICDISK.rom
+- \bios\Machines\Shared - \roms\PHILIPSDISK.rom
+- \bios\Machines\Shared - \roms\RS232.ROM
+- \bios\Machines\Shared - \roms\Shared.txt
+- \bios\Machines\Shared - \roms\SUNRISEIDE.rom
+- \bios\Machines\Shared - \roms\SWP.rom
+- \bios\Machines\Shared - \roms\XBASIC2.rom
 - \bios\Machines\SVI - Spectravideo SVI-318\config.ini
 - \bios\Machines\SVI - Spectravideo SVI-318\svi318.rom
 - \bios\Machines\SVI - Spectravideo SVI-328\config.ini
@@ -648,7 +648,7 @@ Pack de bios 100% vérifiés et compatibles avec Recalbox : 0 bios manquants.
 - \bios\np2kai\2608_sd.wav
 - \bios\np2kai\2608_tom.wav
 - \bios\np2kai\2608_top.wav
-- \bios\np2kai\bios.rom
+- \bios\np2kai- \bios\.rom
 - \bios\np2kai\font.bmp
 - \bios\np2kai\font.rom
 - \bios\np2kai\itf.rom
@@ -725,6 +725,8 @@ Pack de bios 100% vérifiés et compatibles avec Recalbox : 0 bios manquants.
 - \bios\vice\JiffyDOS_C64.bin
 - \bios\vice\SCPU64\scpu-dos-1.4.bin
 - \bios\vice\SCPU64\scpu-dos-2.04.bin
+- \bios\xbox\Complex_4627.bin
+- \bios\xbox\mcpx_1.0.bin
 - \bios\xmil\IPLROM.X1
 - \bios\xmil\IPLROM.X1T
 - \roms\neogeo\gamelist.xml
@@ -737,9 +739,4 @@ Pack de bios 100% vérifiés et compatibles avec Recalbox : 0 bios manquants.
 - \roms\neogeocd\neocdz.zip
 - \roms\neogeocd\_lisezmoi.txt
 - \roms\neogeocd\_readme.txt
- 
- 
- 
- 
- 
- 
+- \roms\ports\tamagotchi\tama.b

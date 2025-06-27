@@ -1,722 +1,724 @@
-Filename	Full Path	MD5	SHA1	CRC32
-32X_G_BIOS.BIN	 \bios\32X_G_BIOS.BIN	6a5433f6a132a2b683635819a6dcf085	dbebd76a448447cb6e524ac3cb0fd19fc065d944	5c12eae8
-32X_M_BIOS.BIN	 \bios\32X_M_BIOS.BIN	f88354ec482be09aeccd76a97bb75868	1e5b0b2441a4979b6966d942b20cc76c413b8c5e	dd9c46b8
-32X_S_BIOS.BIN	 \bios\32X_S_BIOS.BIN	7f041b6a55cd7423a6c08a219335269e	4103668c1bbd66c5e24558e73d4f3f92061a109a	bfda1fe5
-3do_arcade_saot.bin	 \bios\3do_arcade_saot.bin	8970fc987ab89a7f64da9f8a8c4333ff	520d3d1b5897800af47f92efd2444a26b7a7dead	b832da9a
-5200.rom	 \bios\5200.rom	281f20ea4320404ec820fb7ec0693b38	6ad7a1e8c9fad486fbec9498cb48bf5bc3adc530	4248d3e3
-64DD_IPL.bin	 \bios\64DD_IPL.bin	8d3d9f294b6e174bc7b1d2fd1c727530	bf861922dcb78c316360e3e742f4f70ff63c9bc3	7f933ce2
-7800 BIOS (E).rom	 \bios\7800 BIOS (E).rom	397bb566584be7b9764e7a68974c4263	5a140136a16d1d83e4ff32a19409ca376a8df874	d5b61170
-7800 BIOS (U).rom	 \bios\7800 BIOS (U).rom	0763f1ffb006ddbe32e52d497ee848ae	d9d134bb6b36907c615a594cc7688f7bfcef5b43	5d13730c
-8dos2.rom	 \bios\8dos2.rom	5f3cd5a4307fed7a9dfe8faa4c044273	746a2996967282281a980842a93642ad7d740f9e	efc88d2b
-agb_boot.bin	 \bios\agb_boot.bin	36c394ff8b6968f746d4628c639c00a5	4697f23cc5ef95b9522412f1ae05571eb2947b02	52a521bf
-apple2gs.rom	 \bios\apple2gs.rom	ba89edf2729a28a17cd9e0f7a0ac9a39	bc32bc0e8902946663998f56aea52be597d9e361	de7ddf29
-apple2gs1.rom	 \bios\apple2gs1.rom	20a0334c447cb069a040ae5be1d938df	e4fc7560b69d062cb2da5b1ffbe11cd1ca03cc37	42f124b0
-apple2gs3.rom	 \bios\apple2gs3.rom	ba89edf2729a28a17cd9e0f7a0ac9a39	bc32bc0e8902946663998f56aea52be597d9e361	de7ddf29
-ATARIBAS.ROM	 \bios\ATARIBAS.ROM	0bac0c6a50104045d902df4503a4c30b	3693c9cb9bf3b41bae1150f7a8264992468fc8c0	7d684184
-ATARIOSA.ROM	 \bios\ATARIOSA.ROM	eb1f32f5d9f382db1bbfb8d7f9cb343a	6dd53356159a129ed12367beb3b24a771d41adb0	72b3fed4
-ATARIOSB.ROM	 \bios\ATARIOSB.ROM	a3e8d617c95d08031fe1b20d541434b2	f1f0741b1d34fb4350cf7cb8ab3b6ea11cdd8174	3e28a1fe
-ATARIXL.ROM	 \bios\ATARIXL.ROM	06daac977823773a3eea3422fd26a703	ae4f523ba08b6fd59f3cae515a2b2410bbd98f55	1f9cd270
-basic10.rom	 \bios\basic10.rom	ebe418ec8a6c85d5ac32956c9a96c179	333116e6884d85aaa4dfc7578a91cceeea66d016	f18710b4
-basic11b.rom	 \bios\basic11b.rom	a330779c42ad7d0c4ac6ef9e92788ec6	9451a1a09d8f75944dbd6f91193fc360f1de80ac	c3a92bef
-BD500.ROM	 \bios\BD500.ROM	2b6498fd29a0adbf1c529762c02c33ab	447975ed022379fb6b80a22fa37c2d188ca3aa88	61952e34
-bios.gg	 \bios\bios.gg	672e104c3be3a238301aceffc3b23fd6	914aa165e3d879f060be77870d345b60cfeb4ede	0ebea9d4
-bios.min	 \bios\bios.min	1e4fb124a3a886865acb574f388c803d	daad4113713ed776fbd47727762bca81ba74915f	aed3c14d
-bios7.bin	 \bios\bios7.bin	df692a80a5b1bc90728bc3dfc76cd948	24f67bdea115a2c847c8813a262502ee1607b7df	1280f0d5
-bios9.bin	 \bios\bios9.bin	a392174eb3e572fed6447e956bde4b25	bfaac75f101c135e32e2aaf541de6b1be4c8c62d	2ab23573
-bios_CD_E.bin	 \bios\bios_CD_E.bin	e66fa1dc5820d254611fdcdba0662372	f891e0ea651e2232af0c5c4cb46a0cae2ee8f356	529ac15a
-bios_CD_J.bin	 \bios\bios_CD_J.bin	278a9397d192149e84e820ac621a8edd	4846f448160059a7da0215a5df12ca160f26dd69	9d2da8f2
-bios_CD_U.bin	 \bios\bios_CD_U.bin	2efd74e3232ff260e371b99f84024f7f	f4f315adcef9b8feb0364c21ab7f0eaf5457f3ed	c6d10268
-bios_E.sms	 \bios\bios_E.sms	840481177270d5642a14ca71ee72844c	c315672807d8ddb8d91443729405c766dd95cae7	0072ed54
-bios_J.sms	 \bios\bios_J.sms	24a519c53f67b00640d0048ef7089105	a8c1b39a2e41137835eda6a5de6d46dd9fadbaf2	48d44a13
-bios_MD.bin	 \bios\bios_MD.bin	45e298905a08f9cfb38fd504cd6dbc84	453fca4e1db6fae4a10657c4451bccbb71955628	5f5e64eb
-bios_U.sms	 \bios\bios_U.sms	840481177270d5642a14ca71ee72844c	c315672807d8ddb8d91443729405c766dd95cae7	0072ed54
-bootloader-dbvz.rom	 \bios\bootloader-dbvz.rom	9da101cd2317830649a31f8fa46debec	cea669f6d740f29ca248d2e8837a4b4f86fbe75a	a975efe4
-bootloader-en-m515.rom	 \bios\bootloader-en-m515.rom	e64c755205bc3e79d1bc5b70128f688d	aa35c04429a9eda1edb1c7eb257f621363d5a78c	f1a6452b
-BS-X.bin	 \bios\BS-X.bin	fed4d8242cfbed61343d53d48432aced	604556b2e62860af18db5a77f2956ebc75450020	f51f07a0
-c52.bin	 \bios\c52.bin	f1071cdb0b6b10dde94d3bc8a6146387	a6120aed50831c9c0d95dbdf707820f601d9452e	a318e8d6
-CARTS.SHA	 \bios\CARTS.SHA	d6dedca1112ddfda94cc9b2e426b818b	69dd7344e4dfa7e250973a71bbb3e8aa6fb08d81	82312751
-cgb_boot.bin	 \bios\cgb_boot.bin	b560efd759d87634a03b243f22bba27a	80e3ee82416c1a74827a5459fde32f04bf51a1f6	1d67e99e
-CYRILLIC.FNT	 \bios\CYRILLIC.FNT	85b38e4128bbc300e675f55b278683a8	000ac11b702a4c42e40f135df12fa5f2f13e20a1	73af9bc3
-dc_boot.bin	 \bios\dc_boot.bin	e10c53c2f8b90bab96ead2d368858623	8951d1bb219ab2ff8583033d2119c899cc81f18c	89f2b1a1
-dc_flash.bin	 \bios\dc_flash.bin	0a93f7940c455905bea6e392dfde92a4	94d44d7f9529ec1642ba3771ed3c5f756d5bc872	c611b498
-dc_nvmem.bin	 \bios\dc_nvmem.bin	3d8ebc7a1cf29298305779e3b5d1b0ee	5d8b47bb2a13558eccc8858a6fda518ae99d6af7	f00001bf
-DISK.ROM	 \bios\DISK.ROM	80dcd1ad1a4cf65d64b7ba10504e8190	032cb1c1c75b9a191fa1230978971698d9d2a17f	721f61df
-disksys.rom	 \bios\disksys.rom	ca30b50f880eb660a320674ed365ef7a	57fe1bdee955bb48d357e463ccbf129496930b62	5e607dcf
-dmg_boot.bin	 \bios\dmg_boot.bin	57f6a79fb41d6b2c8987fa529c3a90f2	3c48c4ce9c20ba1ca3d003ef43b249a9ec69941b	c65c0cae
-ecwolf.pk3	 \bios\ecwolf.pk3	d68107770b3ba230d10aa27472a7617b	05a7b07cfe7f1d94728abc0290cb3bb2b1d69332	c30f6789
-exec.bin	 \bios\exec.bin	62e761035cb657903761800f4437b8af	5a65b922b562cb1f57dab51b73151283f0e20c7a	cbce86f7
-firmware.bin	 \bios\firmware.bin	145eaef5bd3037cbc247c213bb3da1b3	8497afdd16af92d6887b71582846c40514e9039f	41599ec9
-FMPAC.ROM	 \bios\FMPAC.ROM	6f69cc8b5ed761b03afd78000dfb0e19	9d789166e3caf28e4742fe933d962e99618c633d	0e84505d
-FMPAC16.ROM	 \bios\FMPAC16.ROM	af8537262df8df267072f359399a7635	2dc4517ebd5a061f9b5aa6b449cc4d4a2073540c	5d6c4d27
-g7400.bin	 \bios\g7400.bin	c500ff71236068e0dc0d0603d265ae76	5130243429b40b01a14e1304d0394b8459a6fbae	e20a9f41
-gba_bios.bin	 \bios\gba_bios.bin	a860e8c0b6d573d191e4ec7db1b1e4f6	300c20df6731a33952ded8c436f7f186d25d3492	81977335
-gbc_bios.bin	 \bios\gbc_bios.bin	dbfce9db9deaa2567f6a84fde55f9680	1293d68bf9643bc4f36954c1e80e38f39864528d	41884e46
-gb_bios.bin	 \bios\gb_bios.bin	32fbbd84168d3482956eb3c5051637f5	4ed31ec6b0b175bb109c0eb5fd3d193da823339f	59c8598e
-gexpress.pce	 \bios\gexpress.pce	6d2cb14fc3e1f65ceb135633d1694122	014881a959e045e00f4db8f52955200865d40280	51a12d90
-goldstar.bin	 \bios\goldstar.bin	8639fd5e549bd6238cfee79e3e749114	c4a2e5336f77fb5f743de1eea2cda43675ee2de7	b6f5028b
-grom.bin	 \bios\grom.bin	0cd5946c6473e42e8e4c2137785e427f	f9608bb4ad1cfe3640d02844c7ad8e0bcd974917	683a4158
-hyperbas.rom	 \bios\hyperbas.rom	364bf095e0dc4222d75354d50b8cddfc	f5f70a0eb59f8cd6c261e179ae78ef906f68ed63	1d96ab50
-ITALIC.FNT	 \bios\ITALIC.FNT	c83e50e9f33b8dd893c414691822740d	401dd6692dc80628e5f68b7c79be0b0ebbc4d3ee	c90ec498
-jasmin.rom	 \bios\jasmin.rom	5136f764a7dbd1352519351fbb53a9f3	70e59b8abd67092f050462abc6cb5271e4c15f01	37220e89
-jopac.bin	 \bios\jopac.bin	279008e4a0db2dc5f1c048853b033828	54b8d2c1317628de51a85fc1c424423a986775e4	11647ca5
-KANJI.ROM	 \bios\KANJI.ROM	febe8782b466d7c3b16de6d104826b34	84a645becec0a25d3ab7a909cde1b242699a8662	c9651b32
-kick02019.AROS	 \bios\kick02019.AROS	186d23cccd9fbd6336d0f988b39dce4d	f1952b97e0fa7661e99efb4954e0a86371952c1d	786d1739
-kick02019.AROS.ext	 \bios\kick02019.AROS.ext	4fa7042d73d0f77bf5723cf8430989bf	8b193a6515e0c8b3555ef4142417208dbbdb025e	805fb428
-kick02019.AROS.ext.rom	 \bios\kick02019.AROS.ext.rom	4fa7042d73d0f77bf5723cf8430989bf	8b193a6515e0c8b3555ef4142417208dbbdb025e	805fb428
-kick02019.AROS.rom	 \bios\kick02019.AROS.rom	186d23cccd9fbd6336d0f988b39dce4d	f1952b97e0fa7661e99efb4954e0a86371952c1d	786d1739
-kick33180.A500	 \bios\kick33180.A500	85ad74194e87c08904327de1a9443b7a	11f9e62cf299f72184835b7b2a70a16333fc0d88	a6ce1636
-kick33180.A500.rom	 \bios\kick33180.A500.rom	85ad74194e87c08904327de1a9443b7a	11f9e62cf299f72184835b7b2a70a16333fc0d88	a6ce1636
-kick33180.A500.RTB	 \bios\kick33180.A500.RTB	c993feb1eeddec1d2e687aa514231028	1d1c557f4a0f5ea88aeb96d68b09f41990340f70	c61d5663
-kick34005.A500	 \bios\kick34005.A500	82a21c1890cae844b3df741f2762d48d	891e9a547772fe0c6c19b610baf8bc4ea7fcb785	c4f0f55f
-kick34005.A500.rom	 \bios\kick34005.A500.rom	82a21c1890cae844b3df741f2762d48d	891e9a547772fe0c6c19b610baf8bc4ea7fcb785	c4f0f55f
-kick34005.A500.RTB	 \bios\kick34005.A500.RTB	7eb13d974af0992d672b67c317a7e0a1	209c109855f94c935439b60950d049527d2f2484	ae7a9ac7
-kick34005.CDTV	 \bios\kick34005.CDTV	89da1838a24460e4b93f4f0c5d92d48d	7ba40ffa17e500ed9fed041f3424bd81d9c907be	42baa124
-KICK34005.CDTV.rom	 \bios\KICK34005.CDTV.rom	89da1838a24460e4b93f4f0c5d92d48d	7ba40ffa17e500ed9fed041f3424bd81d9c907be	42baa124
-kick37175.A500	 \bios\kick37175.A500	dc10d7bdd1b6f450773dfb558477c230	c5839f5cb98a7a8947065c3ed2f14f5f42e334a1	c3bdb240
-kick37175.A500.rom	 \bios\kick37175.A500.rom	dc10d7bdd1b6f450773dfb558477c230	c5839f5cb98a7a8947065c3ed2f14f5f42e334a1	c3bdb240
-kick39106.A1200	 \bios\kick39106.A1200	b7cc148386aa631136f510cd29e42fc3	70033828182fffc7ed106e5373a8b89dda76faa5	6c9b07d2
-kick39106.A1200.rom	 \bios\kick39106.A1200.rom	b7cc148386aa631136f510cd29e42fc3	70033828182fffc7ed106e5373a8b89dda76faa5	6c9b07d2
-kick40060.CD32	 \bios\kick40060.CD32	5f8924d013dd57a89cf349f4cdedc6b1	3525be8887f79b5929e017b42380a79edfee542d	1e62d4a5
-kick40060.CD32.ext	 \bios\kick40060.CD32.ext	bb72565701b1b6faece07d68ea5da639	5bef3d628ce59cc02a66e6e4ae0da48f60e78f7f	87746be2
-kick40060.CD32.ext.rom	 \bios\kick40060.CD32.ext.rom	bb72565701b1b6faece07d68ea5da639	5bef3d628ce59cc02a66e6e4ae0da48f60e78f7f	87746be2
-kick40060.CD32.rom	 \bios\kick40060.CD32.rom	5f8924d013dd57a89cf349f4cdedc6b1	3525be8887f79b5929e017b42380a79edfee542d	1e62d4a5
-kick40063.A600	 \bios\kick40063.A600	e40a5dfb3d017ba8779faba30cbd1c8e	3b7f1493b27e212830f989f26ca76c02049f09ca	fc24ae0d
-kick40063.A600.rom	 \bios\kick40063.A600.rom	e40a5dfb3d017ba8779faba30cbd1c8e	3b7f1493b27e212830f989f26ca76c02049f09ca	fc24ae0d
-kick40063.A600.RTB	 \bios\kick40063.A600.RTB	3f97c1963d82c808ef29e7c984c4c688	ca2d6e1e2b4883929447a05e29418533723a419c	71180c7f
-kick40068.A1200	 \bios\kick40068.A1200	646773759326fbac3b2311fd8c8793ee	e21545723fe8374e91342617604f1b3d703094f1	1483a091
-kick40068.A1200.rom	 \bios\kick40068.A1200.rom	646773759326fbac3b2311fd8c8793ee	e21545723fe8374e91342617604f1b3d703094f1	1483a091
-kick40068.A1200.RTB	 \bios\kick40068.A1200.RTB	547b42b7b070c7f227ea45e0986d57a1	1ad1b55e7226bd5cd66def8370a69f19244da796	cf631e0b
-kick40068.A4000	 \bios\kick40068.A4000	9bdedde6a4f33555b4a270c8ca53297d	5fe04842d04a489720f0f4bb0e46948199406f49	d6bae334
-kick40068.A4000.rom	 \bios\kick40068.A4000.rom	9bdedde6a4f33555b4a270c8ca53297d	5fe04842d04a489720f0f4bb0e46948199406f49	d6bae334
-kick40068.A4000.RTB	 \bios\kick40068.A4000.RTB	f89f19b858ea6b1a04327c6f71ee1600	973b42dcaf8d6cb111484b3c4d3b719b15f6792d	3b46f0cb
-lisez-moi.txt	 \bios\lisez-moi.txt	dcae48b283f9d4ff8ac363421cfa50dd	f53122c3eeeab4132744042162fb85bd16041ddb	e3bbf25b
-lynxboot.img	 \bios\lynxboot.img	fcd403db69f54290b51035d82f835e7b	e4ed47fae31693e016b081c6bda48da5b70d7ccb	0d973c9d
-microdis.rom	 \bios\microdis.rom	df864344d2a2091c3f952bd1c5ce1707	0d2ef6e67322f48f4b7e08d8bbe68827e2074561	a9664a9c
-missing_bios_report.txt	 \bios\missing_bios_report.txt	df501f8e933cb7db5c9b3ce05958a9e4	6597e08e084a64020584f79fdde86327778205c4	866cd754
-mpr-17933.bin	 \bios\mpr-17933.bin	3240872c70984b6cbfda1586cab68dbe	faa8ea183a6d7bbe5d4e03bb1332519800d3fbc3	4afcf0fa
-mpr-18811-mx.ic1	 \bios\mpr-18811-mx.ic1	255113ba943c92a54facd25a10fd780c	a67cd4f550751f8b91de2b8b74528ab4e0c11c77	90412e10
-mpr-19367-mx.ic1	 \bios\mpr-19367-mx.ic1	1cd19988d1d72a3e7caa0b73234c96b4	56c1b93da6b660bf393fbf48ca47569000ef4047	b9644b52
-MSX.ROM	 \bios\MSX.ROM	aa95aea2563cd5ec0a0919b44cc17d47	409e82adac40f6bdd18eb6c84e8b2fbdc7fb5498	94ee12f3
-MSX2.ROM	 \bios\MSX2.ROM	ec3a01c91f24fbddcbcab0ad301bc9ef	6103b39f1e38d1aa2d84b1c3219c44f1abb5436e	6cdaf3a5
-MSX2EXT.ROM	 \bios\MSX2EXT.ROM	2183c2aff17cf4297bdb496de78c2e8a	5c1f9c7fb655e43d38e5dd1fcc6b942b2ff68b02	66237ecf
-MSX2P.ROM	 \bios\MSX2P.ROM	6d8c0ca64e726c82a4b726e9b01cdf1e	e2fbd56e42da637609d23ae9df9efd1b4241b18a	00870134
-MSX2PEXT.ROM	 \bios\MSX2PEXT.ROM	7c8243c71d8f143b2531f01afa6a05dc	fe0254cbfc11405b79e7c86c7769bd6322b04995	b8ba44d3
-MSXDOS2.ROM	 \bios\MSXDOS2.ROM	6418d091cd6907bbcf940324339e43bb	c36c9e0f96738a340381e23b4f97245388801a46	1c430991
-neocdz.zip	 \bios\neocdz.zip	c85b8132799f1b2ad3754a97947809d2	838934ee5b8fcc81883fb664526b3d281840b2e9	a313a0d6
-neogeo.zip	 \bios\neogeo.zip	b9ee441f9ca39e69688352f59917ac7a	256dc6f59f27222b70491dbd26d7baa667c84e2a	f526246c
-o2rom.bin	 \bios\o2rom.bin	562d5ebf9e030a40d6fabfc2f33139fd	b2e1955d957a475de2411770452eff4ea19f4cee	8016a315
-PAINTER.ROM	 \bios\PAINTER.ROM	403cdea1cbd2bb24fae506941f8f655e	7fd2a28c4fdaeb140f3c8c8fb90271b1472c97b9	1bda68a3
-palmos41-en-m515.rom	 \bios\palmos41-en-m515.rom	83cb1d1c76e568b916dc2e7c0bf669f6	cc4898ee8cae4669fc19e184c5b560c770e731b3	6481a088
-panafz1-kanji.bin	 \bios\panafz1-kanji.bin	b8dc97f778a6245c58e064b0312e8281	acd39a8fee1b9d2950d5ab447846c11fb31af63e	a8e9447c
-panafz1.bin	 \bios\panafz1.bin	f47264dd47fe30f73ab3c010015c155b	34bf189111295f74d7b7dfc1f304d98b8d36325a	c8c8ff89
-panafz10-norsa.bin	 \bios\panafz10-norsa.bin	1477bda80dc33731a65468c1f5bcbee9	f05e642322c03694f06a809c0b90fc27ac73c002	230e6feb
-panafz10.bin	 \bios\panafz10.bin	51f2f43ae2f3508a14d9f56597e2d3ce	3c912300775d1ad730dc35757e279c274c0acaad	58242cee
-panafz10e-anvil-norsa.bin	 \bios\panafz10e-anvil-norsa.bin	cf11bbb5a16d7af9875cca9de9a15e09	2765c7b4557cc838b32567d2428d088980295159	9a186221
-panafz10e-anvil.bin	 \bios\panafz10e-anvil.bin	a48e6746bd7edec0f40cff078f0bb19f	a900371f0cdcdc03f79557f11d406fd71251a5fd	2495c500
-panafz10ja-anvil-kanji.bin	 \bios\panafz10ja-anvil-kanji.bin	428577250f43edc902ea239c50d2240d	2e857b957803d0331fd229328df01f3ffab69eee	ff7393de
-panafz1j-kanji.bin	 \bios\panafz1j-kanji.bin	c23fb5d5e6bb1c240d02cf968972be37	884515605ee243577ab20767ef8c1a7368e4e407	45f478b1
-panafz1j-norsa.bin	 \bios\panafz1j-norsa.bin	f6c71de7470d16abe4f71b1444883dc8	a417587ae3b0b8ef00c830920c21af8bee88e419	82ce67c6
-panafz1j.bin	 \bios\panafz1j.bin	a496cfdded3da562759be3561317b605	ec7ec62d60ec0459a14ed56ebc66761ef3c80efc	d9493adc
-pcfx.rom	 \bios\pcfx.rom	08e36edbea28a017f79f8d4f7ff9b6d7	1a77fd83e337f906aecab27a1604db064cf10074	76ffb97a
-pravetzt.rom	 \bios\pravetzt.rom	8712a22e7e078de3343667d9fc1f2390	7afc276cb118adff72e4f16698f94bf3b2c64146	58079502
-ps1_rom.bin	 \bios\ps1_rom.bin	81bbe60ba7a3d1cea1d48c14cbcc647b	c40146361eb8cf670b19fdc9759190257803cab7	2f53b852
-readme.txt	 \bios\readme.txt	a9011cf524e8f326d8d705125f99c272	6e49cc83c8acf972556e0a70c31520a268a9dce6	5439153e
-RS232.ROM	 \bios\RS232.ROM	279efd1eae0d358eecd4edc7d9adedf3	7aec0134ad6a5177f4056fcb6047083e8e00529b	ab6874f8
-sanyotry.bin	 \bios\sanyotry.bin	35fa1a1ebaaeea286dc5cd15487c13ea	b01c53da256dde43ffec4ad3fc3adfa8d635e943	d5cbc509
-saturn_bios.bin	 \bios\saturn_bios.bin	af5828fdff51384f99b3c4926be27762	2b8cb4f87580683eb4d760e4ed210813d667f0a2	2aba43c2
-scph1001.bin	 \bios\scph1001.bin	dc2b9bf8da62ec93e868cfd29f0d067d	649895efd79d14790eabb362e94eb0622093dfb9	55847d8c
-scph101.bin	 \bios\scph101.bin	6e3735ff4c7dc899ee98981385f6f3d0	dcffe16bd90a723499ad46c641424981338d8378	171bdcec
-scph5500.bin	 \bios\scph5500.bin	8dd7d5296a650fac7319bce665a6a53c	b05def971d8ec59f346f2d9ac21fb742e3eb6917	ff3eeb8c
-scph5501.bin	 \bios\scph5501.bin	490f666e1afb15b7362b406ed1cea246	0555c6fae8906f3f09baf5988f00e55f88e9f30b	8d8cb7e4
-scph5502.bin	 \bios\scph5502.bin	32736f17079d0b2b7024407c39bd3050	f6bc2d1f5eb6593de7d089c425ac681d6fffd3f0	d786f0b9
-scph7001.bin	 \bios\scph7001.bin	1e68c231d0896b7eadcad1d7d8e76129	14df4f6c1e367ce097c11deae21566b4fe5647a9	502224b6
-sega_101.bin	 \bios\sega_101.bin	85ec9ca47d8f6807718151cbcca8b964	df94c5b4d47eb3cc404d88b33a8fda237eaf4720	224b752c
-sgb2_boot.bin	 \bios\sgb2_boot.bin	b4331a9e612b4738867a30af9c96df52	576678d0fc3892b80471d7067ce6014e6af77ed5	73bd96dc
-sgb_bios.bin	 \bios\sgb_bios.bin	d574d4f9c12f305074798f54c091a8b4	aa2f50a77dfb4823da96ba99309085a3c6278515	ec8a83b9
-sgb_boot.bin	 \bios\sgb_boot.bin	be77bbd03f8675478f6e3d2176f3cb56	27267e45c8408857267231ba6c18bfbd052536e2	edac680e
-SL31253.bin	 \bios\SL31253.bin	ac9804d4c0e9d07e33472e3726ed15c3	81193965a374d77b99b4743d317824b53c3e3c78	04694ed9
-SL31254.bin	 \bios\SL31254.bin	da98f4bb3242ab80d76629021bb27585	8f70d1b74483ba3a37e86cf16c849d601a8c3d2c	9c047ba3
-SL90025.bin	 \bios\SL90025.bin	95d339631d867c8f1d15a5f2ec26069d	759e2ed31fbde4a2d8daf8b9f3e0dffebc90dae2	015c1e38
-STBIOS.bin	 \bios\STBIOS.bin	d3a44ba7d42a74d3ac58cb9c14c6a5ca	ef86ea192eed03d5c413fdbbfd46043be1d7a127	9b4ca911
-stvbios.zip	 \bios\stvbios.zip	53a094ad3a188f86de4e64624fe9b3ca	7783ab663bb1a8d62ff60d583674355c2af556b1	80839303
-syscard1.pce	 \bios\syscard1.pce	9f770275393b8627cf9d24e5c56d2ab9	008cf0f5cd5e2000b9f2ebf5e4ee84097e6aef74	31cc5649
-syscard2.pce	 \bios\syscard2.pce	424f1d6bf93259bf255afa7d1dc9f721	3ca4a3b8d8a7f08492e684064c6fa362e914c1af	5c01c82b
-syscard3.pce	 \bios\syscard3.pce	ff1a674273fe3540ccef576376407d1d	1b4c260326d905bc718812dad0f68089977f427b	64f78e3c
-teleass.rom	 \bios\teleass.rom	2324c9cc227c1327a72a667c97ed2990	9e9af51dae3199cccf49ab3f0d47e2b9be4ba97d	68b0fde6
-telmon24.rom	 \bios\telmon24.rom	9a432244d9ee4a49e8ddcde64af94e05	86fc8dc0932f983efa199e31ae05a4424772f959	aa727c5d
-tos.img	 \bios\tos.img	b2a8570de2e850c5acf81cb80512d9f6	87900a40a890fdf03bd08be6c60cc645855cbce5	3b5cd0c5
-upd7801g.s01	 \bios\upd7801g.s01	635a978fd40db9a18ee44eff449fc126	6e89d1227581c76441a53d605f9e324185f1da33	7ac06182
-DIC	 \bios\amiga\whdl\C\DIC	d2e1f236a1be8816994d276df1bfb16c	2fcb5934019133ed7a2069e333cdbc349ecaa7ee	ac12c46b
-exitemu	 \bios\amiga\whdl\C\exitemu	44d74a5243a0607753f8e3e62da80fe8	c8c50937b22ad20acdb307b736325fed6ea76d08	42e13ef2
-Patcher	 \bios\amiga\whdl\C\Patcher	15a8fbc4365dbd74bd36a28ae4c965b0	e1b6c3871d8327f771874b17258167c2a454029a	de6dfe3a
-RawDIC	 \bios\amiga\whdl\C\RawDIC	8ca244472d1c3438b2894fcad4a72584	100d80eead41511dfef6086508b1f77d3c1672a8	22a0d64f
-uaequit	 \bios\amiga\whdl\C\uaequit	6fd19683a4f2319b5406f7191fee0762	7988f7389a0e1f771838cd88eee6f8427626ebf9	842f874b
-WHDLoad	 \bios\amiga\whdl\C\WHDLoad	1aa6b2dc04b35fe084d749699ed3c54b	0a9e7bfa1183420543e44c08410af1c5500fa704	31183c70
-kick33180.A500.RTB	 \bios\amiga\whdl\Devs\Kickstarts\kick33180.A500.RTB	c993feb1eeddec1d2e687aa514231028	1d1c557f4a0f5ea88aeb96d68b09f41990340f70	c61d5663
-kick33192.A500.RTB	 \bios\amiga\whdl\Devs\Kickstarts\kick33192.A500.RTB	c993feb1eeddec1d2e687aa514231028	1d1c557f4a0f5ea88aeb96d68b09f41990340f70	c61d5663
-kick34005.A500.RTB	 \bios\amiga\whdl\Devs\Kickstarts\kick34005.A500.RTB	7eb13d974af0992d672b67c317a7e0a1	209c109855f94c935439b60950d049527d2f2484	ae7a9ac7
-kick40068.A1200.RTB	 \bios\amiga\whdl\Devs\Kickstarts\kick40068.A1200.RTB	547b42b7b070c7f227ea45e0986d57a1	1ad1b55e7226bd5cd66def8370a69f19244da796	cf631e0b
-WHDLoad-Cleanup	 \bios\amiga\whdl\S\WHDLoad-Cleanup	9639b635a284b775d6ae824d260ff96d	42be78c0967738faeeffe9ef0f2dc763ffefa04a	1b425aaf
-WHDLoad-Startup	 \bios\amiga\whdl\S\WHDLoad-Startup	23e9573ebed13001e0a46d9d81229dd3	7baa4d095c44de62d23277e2e93856101bb4e46b	85832ccf
-WHDLoad.prefs	 \bios\amiga\whdl\S\WHDLoad.prefs	34eaaa8264df548afd138db3c2da6f1a	f73e62f6f897baedb791af82682f1abd8f0cf1e9	35f61ee7
-emutos.img	 \bios\atarist\emutos.img	e2c861c588fca2d0cf6be3df3aaf05f2	bfcc01ae105fa4cee47890c09ebad9e3775395a4	dbfa7ceb
-falcon.img	 \bios\atarist\falcon.img	b338bacb2fc453bab61bcc1e2cf5076b	7157f6a8aff275cfbb5ea6aa8e788dda8a977e56	4a1f42af
-megaste.img	 \bios\atarist\megaste.img	c9093f27159e7d13ac0d1501a95e53d4	ee58768bdfc602c9b14942ce5481e97dd24e7c83	3f2f840f
-st.img	 \bios\atarist\st.img	c87a52c277f7952b41c639fc7bf0a43b	9a6e4c88533a9eaa4d55cdc040e47443e0226eb2	1a586c64
-ste.img	 \bios\atarist\ste.img	30f69d70fe7c210300ed83f991b12de9	3a18f342c8288c0bc1879b7a209c73d5d57f7e81	5cd2a540
-tos.img	 \bios\atarist\tos.img	ed5fbaabe0219092df74c6c14cea3f8e	35e61592d4f5969a609c83b57462e0630f614859	d3d32e88
-tt.img	 \bios\atarist\tt.img	ac6ca0f0ed42a1603dfd409c4bf8eb89	4f0b344231719e80c2a4d4ade3769d7f0d0629b6	1fb32c3c
-B11M_BOS.ROM	 \bios\bk\B11M_BOS.ROM	fe4627d1e3a1535874085050733263e7	7e9a30e38d7b78981999821640a68a201bb6df01	8ffd5efa
-B11M_EXT.ROM	 \bios\bk\B11M_EXT.ROM	dc52f365d56fa1951f5d35b1101b9e3f	f087af69044432a1ef2431a72ac06946e32f2dd3	b2e4c33c
-BAS11M_0.ROM	 \bios\bk\BAS11M_0.ROM	946f6f23ded03c0e26187f0b3ca75993	9d76f3eefd64e032c763fa1ebf9cd3d9bd22317a	e71f9339
-BAS11M_1.ROM	 \bios\bk\BAS11M_1.ROM	1e6637f32aa7d1de03510030cac40bcf	34fa37599f2f9eb607390ef2458a3c22d87f09a9	4c68ff59
-Disk_327.rom	 \bios\bk\Disk_327.rom	5015228eeeb238e65da8edcd1b6dfac7	28eefbb63047b26e4aec104aeeca74e2f9d0276c	ed8a43ae
-FOCAL10.ROM	 \bios\bk\FOCAL10.ROM	5737f972e8638831ab71e9139abae052	6386e58bc1bba5e76baec9e8a1ca4b99dc3c573f	b90a52e8
-MONIT10.ROM	 \bios\bk\MONIT10.ROM	95f8c41c6abf7640e35a6a03cecebd01	4e83a94ae5155bbea14d7331a5a8db82457bd5ae	26c6e8a0
-cdibios.zip	 \bios\cdi\cdibios.zip	709acce6e9c4043b851ea7429b8e7eff	16072afaa65d1b059346616ac5b5a600c63ff1d1	1d5bb3da
-cdimono1.zip	 \bios\cdi\cdimono1.zip	4d8f5238df9a374ce3640262773ba885	e6714b3d5fdc7023348435a77a016b763e0992b1	59205298
-cdimono2.zip	 \bios\cdi\cdimono2.zip	97aa5f47030cd9fdb679d4fafbb0e332	9492247203b71c12d88fad0a5437376941c7870a	4eab5eda
-boot.rom	 \bios\coleco\boot.rom	2c66f5911e5b42b8ebe113403548eee7	45bedc4cbdeac66c7df59e9e599195c778d86a92	3aa93ef3
-bioscv.rom	 \bios\creativision\bioscv.rom	3b1ef759d8e3fb4071582efd33dd05f9	5ac620c529e4965efb5560fe824854a44c983757	c3c590c6
-cslbios.rom	 \bios\creativision\cslbios.rom	b320579c642b007ce01697e384151a53	965965d3c94100813799bf5fe8095024ca53d7a9	8375203e
-cslbiossm.rom	 \bios\creativision\cslbiossm.rom	bd01e99eec4b50fc97a7bd53867868c6	cb9be92c685fee196f291d8fe27ab9eab1f232ea	77afd38b
-disk.rom	 \bios\creativision\disk.rom	99691286a9d860b9512c1368e74e4c14	3d1d6c0c2fd8039c042e5985da3a501e378bbad3	c76900e3
-laser2001.rom	 \bios\creativision\laser2001.rom	4dfadfb1158f84e2df2b85b13f303986	c12e098c14ac0724869053df2b63277a3e413802	4dc35c39
-saloram.rom	 \bios\creativision\saloram.rom	e65f96e9ffef24b5215a2cd86d5c94b8	42e7909e0198701102ec19b1bf66c240dd3fa8b3	3662eb12
-colecodb.xml	 \bios\Databases\colecodb.xml	7decb2b4ae37b7456c5b71dfa1a48b63	7811316216d035c065b076b174df912e481e13f0	5c42b5d1
-msxcaswavdb.xml	 \bios\Databases\msxcaswavdb.xml	5d4f9b7d75f27d0dd73519d2b841fc49	06481f9739fd86d9d460062456fdc4844a13e583	4ae56bf2
-msxromdb.xml	 \bios\Databases\msxromdb.xml	c0a94965701431e0df29949189e424dd	573aa830b7bef4452808b40df883469907db2fed	ed4c6720
-msxsysromdb.xml	 \bios\Databases\msxsysromdb.xml	56fc758eefd477ed1e16b3183a9779d2	5f90ec0161801b9d30ac1e0dbdf90485ed2bfc6c	a11837c3
-segadb.xml	 \bios\Databases\segadb.xml	a806d88adff5383619613e94100b85f9	e5bc915267d01567d460fb6c8d0d2c7456970ae1	ad813665
-svidb.xml	 \bios\Databases\svidb.xml	a9e5fabbbe1c557f74101092b4fc069e	02d24a58e95b8ea373fd58639946886ebd50954d	84d48f54
-airlbios.zip	 \bios\dc\airlbios.zip	3f348c88af99a40fbd11fa435f28c69d	e18c5e9ca21654dfd724aa54e625b386e6ffb2c5	2c87c283
-Atomiswave-0.220_NoClones_V1.0 barhi.dat.7z	 \bios\dc\Atomiswave-0.220_NoClones_V1.0 barhi.dat.7z	2593bcd4ba33a4974344af27ca371a1a	09f1ed9e0f8ece181a1850ec89361cef78f37c9e	18ecc714
-Atomiswave-0.239_NoClones_V1.0 barhi.zip	 \bios\dc\Atomiswave-0.239_NoClones_V1.0 barhi.zip	1c3337f3f267e9aaab2652ab8aa6c335	a43960ea7ba25dd823f5e0567d8d0296b960e47e	312459a8
-Atomiswave_datfiles.zip	 \bios\dc\Atomiswave_datfiles.zip	cbc5d25c183ca3eb44af1d44418f52bd	8841e8e15c65fd94ccad95588eb71ef6b2d3d3c9	28e5fc81
-awbios.zip	 \bios\dc\awbios.zip	0ec5ae5b5a5c4959fa8b43fcf8687f7c	cdf247154e28c4b352b962a4a523587f2fde9305	c295a8c2
-dc_boot.bin	 \bios\dc\dc_boot.bin	e10c53c2f8b90bab96ead2d368858623	8951d1bb219ab2ff8583033d2119c899cc81f18c	89f2b1a1
-dc_flash.bin	 \bios\dc\dc_flash.bin	0a93f7940c455905bea6e392dfde92a4	94d44d7f9529ec1642ba3771ed3c5f756d5bc872	c611b498
-f355bios.zip	 \bios\dc\f355bios.zip	f126d318f135f38ee377fef2acf08d7e	62a0d456ff84664a4f631938d3991088bc122f1b	5177e8c4
-f355dlx.zip	 \bios\dc\f355dlx.zip	5e83867c751f692a000afdf658dc181f	3c1c6422c332fc57c69c938db4dd3ac91eff4f02	87e1cf82
-hod2bios.zip	 \bios\dc\hod2bios.zip	6559697f76592be77a7a9ff3bfb6711a	9b9c9f0af3de914de677ba8e19f4190673142c1b	651142d3
-Naomi-0.220_NoClones_V1.0 barhi.dat.7z	 \bios\dc\Naomi-0.220_NoClones_V1.0 barhi.dat.7z	482bbeb3343533cdd33bca6d00a1ffe6	3b025eb0f2727a521ea8b29dec349a139709737e	b98d6722
-Naomi-0.239_NoClones_V1.0 barhi.zip	 \bios\dc\Naomi-0.239_NoClones_V1.0 barhi.zip	0f15cbb8efd73d289a42077614c14980	9e98bf5dacf4461aaf23ae2c2c193a0bd6c8a579	9c580e15
-naomi.zip	 \bios\dc\naomi.zip	eb4099aeb42ef089cfe94f8fe95e51f6	d7ef86bd03de7c1d0e2b0762e04b6f8f8d26dbdb	ab628024
-naomi2.zip	 \bios\dc\naomi2.zip	c50072cbab75673e1b1a6b94355e6fa8	2962e338ccc9f66f29b409f73ca27aeee79633ac	2143196c
-NaomiGd-0.220_NoClones_V1.0 barhi.dat.7z	 \bios\dc\NaomiGd-0.220_NoClones_V1.0 barhi.dat.7z	5536305d6e89f825519fabf1a8ef207a	73bdb8359bfc74b04e6e82b20143dc9f6322c886	bb76ee11
-NaomiGd-0.239_NoClones_V1.0 barhi.zip	 \bios\dc\NaomiGd-0.239_NoClones_V1.0 barhi.zip	35480fabb5a7a306e5a643b915480a24	c42ff3b9e74c723b07a394dee9106e5a6ab5d3bb	f0ddfc76
-naomigd.zip	 \bios\dc\naomigd.zip	a3c74748f4b1d08f2247b16099db372d	4b92936f396c8199f745d3ed0ff588a324b8dd70	b7949ddb
-Naomi_datfiles.zip	 \bios\dc\Naomi_datfiles.zip	c045f571b123b018ce2bfd2289172169	3251d3b601850aed422f006b61ce9776cdb799d2	18354008
-d200rom1.rom	 \bios\dragon\d200rom1.rom	be9bc86ee5eb401d0a40d0377f65fefa	1983b4fb398e3dd9668d424c666c5a0b3f1e2b69	84f68bf9
-d200rom2.rom	 \bios\dragon\d200rom2.rom	fd91edce7be5e7c2d88e46b76956a8aa	e3c8986bb1d44269c4587b04f1ca27a70b0aaa2e	17893a42
-d32.rom	 \bios\dragon\d32.rom	3420b96031078a4ef408cad7bf21a33f	f2dab125673e653995a83bf6b793e3390ec7f65a	e3879310
-d64rom1.rom	 \bios\dragon\d64rom1.rom	5f0bee59710e55f5880e74890912ed78	f119506eaa3b4b70b9aa0dd83761e8cbe043d042	60a4634c
-d64rom2.rom	 \bios\dragon\d64rom2.rom	fd91edce7be5e7c2d88e46b76956a8aa	e3c8986bb1d44269c4587b04f1ca27a70b0aaa2e	17893a42
-d64tano.rom	 \bios\dragon\d64tano.rom	be9bc86ee5eb401d0a40d0377f65fefa	1983b4fb398e3dd9668d424c666c5a0b3f1e2b69	84f68bf9
-d64tano2.rom	 \bios\dragon\d64tano2.rom	fd91edce7be5e7c2d88e46b76956a8aa	e3c8986bb1d44269c4587b04f1ca27a70b0aaa2e	17893a42
-ddos10.rom	 \bios\dragon\ddos10.rom	1c965da49b6c5459b8353630aa1482e7	a8918c71d319237c1e3155bb38620acb114a80bc	b44536f6
-ddos11c.rom	 \bios\dragon\ddos11c.rom	d8429af1a12f7438a4bf88a5b934cb3a	e2ef204e58372e836486b1fcb4edf0e3a0f3a457	bdd4637a
-ddos12a.rom	 \bios\dragon\ddos12a.rom	55e2535dbbed7f1a26b5f263d7c72c63	7e324688aac097dd2b016506c40d570a085361bf	d4041f0a
-ddos40.rom	 \bios\dragon\ddos40.rom	9ddc388632cd3c376b164ba5cfc64329	89f38825ddf72b9863c04d8066d5ab8cabb9197a	14f4c54a
-ddos42.rom	 \bios\dragon\ddos42.rom	c956a854cbc4b9d1e69c000f78368668	7747fe3d431b745b570629fe7f3f5d51b6d6f393	6bb0b4bb
-deltados.rom	 \bios\dragon\deltados.rom	024eac3db20f1b5cf98c30a0e4743201	686ebb5f39dd4fc907a0b748867d0a022d2f1a60	307fb37c
-dplus48.rom	 \bios\dragon\dplus48.rom	ee6f24d893a52b8efea9f787855456b5	e72ca68061267692b01034005c2804aeee8e5cd0	d4d954a0
-dplus49b.rom	 \bios\dragon\dplus49b.rom	56f1b97314e4ca82491c465bb887059e	73ae74978a78ec2b97ebb1b0c808238779529bfa	7c6dfca8
-dplus50.rom	 \bios\dragon\dplus50.rom	35de5d28da507ebb213a26e04241d940	90164ea50fe3ac4c118b502438d2e5015a588398	f444d57f
-sdose6.rom	 \bios\dragon\sdose6.rom	9d85e6b7133f915c021156f4b9cdb512	ef157016386ed463374de6bac84d1f8ce654ed80	8c1d6c45
-sdose8.rom	 \bios\dragon\sdose8.rom	167f409b7a4b992faabb784b061ab4c6	8958dc06ee15a505e4b5729c8acf9db0f1f066fe	1d3fe2ba
-fba_029671_od_release_10_working_roms.dat	 \bios\fba\fba_029671_od_release_10_working_roms.dat	993c9ce349e377e353713641f0166d2b	a601f89c9d7d9e6de2b1e51e91d1eba9bdf8949e	4b65ab89
-fba_029671_od_release_10_working_roms_filtered.dat	 \bios\fba\fba_029671_od_release_10_working_roms_filtered.dat	d84bebcfb35ed4349199404ade082642	98de8a206b9a403ba7bcc3c08535061c3e05a852	3410d9c4
-piFBA_gamelist.txt	 \bios\fba\piFBA_gamelist.txt	f3a0c4fa7e10c5e9a12445040a2df727	bee87380448ac9fb0f9cd90ce8bd71b8fdc87f70	fb282406
-FinalBurn Neo (ClrMame Pro XML, Arcade only).dat	 \bios\fbneo\FinalBurn Neo (ClrMame Pro XML, Arcade only).dat	529cc40b86b2916981cf62f445620e5d	ef2caff41d59e4f7cf5d157ca34c22fe6dca134f	3f289b1d
-FinalBurn Neo (ClrMame Pro XML, ColecoVision only).dat	 \bios\fbneo\FinalBurn Neo (ClrMame Pro XML, ColecoVision only).dat	4001a16f5656c5b2105e0e6c2dd5bc69	1aa657ae77211c9184e95da72f15d6eeda4ac1bc	038ed056
-FinalBurn Neo (ClrMame Pro XML, Fairchild Channel F Games only).dat	 \bios\fbneo\FinalBurn Neo (ClrMame Pro XML, Fairchild Channel F Games only).dat	3a9ee904740d5be3653f3930937f17b2	ef7ecf6f8872faa2fc964e5df69fc5fa1871af4e	1594abb8
-FinalBurn Neo (ClrMame Pro XML, FDS Games only).dat	 \bios\fbneo\FinalBurn Neo (ClrMame Pro XML, FDS Games only).dat	2eef01c727ab8215b0fd3080dae4648a	9d4e3ff457b9c3a124c2ccc24334a4aa836afee8	f6f54152
-FinalBurn Neo (ClrMame Pro XML, Game Gear only).dat	 \bios\fbneo\FinalBurn Neo (ClrMame Pro XML, Game Gear only).dat	a3d572cde0a5ca563b7dade56743ad9b	3aad823c1375398a023891838c5ed94d7b0da1f6	2faeb53f
-FinalBurn Neo (ClrMame Pro XML, Master System only).dat	 \bios\fbneo\FinalBurn Neo (ClrMame Pro XML, Master System only).dat	e9aee40bef5abc8ddd1a367db166da64	3296f7484ccf0316fb956878899d2f5cc0503837	a3ccd66a
-FinalBurn Neo (ClrMame Pro XML, Megadrive only).dat	 \bios\fbneo\FinalBurn Neo (ClrMame Pro XML, Megadrive only).dat	b288f86047907ac341242237768bac4e	c7712ba7995010aca7345bbfa8db28c9c2c31e9b	2c2872cc
-FinalBurn Neo (ClrMame Pro XML, MSX 1 Games only).dat	 \bios\fbneo\FinalBurn Neo (ClrMame Pro XML, MSX 1 Games only).dat	56a9387c0f463b8f3bad2445d9e11d70	a38ce68d7acd9edbbc89917dfd3c11e6a9bbf395	f811078b
-FinalBurn Neo (ClrMame Pro XML, Neogeo only).dat	 \bios\fbneo\FinalBurn Neo (ClrMame Pro XML, Neogeo only).dat	73c27326effecced2425ab030662c5b3	abadedc3ed32f0bf2b274671c9c81d020ea2c57e	5daa7bc8
-FinalBurn Neo (ClrMame Pro XML, NeoGeo Pocket Games only).dat	 \bios\fbneo\FinalBurn Neo (ClrMame Pro XML, NeoGeo Pocket Games only).dat	c14081568fb9f3d02d2c07068af66a13	25122746537afddf9fff9fc9412e30e03d07f2d0	e52b23f4
-FinalBurn Neo (ClrMame Pro XML, NES Games only).dat	 \bios\fbneo\FinalBurn Neo (ClrMame Pro XML, NES Games only).dat	d4ee652b2f9ab5883fed97a1c80b69ed	5eefeedbb8fcec08d60a8c136ac194df2523231c	2874b15c
-FinalBurn Neo (ClrMame Pro XML, PC-Engine only).dat	 \bios\fbneo\FinalBurn Neo (ClrMame Pro XML, PC-Engine only).dat	2c092418d5eed5fdf1408b82a50bced6	c40689fb6e657c451f1091594909d18a77b2589a	39f98998
-FinalBurn Neo (ClrMame Pro XML, Sega SG-1000 only).dat	 \bios\fbneo\FinalBurn Neo (ClrMame Pro XML, Sega SG-1000 only).dat	07a602d576194eae74be4dcb61efb9d0	80c914bfb94a5264d5bd032c602b120a836f7f49	a22a9b8c
-FinalBurn Neo (ClrMame Pro XML, SuprGrafx only).dat	 \bios\fbneo\FinalBurn Neo (ClrMame Pro XML, SuprGrafx only).dat	8bfc6676355901266c4b2a064473577f	851757678d10b30449a4c222cb8c779e1ed718f0	283e5855
-FinalBurn Neo (ClrMame Pro XML, TurboGrafx16 only).dat	 \bios\fbneo\FinalBurn Neo (ClrMame Pro XML, TurboGrafx16 only).dat	3ecbb3823e69489d06b9831820e306d0	0ed4162b10325c7b9e61542c985a2131dacf8e4a	d23e4faf
-FinalBurn Neo (ClrMame Pro XML, ZX Spectrum Games only).dat	 \bios\fbneo\FinalBurn Neo (ClrMame Pro XML, ZX Spectrum Games only).dat	14d6ec5e40a23be9fd5a36bfaa023fc7	a025d29a51322cf36989514221718a44c4a5b604	cd3bbf93
-hiscore.dat	 \bios\fbneo\hiscore.dat	53c6a0c3fb14fb51109d6a4f356f49ac	1b50c19d2b509f69e9b463d1e1715fd7422406d8	37cf5874
-FinalBurn Neo Light (ClrMame Pro XML, Arcade only).dat	 \bios\fbneo\light\FinalBurn Neo Light (ClrMame Pro XML, Arcade only).dat	a18cdc12a4008e95c9fc7b59f403421f	6904fcf70d4fc74969dc08ca5c77ac0622a494fa	5814c828
-FinalBurn Neo Light (ClrMame Pro XML, ColecoVision only).dat	 \bios\fbneo\light\FinalBurn Neo Light (ClrMame Pro XML, ColecoVision only).dat	cf0f4af471b8b5efcc1f0a816f98490c	57a81404ce76bf4a71a5aea7e0514ff96e44656a	3564d84c
-FinalBurn Neo Light (ClrMame Pro XML, Fairchild Channel F Games only).dat	 \bios\fbneo\light\FinalBurn Neo Light (ClrMame Pro XML, Fairchild Channel F Games only).dat	3a9ee904740d5be3653f3930937f17b2	ef7ecf6f8872faa2fc964e5df69fc5fa1871af4e	1594abb8
-FinalBurn Neo Light (ClrMame Pro XML, Game Gear only).dat	 \bios\fbneo\light\FinalBurn Neo Light (ClrMame Pro XML, Game Gear only).dat	b55e7981a53d5dc36bd13bc718a47cdc	24559b86f3223d00d5a67b88df6c7f9d8ae3b586	7a9b2cbf
-FinalBurn Neo Light (ClrMame Pro XML, Master System only).dat	 \bios\fbneo\light\FinalBurn Neo Light (ClrMame Pro XML, Master System only).dat	17723bc632eb34b9bcfd333cebb3afbe	2f49db9981a4000bdf48b6257e01281fae639187	f16fac28
-FinalBurn Neo Light (ClrMame Pro XML, Megadrive only).dat	 \bios\fbneo\light\FinalBurn Neo Light (ClrMame Pro XML, Megadrive only).dat	6fd312856eabeec8e13ce8b8e4d5032a	eea1029bd75c047d30448f9a7ac5aacdd19052a1	17f81dce
-FinalBurn Neo Light (ClrMame Pro XML, Neogeo only).dat	 \bios\fbneo\light\FinalBurn Neo Light (ClrMame Pro XML, Neogeo only).dat	3e586757cfadb164fb8465f49cd01017	ecbe7bc3dd7fee7ee9ef4cbe7a323464d8b66f1d	486f1b35
-FinalBurn Neo Light (ClrMame Pro XML, NeoGeo Pocket Games only).dat	 \bios\fbneo\light\FinalBurn Neo Light (ClrMame Pro XML, NeoGeo Pocket Games only).dat	f9fc24b7d4d01e70b205e6cfea0a06e7	df0e41818baa5d43c28cd5c86cac05821ceb1b8d	3830adc4
-FinalBurn Neo Light (ClrMame Pro XML, Sega SG-1000 only).dat	 \bios\fbneo\light\FinalBurn Neo Light (ClrMame Pro XML, Sega SG-1000 only).dat	cbf8ed5de2872639faef81032859c4b8	05c74c118ead0d093237e80212c7b1322fe715e9	598809de
-README.md	 \bios\fbneo\light\README.md	5259e07ff5d264ec0101e5da8e557813	c63a351f5c5060733ce3edbe0243db2922f2dac1	ae8d7fed
-128p-0.rom	 \bios\fuse\128p-0.rom	a249565f03b98d004ee7f019570069cd	d07fcdeca892ee80494d286ea9ea5bf3928a1aca	124ad9e0
-128p-1.rom	 \bios\fuse\128p-1.rom	6e09e5d3c4aef166601669feaaadc01c	80080644289ed93d71a1103992a154cc9802b2fa	b96a36be
-256s-0.rom	 \bios\fuse\256s-0.rom	b9fda5b6a747ff037365b0e2d8c4379a	477114ff0fe1388e0979df1423602b21248164e5	0eb40a09
-256s-1.rom	 \bios\fuse\256s-1.rom	643861ad34831b255bf2eb64e8b6ecb8	367b5a102fb663beee8e7930b8c4acc219c1f7b3	9d513013
-256s-2.rom	 \bios\fuse\256s-2.rom	d8ad507b1c915a9acfe0d73957082926	07783ee295274d8ff15d935bfd787c8ac1d54900	fd0d3ce1
-256s-3.rom	 \bios\fuse\256s-3.rom	ce0723f9bc02f4948c15d3b3230ae831	33703e97cc93b7edfcc0334b64233cf81b7930db	1fe1d003
-gluck.rom	 \bios\fuse\gluck.rom	d5869034604dbfd2c1d54170e874fd0a	015eb96dafb273d4f4512c467e9b43c305fd1bc4	ca321d79
-trdos.rom	 \bios\fuse\trdos.rom	0da70a5d2a0e733398e005b96b7e4ba6	21695e3f2a8f796386ce66eea8a246b0ac44810c	10751aba
-.gitkeep	 \bios\gamecube\EUR\.gitkeep	d41d8cd98f00b204e9800998ecf8427e	da39a3ee5e6b4b0d3255bfef95601890afd80709	00000000
-IPL.bin	 \bios\gamecube\EUR\IPL.bin	0cdda509e2da83c85bfe423dd87346cc	f27c63e5394e2fd1606f70df004c4fc2d6027700	4f319f43
-.gitkeep	 \bios\gamecube\JAP\.gitkeep	d41d8cd98f00b204e9800998ecf8427e	da39a3ee5e6b4b0d3255bfef95601890afd80709	00000000
-IPL.bin	 \bios\gamecube\JAP\IPL.bin	fc924a7c879b661abc37cec4f018fdf3	a1837968288253ed541f2b11440b68f5a9b33875	6dac1f2a
-.gitkeep	 \bios\gamecube\USA\.gitkeep	d41d8cd98f00b204e9800998ecf8427e	da39a3ee5e6b4b0d3255bfef95601890afd80709	00000000
-IPL.bin	 \bios\gamecube\USA\IPL.bin	339848a0b7c2124cf155276c1e79cbd0	f3cd0c7c61cbcefa85e7de3aff4cfa50bc508714	667d0b64
-open_gba_bios.bin	 \bios\gba\open_gba_bios.bin	1876f71b0d8c65eef3454547896ffb11	598c0b2c6c5d15bbba218773574c9e7856d141f3	9ea7e05e
-aes.zip	 \bios\geolith\aes.zip	ad9585c72130c56f04ae26aae87c289d	23c66caa80b93199914fae246a5ea6e84db1be29	12c66621
-neogeo.zip	 \bios\geolith\neogeo.zip	00dad01abdbf8ea9e79ad2fe11bdb182	deb62b0074b8cae4f162c257662136733cfc76ad	81315163
-cgrom.dat	 \bios\keropi\cgrom.dat	cb0a5cfcf7247a7eab74bb2716260269	8d72c5b4d63bb14c5dbdac495244d659aa1498b6	9f3195f1
-config	 \bios\keropi\config	d407317a52f8425a6753232064d14700	77be2f6f28897f99b73d4c47bf7cd47e999fd7cd	5dd9a0c5
-iplrom.dat	 \bios\keropi\iplrom.dat	7fd4caabac1d9169e289f0f7bbf71d8e	0ed038ed2133b9f78c6e37256807424e0d927560	72bdf532
-iplrom30.dat	 \bios\keropi\iplrom30.dat	f373003710ab4322642f527f567e020a	239e9124568c862c31d9ec0605e32373ea74b86a	e8f8fdad
-iplromco.dat	 \bios\keropi\iplromco.dat	cc78d4f4900f622bd6de1aed7f52592f	77511fc58798404701f66b6bbc9cbde06596eba7	6c7ef608
-iplromxv.dat	 \bios\keropi\iplromxv.dat	0617321daa182c3f3d6f41fd02fb3275	e33cdcdb69cd257b0b211ef46e7a8b144637db57	00eeb408
-config.ini	 \bios\Machines\COL - Bit Corporation Dina\config.ini	496751f95950f4ba240479e454f9bf00	33c1dbf723ddff0994aa56d7607e5b0e9757c9c5	ad177b1c
-czz50-1.rom	 \bios\Machines\COL - Bit Corporation Dina\czz50-1.rom	1de922acdd742d31349c2801e9768c35	17fbbf2aa6a336454f9bd6f3f2b7b17bbe28c072	696c101a
-czz50-2.rom	 \bios\Machines\COL - Bit Corporation Dina\czz50-2.rom	72b089dc55b7fe7ffb5028f365e8c045	ccbe07648f72eeedcde3fc8feb665124fcbf97ad	6538dd32
-coleco.rom	 \bios\Machines\COL - ColecoVision\coleco.rom	2c66f5911e5b42b8ebe113403548eee7	45bedc4cbdeac66c7df59e9e599195c778d86a92	3aa93ef3
-config.ini	 \bios\Machines\COL - ColecoVision\config.ini	8ed74c95dcaad0d714e1734c82159119	0f0b7b73ba6f8677dfc5c824bb3edf6df2ff653e	d3de69d9
-coleco.rom	 \bios\Machines\COL - ColecoVision with Opcode Memory Extension\coleco.rom	2c66f5911e5b42b8ebe113403548eee7	45bedc4cbdeac66c7df59e9e599195c778d86a92	3aa93ef3
-config.ini	 \bios\Machines\COL - ColecoVision with Opcode Memory Extension\config.ini	fbf084848c822891684c5791d190a5c2	a6d5df689e8263b3cd1870c287132a767e30bb78	4233f38d
-config.ini	 \bios\Machines\COL - Spectravideo SVI-603 Coleco\config.ini	0622c054e44d55649a1bcfa35c1b1254	930e778317ea802a848f596e0054ec46375d53c6	f8b7f23b
-SVI603.ROM	 \bios\Machines\COL - Spectravideo SVI-603 Coleco\SVI603.ROM	c60a2e85572c0ccb69505a7646d5c1b6	8a30abe5ffef810b0f99b86db38b1b3c9d259b78	19e91b82
-config.ini	 \bios\Machines\Forte II Games - Pesadelo\config.ini	ea55e8981db21b6e4322ff53e2149421	3f56cdf8736a9e1d2d1e0dadefb8c19786aff01b	d2803680
-pesadelo.rom	 \bios\Machines\Forte II Games - Pesadelo\pesadelo.rom	ba53d700ec25bcb08020ce693319cd28	12880dd7ad82acf04861843fb9d4f0f926d18f6b	1ae2f724
-config.ini	 \bios\Machines\MSX\config.ini	98501fb5bd45bb5995f1f1ddb4fe520c	483b2c34fcb3ddcf650314e45104f358ef74c98b	fb7ea5d9
-config.ini	 \bios\Machines\MSX - Al Alamiah AX-170\config.ini	443526e576c008ac16881e637bc30a16	cff532d00a2cb17548348f492bc520d346e4a045	f9fe3f94
-config.ini	 \bios\Machines\MSX - Arabic\config.ini	b925034360e13d44623449f337bd517f	f782ca81dde6a0c80f58289e83a1af59ea1d40ee	e0f1c37d
-config.ini	 \bios\Machines\MSX - Brazilian\config.ini	fb15adbcf2e9dfc97f761931a7926eb6	bc70db412a9677ebbbab4b565ef6d2c85b259db2	eafc0ceb
-cbios.txt	 \bios\Machines\MSX - C-BIOS\cbios.txt	86065454ad150f78acb1ea3d2b4659c0	1152f3e3eff0afac2143d478f157fd26c7466e6e	582c06d2
-cbios_logo_msx1.rom	 \bios\Machines\MSX - C-BIOS\cbios_logo_msx1.rom	25b5cdea5040883a206b89845cdf55f1	95fe138745f5e627b021085c7e4629a6dfe6f93a	f969e424
-cbios_main_msx1.rom	 \bios\Machines\MSX - C-BIOS\cbios_main_msx1.rom	87b27f48cc25e2b6f749c019587d5f23	a49bcf7a5a1115815f730782a1fd7d1c79ce29e7	f0050785
-config.ini	 \bios\Machines\MSX - C-BIOS\config.ini	2106d77a87f334c3bf7d6e11526d51ff	0f232bd2d7410baf3ccd158b4348a0e0f1e44e71	34c4378c
-config.ini	 \bios\Machines\MSX - Canon V-10\config.ini	303a7e804bb5dd2e623737b733325043	eb287d4eae5d90f47e7ba8f94b430e2e52c61249	9ac28de1
-config.ini	 \bios\Machines\MSX - Canon V-20\config.ini	b2044d513692bec22c3a6fd1c922c29d	37ca9bac21eacbc012a80219d15381d757bcfb14	a859dd0b
-config.ini	 \bios\Machines\MSX - Daewoo DPC-100\config.ini	a34ef58f30cc7f5aa5386385665e538b	c989cb1bb632a1482298c234a4a76a3f94282390	77a5003f
-config.ini	 \bios\Machines\MSX - Daewoo DPC-180\config.ini	061163886469279a1c45d3fd1ce7fbeb	1a033e4508e549421c94f83473de8dbd3aba834d	09b64445
-config.ini	 \bios\Machines\MSX - Daewoo DPC-200\config.ini	d5c38321e43f6ea29f0cacada86836f7	ed5fdda9435c4c4cbb96b5231032f0e7128ec542	29b291cd
-config.ini	 \bios\Machines\MSX - Daewoo DPC-200E\config.ini	dcd690ca386e0eec71a3f314c7d53421	0f6b7cd53ce79a577988f2341335bff24ad90f1f	20643071
-config.ini	 \bios\Machines\MSX - Estonian\config.ini	1f3f76fe5d34ef1f8a3eaeb6e27bbfa3	c7bb8d863582e68650c3a0090369b626fbc3b7de	b1844936
-config.ini	 \bios\Machines\MSX - Frael Bruc 100-1\config.ini	4deb67abd14f890e3afb6c028b37da8d	99d5ec793bb00f1ee9f7bb856492da82f3e4858b	f91ee238
-config.ini	 \bios\Machines\MSX - French\config.ini	55675b187b3c35a477a169c077e1805d	c375acc521b0df362faab7745e0f35acde92a85e	4a086035
-config.ini	 \bios\Machines\MSX - German\config.ini	75541f9a4c4126edb2362d816b05d00f	b3017e7d79ca0634bb313dd469852789610a4548	fe7aa493
-config.ini	 \bios\Machines\MSX - Goldstar FC-200\config.ini	35a348fd662754bfd9eba62ae5d5d874	eab1c23bd2e6ace8ef38e048ec71ccedb46c857d	acf2101e
-config.ini	 \bios\Machines\MSX - Gradiente Expert 1.0\config.ini	60295caa45190888a31bde42eee615c5	69ce8179babc5f2e446fa86c94dfbc9b4da67d37	d6104239
-config.ini	 \bios\Machines\MSX - Gradiente Expert 1.1\config.ini	2dff90d68a0b96444a66b861879ffcdc	fd9c7514639efceac987d6d492353b9982470a61	fb9e90b4
-config.ini	 \bios\Machines\MSX - Gradiente Expert 1.3\config.ini	a1f13100e0d1b1e5090e70e21a16dc1d	099a128c2d077673dc7db5454727922486c83895	b7f821ed
-config.ini	 \bios\Machines\MSX - Gradiente Expert DDPlus\config.ini	919e4290bb8672c0729bb467c5180899	042d579bed20c0ef64f8128ec782b5057708dd23	01f45d95
-config.ini	 \bios\Machines\MSX - Gradiente Expert Plus\config.ini	06ed665b34001401a4e65ff74ee3f222	d8b53c972cb1559298f83fec9fd9913e724ba129	f15a946b
-config.ini	 \bios\Machines\MSX - Japanese\config.ini	a7b19e8b12ce1a292b0bfc6e0d48425a	1f2f42a3c5d8471da652bcf2a9b620798487cf11	6c4d184c
-config.ini	 \bios\Machines\MSX - JVC HC-7GB\config.ini	49d30acdeccac1f2edbabedcb85d4859	4cdeb73232ad5887fcee0259db5e5a1354848018	8a857a78
-config.ini	 \bios\Machines\MSX - Korean\config.ini	3f9b143d1740391358a273e9cab7f723	718dceb5ffb6294ce5a179848cf862fc0d72ad71	77cf5559
-config.ini	 \bios\Machines\MSX - Mitsubishi ML-F80\config.ini	583207b66a47ec07b2cca99f579931a8	b71e6a9b1ad1a325d680dfee53b86a4b507118a3	d08091c7
-config.ini	 \bios\Machines\MSX - Mitsubishi ML-FX1\config.ini	bbf42e6f2a97759412fce64e0b42b1bb	578be282f58a280bc3706950f950d9c4650d6113	70c19a2f
-config.ini	 \bios\Machines\MSX - National CF-1200\config.ini	cf29d099b1d7f774b2e229ded7b0ed6f	a8208695f82b96b797c58b508b5b788199a83427	c562617e
-config.ini	 \bios\Machines\MSX - National CF-2000\config.ini	1c4c478866542b5d7ee75df7ff717160	95781d184bc5d8e310fa22bf94e0b7ddb89bdf86	837ea63c
-config.ini	 \bios\Machines\MSX - National CF-2700\config.ini	30d4035d799dc261fdc29ea918b398cb	6f7f3c9a4ae8beb60a54d98a15ec6001ba1f211e	7459599d
-config.ini	 \bios\Machines\MSX - National CF-3000\config.ini	cba9693441cfa310e6d644ba8bb6ee56	9241d9b114d514cd9d5957203b43818ad29c6d16	ae4dc8be
-config.ini	 \bios\Machines\MSX - National CF-3300\config.ini	dd40b80a3f55d801fd59f230ef1c9da2	8a060b6169b87a524fd8d2fc8b8b47ac0f8368b9	347d5889
-config.ini	 \bios\Machines\MSX - National FS-1300\config.ini	de4e6dc535359e902429614a3f2b8733	d2a894d58428246ee2d1fc16d89bfd04659ab35f	f57712ce
-config.ini	 \bios\Machines\MSX - National FS-4000\config.ini	7f9ecd9439b02321dd0bfd6c7fc95250	73f60e3d7c83f87ce3f6ff85ea94960bc3425316	c5e03f68
-config.ini	 \bios\Machines\MSX - Olympia PHC-2\config.ini	04aeefa9a623c51da7d1c58c8dcb9e26	4364432d0a1ad21ce06705052248b1df8dd9052d	b6eeb005
-config.ini	 \bios\Machines\MSX - Olympia PHC-28\config.ini	9aa760f7d925399635f9f8d267a0dc0f	b15daf568e6e6b29e4c0ce4674a6389f81589b2d	102592bf
-config.ini	 \bios\Machines\MSX - Panasonic CF-2700G\config.ini	5ea458250339d0c1c33d67ada3f8ffa3	d14db70e8200b2829aba83f724d104b7247a9626	3c90a508
-config.ini	 \bios\Machines\MSX - Philips NMS-801\config.ini	ed761c105612e7bbdfda8cce9d4ea219	db6516ac9fd99e47ca9c68c66260d053b4316e30	302e63e8
-config.ini	 \bios\Machines\MSX - Philips VG-8000\config.ini	fd10cabf36ec82a2bbdfbf0d99f78a91	347c24c34caab687856a7dcbb4404046c5af1b34	f88548e0
-config.ini	 \bios\Machines\MSX - Philips VG-8010\config.ini	351e6bfea5c2103ad5748fab529f8954	c5ab3e58e7e1ed861af60e4161ce6164af1e36be	960cac22
-config.ini	 \bios\Machines\MSX - Philips VG-8010F\config.ini	901ce9531bc4be0b0e0d26b4f394f7c6	ad03d600d5b8e4047477efb817e6625ff064d414	51957b67
-config.ini	 \bios\Machines\MSX - Philips VG-8020-00\config.ini	1ecc77a90b6e598a94069b44bcc3754c	10353870ff25664b46826ebc4d074467034cbbec	111c72af
-config.ini	 \bios\Machines\MSX - Philips VG-8020-20\config.ini	fe28d629f34437e3b26e7b8d9354e249	d69b93fad3a65c27977b82695087139b3843b3b3	388304d6
-config.ini	 \bios\Machines\MSX - Philips VG-8020F\config.ini	5a02902a25da58826b3b3f5db64ac647	3f00f566202992941f082c9748442c8fd08e5671	fb6cac1c
-config.ini	 \bios\Machines\MSX - Pioneer PX-7\config.ini	a9fabec1af1f20906a04a3751d4a18e5	1a3a35acaf1186104b0792c9cb0b52e45ad5d869	7d61c164
-config.ini	 \bios\Machines\MSX - Pioneer PX-V60\config.ini	b3d52b1a247bcd45cde371f3994e0ab6	fc0aff559469ba63c7ebe2e22065f510212df6a5	3f258628
-config.ini	 \bios\Machines\MSX - Russian\config.ini	6d318d7145545fe18375091357e73659	cc393b4c73273a6710068d4dc7d16952d55a56f7	d5329647
-config.ini	 \bios\Machines\MSX - Sanyo MPC-100\config.ini	eaf627e1a5b339618f84d32b22b2b200	6fb3f394904d0c50e595f1df22cfaf7955ccaaa2	c72bae29
-config.ini	 \bios\Machines\MSX - Sanyo MPC-64\config.ini	1eb0e05afa6ab1f92d7b6fa01f1f4de5	dc033c3b50f9b5921faa58af3e6382f05210f00b	1ce7a6af
-config.ini	 \bios\Machines\MSX - Sanyo PHC-28L\config.ini	2915964c29a287bc8f1c1bf9a0b959fd	921d3ff67ecb870098a86ae5f8022d4858aaed3b	dfacbf5e
-config.ini	 \bios\Machines\MSX - Sanyo PHC-28S\config.ini	4c3ef93d9b09627b7f1a5fb2badddf24	1a0df568997ce23d8eeb5985d74295a87de37843	98842945
-config.ini	 \bios\Machines\MSX - Sanyo Wavy MPC-10\config.ini	7c1dfb85af6ea9b15483c63c5fdf384a	c7a0b2f43ae2ae5ab4c7d3b39d5915a648792516	41b32477
-config.ini	 \bios\Machines\MSX - Sharp Epcom HotBit 1.1\config.ini	85b99a8b5b7155fa8fe44000c84b69a9	4df2c7c7acbb7287944df64479ac327d262efb70	ca568852
-config.ini	 \bios\Machines\MSX - Sharp Epcom HotBit 1.2\config.ini	556fd234f4b8b939ef2b1470907f937b	117cb4dcbc2ff443fced1aa81f8e46ae4d013e96	22b6e359
-config.ini	 \bios\Machines\MSX - Sharp Epcom HotBit 1.3b\config.ini	9e304d760602424e43b2e8398e51f378	02b44e3ca7a9a187012e0669fdc087117f2319a5	bf6beb70
-config.ini	 \bios\Machines\MSX - Sharp Epcom HotBit 1.3p\config.ini	f2b4682473be9fba29ce04d9a6a96a74	213641733001bea40d323ed1f8054cdafc9bcee2	e2677af7
-config.ini	 \bios\Machines\MSX - Sony HB-10P\config.ini	cf4f0d4ce65ec97a7ea655407af48179	32b04756b3bec58ecd88910ec1ea5e45754d95b7	ed471739
-config.ini	 \bios\Machines\MSX - Sony HB-201\config.ini	ef65fc7c33806162af8b9059309332e1	c715982aa811b9d9d8e801ab9f5e8d784ff93a46	8fe12434
-config.ini	 \bios\Machines\MSX - Sony HB-201P\config.ini	aa04a57cb87b6a11e584a0f9ebce047e	c353f4d7f8cf0ee58782882d73dbbb8bf41097f9	6fab5ee0
-config.ini	 \bios\Machines\MSX - Sony HB-20P\config.ini	3e414479d312b0a09e628f33703e2f1d	e6505cf68a9942b6648fa87c812d931cb3b5c2d3	b50f35db
-config.ini	 \bios\Machines\MSX - Sony HB-501P\config.ini	22ddcfb504a42962c18e00b5b27938eb	8e8a2aca5ef380b1a6ce9d652cf452db18c1ffb2	301881e4
-config.ini	 \bios\Machines\MSX - Sony HB-55D\config.ini	117f9065becc230bcac2c2697d64388e	9695c4dc48e63b9acee5c0d40a6e01849ffcc3bb	9b6d45ea
-config.ini	 \bios\Machines\MSX - Sony HB-55P\config.ini	e8008ed2668c9612fc0e72115557692b	5798acb86557a676a6e92c61948f0dec23886a83	62d74324
-config.ini	 \bios\Machines\MSX - Sony HB-75D\config.ini	ef25834ad8cba5a77a66a171074119e3	3405ea76acf361788e905d7a7e382c8cb01c9f3e	c7c00a93
-config.ini	 \bios\Machines\MSX - Sony HB-75P\config.ini	b40b186f718eb61e121d3e135505e15a	7a234f193625f3daa2bfdf1b4ecd64910a5e73f0	f7a2eb39
-config.ini	 \bios\Machines\MSX - Spanish\config.ini	9d858780032cfa6bc3e7d0b0d526dcb6	5641c9b3167a438d3a7ac4695116d3bfb12eabfd	0fe6f34c
-config.ini	 \bios\Machines\MSX - Spectravideo SVI-728\config.ini	a2b238f5507e13a7b7a9edadede476da	2ab1cdfa6169ee2d9021137410676a24ca3fa9be	3a44e91f
-config.ini	 \bios\Machines\MSX - Spectravideo SVI-738\config.ini	e1ccfd1d7e4765e74fe6ccdf152a4e9e	f98f9e4a32f85187f91117177663e51c7a8c2ae0	b123eb6d
-config.ini	 \bios\Machines\MSX - Spectravideo SVI-738 Henrik Gilvad\config.ini	9984a9615309f8b0fd77fe468c08fa60	2afd2a06067aa847b09b81de59305ea29e6d902d	5b607874
-config.ini	 \bios\Machines\MSX - Spectravideo SVI-738 Swedish\config.ini	780273d30afb7764d4b08f338f481432	6e4f708ad9f203751afac2597177287d40045bf5	9118ad4e
-config.ini	 \bios\Machines\MSX - Swedish\config.ini	614d44596f10001acc2ddaa9b20e398c	3a416bfe651475ce0ad1ce6bd2dfa5e48df26eac	779b3baa
-config.ini	 \bios\Machines\MSX - Talent DPC-200\config.ini	ebb98f6223985963133d8b0e7ecacaf5	2a1056f50cd842a5bf66e5f8f1daae5f1681db68	075f91d6
-config.ini	 \bios\Machines\MSX - Talent DPC-200A\config.ini	a1efd35a690e8deff1c0431e1ab5a8b9	1bb388ef31a9b8b0a06268159ab9408e47f1c464	57af5392
-config.ini	 \bios\Machines\MSX - Toshiba HX-10\config.ini	40a28060672ce962b563db76ef87e7da	ab08688dbe3409ab6f01ad0f60c323250dbed173	34c70da4
-config.ini	 \bios\Machines\MSX - Toshiba HX-10S\config.ini	27b67fde8aac2a43d171be40d2ec41e3	61ab8b6b61ae9dc884fbd97f2c740ea6440441c1	f77f58fd
-config.ini	 \bios\Machines\MSX - Toshiba HX-20\config.ini	c95a3c7d736ddd88d27d9fa388f45b53	ba497e1c98c10638a3cb76be16d5168e87338da9	6889993b
-config.ini	 \bios\Machines\MSX - Yamaha CX5M-1\config.ini	4df689f47c2ac685e302629b120c6335	79f9b2a149b5640a260c0af1ee0c4ab972c60e74	0039cbde
-config.ini	 \bios\Machines\MSX - Yamaha CX5M-128\config.ini	aa38d15d8ad2c3fa1d116adf14e3c2ab	fc5b1f3aaec25ead14eb9b74b187ba4a5d62eebf	b3e1ecae
-config.ini	 \bios\Machines\MSX - Yamaha CX5M-2\config.ini	b467beca81fd9faa04a3d48413df53fb	d83782fb25c4fc73697cc8137dc71ef68258682d	bfe16742
-config.ini	 \bios\Machines\MSX - Yamaha CX5MII\config.ini	dcb40987b978b4160f4a48ab12d89019	aae207dba987e699ff5b9d58de2569dc570a2900	baa6720e
-config.ini	 \bios\Machines\MSX - Yamaha YIS303\config.ini	e377cdab0ebcb7ec7245e046a0ed0f3f	aeef4cba14b6cbdbab2c3f0252bec86956a503ad	e3c8308d
-config.ini	 \bios\Machines\MSX - Yamaha YIS503\config.ini	90927225106ffe3e015c34392aa64c88	a430b9300a5ae9b0584113714a3d94b73ccfc455	513b3d55
-config.ini	 \bios\Machines\MSX - Yamaha YIS503F\config.ini	ebf6d6bc7a8d1cb9b55542e9c63c7aa6	ca0418d9f87b0f7161fbcc2bdcc7e355e7e69503	f5339b4d
-config.ini	 \bios\Machines\MSX - Yamaha YIS503II\config.ini	ac96b4ce3285d31db7c02034b9046db2	479f333a72c7e3de935d1230c66d92594c2876f7	6b90864e
-config.ini	 \bios\Machines\MSX - Yamaha YIS503IIR\config.ini	1e88e128a9c3aa2600140bd80a07fa4b	440d02ed098d2d5d847dc5b785c6bd3eae27720f	3209d68f
-config.ini	 \bios\Machines\MSX - Yamaha YIS503IIR Estonian\config.ini	4df0c5ee5167c505a65af1d857cdf217	471db782f1b7e85d332ce88ebbdcd12f92d75a60	fca636b9
-config.ini	 \bios\Machines\MSX - Yamaha YIS503M\config.ini	326aba10fbf9b3f00010dfb3d74345f2	fbccedb75c77953ed9d5b87ddc8b0c3991d33be4	ed147bd7
-config.ini	 \bios\Machines\MSX - Yashica YC-64\config.ini	d0df7e57c78a32e6bb8ede6ac65c918c	dd009df24ad82298d982a1ddc86ea5556a8a920a	c581cc8f
-config.ini	 \bios\Machines\MSX - Yeno DPC-64\config.ini	b7fc9d5696411b340a5c60212b37fdd7	a69458fc93a73592eabebd7c8ab9b25372b9cc63	dd81f0b1
-config.ini	 \bios\Machines\MSX - Yeno MX64\config.ini	b81e4fb3429ec9894711a540a7ee706c	8185bb8361fe9aeb4c1cb8483bfcbbe1ff5ac10a	b3f889b5
-config.ini	 \bios\Machines\MSX2\config.ini	c616cfad5eba7ac99b03bc2d40ac669b	460ded0dbfc0285490da87a446b0321b6496aa5b	11543fa2
-config.ini	 \bios\Machines\MSX2 - Al Alamiah AX-350\config.ini	8aca07b7add1867c6492888b04b59384	e78ebeb26ec3672ca98e696cfea16ce79a2e21a1	42e63ed1
-config.ini	 \bios\Machines\MSX2 - Al Alamiah AX-370\config.ini	16b3f5e833de2f0179746e92e3718144	a07c82b456814d0f95029500661f3db2c02ea611	8a8e9736
-config.ini	 \bios\Machines\MSX2 - Arabic\config.ini	4959854e6184c1108de69e0bb617365a	66141cc07c768bed0370bb6fe7df3e4bdd80ab77	9c397eb5
-config.ini	 \bios\Machines\MSX2 - Brazilian\config.ini	1af4a2b55599048452d9c6d73c4dc4db	505cd7f8cb1e5afc2a8fd8b0937686b8d4546572	b0259ab1
-cbios.txt	 \bios\Machines\MSX2 - C-BIOS\cbios.txt	86065454ad150f78acb1ea3d2b4659c0	1152f3e3eff0afac2143d478f157fd26c7466e6e	582c06d2
-cbios_logo_msx2.rom	 \bios\Machines\MSX2 - C-BIOS\cbios_logo_msx2.rom	659db9142e62c51f2f75fd52fac78e44	6fc989ae715fe8492700a9d15934113d910aed36	4c5485aa
-cbios_main_msx2.rom	 \bios\Machines\MSX2 - C-BIOS\cbios_main_msx2.rom	98b94c2d99066f272bb5de07778f7fd1	0808d0486f77a44d3aa08cd77828a3748a356b8d	ec2fe089
-cbios_sub.rom	 \bios\Machines\MSX2 - C-BIOS\cbios_sub.rom	9dd9a69432cc116d0f1d4ec7a51053e0	565143f7c6fe0ffa12ec3069048113f44759d91a	f7a597e1
-config.ini	 \bios\Machines\MSX2 - C-BIOS\config.ini	f9d905f8f18f94ad25adef25fa2ab920	a8f33b4b8cb07449706d5e701badff1808f02415	080b6b1e
-config.ini	 \bios\Machines\MSX2 - Daewoo CPC-300\config.ini	59572ba87c2b04f0c4fb27e30d9cb5b2	ff9325fbe2da1bb36979cb0a187391b210bb8e0f	52530ccc
-config.ini	 \bios\Machines\MSX2 - Daewoo CPC-300E\config.ini	facaf93b411b38246dc86032f7dcabe7	12e560b28a75fcd78819078ec141edf6b91742f2	e2832ae3
-config.ini	 \bios\Machines\MSX2 - Daewoo CPC-400\config.ini	d910f354cb1cec0578885d3c4ca44872	4b7e4693dc160ece61b0bc5cd5b0b81042824b25	9af2e00a
-config.ini	 \bios\Machines\MSX2 - Daewoo CPC-400S\config.ini	03c1c3984f6dd43d0df763707b5ece54	6dc8cb156bbdf75761f0f28d2535fd4e07fa3371	8d968a40
-config.ini	 \bios\Machines\MSX2 - Estonian\config.ini	98280bf171c99dedc6892f4e0bec868c	e1f2b54ca864981af9fd9f60a6e06102293aefa0	19952725
-config.ini	 \bios\Machines\MSX2 - French\config.ini	4acfcff93020bfdc373a2c933de10c87	341cc08dfecb5bc1ed06b0f0f8d40efe5424e8f0	a64ff87b
-config.ini	 \bios\Machines\MSX2 - German\config.ini	e349db2db7b69db0baedbf248d048a37	046ba0eb76348827e0a3e2d2de289ff94e0970a5	bcb1d3b4
-config.ini	 \bios\Machines\MSX2 - Gradiente Expert 2.0\config.ini	af5efc299c663bf56e09fb04fc8327bb	c9f67f2d2a8d7a65b3ced09a2392e921afa6f7f1	df6daf1a
-config.ini	 \bios\Machines\MSX2 - Japanese\config.ini	c1ea670df9893d7f4bb3de8b618b71f7	10787827a4446712640dfc0c445d81edf71cf15f	17fc45d5
-config.ini	 \bios\Machines\MSX2 - Korean\config.ini	08a52a23c80a15077f6232ddc305a6ff	d4832afd2c34dec7300e7ab80ee7a8a921769bb9	f0f95424
-config.ini	 \bios\Machines\MSX2 - National FS-4500\config.ini	3018367b6eb9ef153b2eed55e376bfc0	20b751a66b6970561617194fdd64808f1186a286	d28a3906
-config.ini	 \bios\Machines\MSX2 - National FS-4600\config.ini	5e2e5dbfbae86930f43936563e8a4fcd	4b0248cc9d444b7a122c3e8d2e2e1975e15ebb10	71b23192
-config.ini	 \bios\Machines\MSX2 - National FS-4700\config.ini	53dd1196ad09d15fa7bd58009e641b56	d99fff49f500290fc562f3b72cef2fc442af9c2f	2f613014
-config.ini	 \bios\Machines\MSX2 - National FS-5000\config.ini	5694c60d98fb02cbfad2195562f8822f	f65cc0f72ffccf48e11ced10048e2f0930c79348	eb85babf
-config.ini	 \bios\Machines\MSX2 - National FS-5500F1\config.ini	f209ded395cae2d18b38b52d08e917ce	f0fae04dd4901d6b88e6fe6008b5f986014c8cc5	e6766dd5
-config.ini	 \bios\Machines\MSX2 - National FS-5500F2\config.ini	9414080be8e287adef46f61c3189d436	941bed70f7af87b53aae7eab58f6f761d4de1cdc	1463dadb
-config.ini	 \bios\Machines\MSX2 - Only PSG\config.ini	46e86fc50e1884841f440ca220aa7c3e	7d35fd78ccfea2a280fd77d5daf7a75eb2f1d233	73100086
-config.ini	 \bios\Machines\MSX2 - Panasonic FS-A1\config.ini	89be1be6a48c96125fb9b19dc261607d	79eed9af0bc82e86bb7d4f1880e1a2682a152001	c997303c
-config.ini	 \bios\Machines\MSX2 - Panasonic FS-A1 (a)\config.ini	3b32d2f011ce85330dbeba34cbd9eb7f	7def4e3e7c294d58ea48fb7c9016f72649f21fe2	e61fc329
-config.ini	 \bios\Machines\MSX2 - Panasonic FS-A1F\config.ini	c2674d01d037eb8e9a9156d77b1a8a96	cdacb737051190331bc39ed72ad6331c2c931420	81b43d48
-config.ini	 \bios\Machines\MSX2 - Panasonic FS-A1FM\config.ini	d1a4d700ee994511cd8323e62e28aadd	0c853e7dd545f6872851c508438752da6eb8a1e7	6022cafe
-config.ini	 \bios\Machines\MSX2 - Panasonic FS-A1MK2\config.ini	fbf273109701e5c27d291832afcc8ea9	c583400d3a9ea1e868346625b18577e339691a37	d3dc4c9c
-config.ini	 \bios\Machines\MSX2 - Philips NMS-8220\config.ini	fc0488be451b9d67460c74cd81ccd985	2153ddc013c17dec9efc569a202a8ae8edfc5879	0ebe4397
-config.ini	 \bios\Machines\MSX2 - Philips NMS-8220 (a)\config.ini	612de869ae0750976414cddcba675123	768b3b1d342b60bfafb345e037e9eab859cd4215	a93de8c0
-config.ini	 \bios\Machines\MSX2 - Philips NMS-8245\config.ini	0f06f51f6efd4d34a7e04ecb92126d20	e0ed25532058166404ccf42b9fd977da931c10e3	ec7f14c6
-config.ini	 \bios\Machines\MSX2 - Philips NMS-8245F\config.ini	1fecc67a405fbd790e410318549489ac	005b4bbbcb29680693d139bec449c6d180951d3a	7475b435
-config.ini	 \bios\Machines\MSX2 - Philips NMS-8250\config.ini	03aaa44026b81d85897bbc5419440e9d	1f89dcb7b89893e497ae9c2344dad90c74c21a37	a1628665
-config.ini	 \bios\Machines\MSX2 - Philips NMS-8255\config.ini	1dde9ea25d88a4cf32f94b303f690b78	b3a995c388f145c79af003ba5dbc1c2f06e6458f	c66c35f0
-config.ini	 \bios\Machines\MSX2 - Philips NMS-8280\config.ini	a5d32fbd3a44b8c2a9f3c963d62faa25	9efd61f78075fbcb548fa71f1e38971aa1e3aa0a	69a285b4
-config.ini	 \bios\Machines\MSX2 - Philips NMS-8280G\config.ini	2110465d2ffdff9c67b3c078898f68e7	8d7da37154f0347441ce981f68ad5d364e4ed4a8	0a2fe875
-config.ini	 \bios\Machines\MSX2 - Philips VG-8230\config.ini	0773929caf1b678c2895ad3d4c7386e0	3502d3f8e6e41fb92c9d5745358481d24d42373f	f3e9cc64
-config.ini	 \bios\Machines\MSX2 - Philips VG-8235\config.ini	a488399bfee5783e1c32d88f818ef064	4ff27cbb079b76198c77ce83df87dd9f78c65e3d	5ac10507
-config.ini	 \bios\Machines\MSX2 - Philips VG-8235F\config.ini	c483f982cae2f15d89249c79b395fab6	24c8e8cdc07a7ed5d4fef519c52b8d5c5c4f0bd7	2ea76906
-config.ini	 \bios\Machines\MSX2 - Philips VG-8240\config.ini	59eaedb98e61ad0f7063bb5192334187	afa8824f5b05d649dbef2cfd2b525fcc335305b8	87a1ee46
-config.ini	 \bios\Machines\MSX2 - Russian\config.ini	e6edd84f9311778ac7c83f86abf784b9	22dbd9e51ef0899515e28a6362c12e3e05daefe6	d599144f
-config.ini	 \bios\Machines\MSX2 - Sanyo Wavy MPC-25FD\config.ini	52553682ed75d6ddf2fb58d0bce493fe	dd03b46c8ebd33a5367fec3080831553f7062153	517437a9
-config.ini	 \bios\Machines\MSX2 - Sanyo Wavy PHC-23\config.ini	d28f6ac4e561423c31a0fb80f457e2a7	fcde481206f684048a48a716e9558d31ddd42898	ac750030
-config.ini	 \bios\Machines\MSX2 - Sharp Epcom HotBit 2.0\config.ini	76c6c18cdb0c3944bdd9c201dce58921	63cbe0c778c66b028b4eb431567b2fde945290f3	4028bd85
-config.ini	 \bios\Machines\MSX2 - Sony HB-F1\config.ini	7e0b0eb7b2c9aaba8bcad3e6024d9211	f266f069c8159f0f054fb5527fe3a28e9aab22c7	3d4977e9
-config.ini	 \bios\Machines\MSX2 - Sony HB-F1II\config.ini	577f8a4d2b98a27e81e0926bc62c82ad	7ac2361ab83a04e5bf4c2007fbd7865b3327a483	4c57996c
-config.ini	 \bios\Machines\MSX2 - Sony HB-F1XD\config.ini	a70f78bc869825d9ce59ea2867e45bc3	d999e6305009db781c7f579cf2e0be9f7e88484e	adce47dd
-config.ini	 \bios\Machines\MSX2 - Sony HB-F1XDMK2\config.ini	c56f85232c4e7a1a7480e06bfb87859f	b57ab62c9953644464da71cb466fd0a31e80b64d	9b54d48b
-config.ini	 \bios\Machines\MSX2 - Sony HB-F500\config.ini	a5165b6b795b8d3eff3eae67d8421bc3	d8a6f3a2fe3a178e04c9bbf4aac08ff6bf380e67	6138abf7
-config.ini	 \bios\Machines\MSX2 - Sony HB-F500P\config.ini	b7d66c0318fb51d25149d297c22a8c7d	791a8860b3ce7b8e3f218c683b4c2d4424d154a4	d284f5d7
-config.ini	 \bios\Machines\MSX2 - Sony HB-F700D\config.ini	ab562407c8026a157f939936f1347b61	8c7c8b0862aa804f6cbab4ba3b5c510aaa9efc95	c57083e9
-config.ini	 \bios\Machines\MSX2 - Sony HB-F700F\config.ini	5322e7e843f77009ba83a55eac8b7490	66b42bbb347b436ec7a33c29f5b6e228fc3bcacd	cf0e9203
-config.ini	 \bios\Machines\MSX2 - Sony HB-F700P\config.ini	d61e9a0a3f4ba3632a02bcfcf1a72b75	223a8ac1ba1476db6c0f403e3ae023b38fe3e83b	4d9bd42f
-config.ini	 \bios\Machines\MSX2 - Sony HB-F700S\config.ini	365d49bfaeb819afc034542c74f2da92	7b46bab5836a3d3b32b069e7d7e2d6290735b264	42dacd30
-config.ini	 \bios\Machines\MSX2 - Sony HB-F900\config.ini	644e01372ccf7584517e58f40147f8e6	de3fa5345e5dfad6c69d751ce132c5694a878334	6d1a1f65
-config.ini	 \bios\Machines\MSX2 - Sony HB-F900 (a)\config.ini	5ef958697492ea19425cdef81a709959	7398037569beb9e30f8e0857240b7882938ca693	5c0720a6
-config.ini	 \bios\Machines\MSX2 - Sony HB-F9P\config.ini	bb2bb20e0f2a9a1b70c1b73e372fe924	2df5a8558f7f55413668d7f6a649af0267261fa3	daac01c9
-config.ini	 \bios\Machines\MSX2 - Sony HB-F9P Russian\config.ini	fae978008634d56f2b8f3efc67d05e66	5db596d4f24bc49c8c0a4b9bc61b30cc4b19e734	70c34c64
-config.ini	 \bios\Machines\MSX2 - Sony HB-F9S\config.ini	d5faefc7fb271b5733c16bf22f3d4300	75b17d86347084e0b42a69a1934ab4928df3ba3f	29cdd686
-config.ini	 \bios\Machines\MSX2 - Sony HB-G900AP\config.ini	6f50ff6934aeaa75686b030316a7cbc1	a7b98188975117012ccf161c86d967e74fac2dfc	6255227f
-config.ini	 \bios\Machines\MSX2 - Sony HB-G900P\config.ini	cbf75cf14f93481f2e8c9af09df26601	24d0d7c20aaa7d8e799eb4cbd4ef3a4813036130	b1590bfa
-config.ini	 \bios\Machines\MSX2 - Spanish\config.ini	c7fe215cf4d434799f21220d78f7b555	80a6e5bfc62f38132fc74abcf9a39dbb6930b4da	e8135c5e
-config.ini	 \bios\Machines\MSX2 - Spectravideo SVI-738-2 CUC\config.ini	6dc5437477c3f3e7c6af974845c485af	58584d6f4a40189749a7d64c6801e5602d0fc86e	b21fb89e
-config.ini	 \bios\Machines\MSX2 - Spectravideo SVI-738-2 JP Grobler\config.ini	e3b95de6426b55814b05b4dd8eacea48	5232188e6a13fd3c275fa3ffc3f4ac9691cefd0f	5431b820
-config.ini	 \bios\Machines\MSX2 - Spectravideo SVI-738-2 LC Grosso\config.ini	abb88a7f213078ca077a49144b6154a3	845b8bdb5f0999f789c8aab34e7ffc0c15ce3a67	27c73224
-config.ini	 \bios\Machines\MSX2 - Swedish\config.ini	ce540179c472be16f22a24a624ed4bf1	8977b7f4809088dafbf68d6a34af4ad38a74bd81	dfa548ef
-config.ini	 \bios\Machines\MSX2 - Talent TPC-310\config.ini	4c94d6a9a9059bb4a4f2aadb90680b1f	d5e5e6670635e93b931c24a4411836f43cf116cb	8c4167ee
-config.ini	 \bios\Machines\MSX2 - Toshiba HX-23\config.ini	d0ec17dffbc20e8770a8b5c211fa6f33	32fe51f368863e2963f696feb379ef8b9dbe91de	27723bf9
-config.ini	 \bios\Machines\MSX2 - Toshiba HX-23F\config.ini	e16f2c5428f7bd43be861ea60680fcc3	f3a54879e4ad46fea3b3805ea5837d990debf5d2	425ce987
-config.ini	 \bios\Machines\MSX2 - Virtual Haesung Console\config.ini	ec29f60d0ec574d0a74eb8c4f3c4882e	517b3beee3094c25ebc23d972fafd58dff1c8157	12753037
-config.ini	 \bios\Machines\MSX2 - Yamaha CX7M\config.ini	e764c9b1422f95a67a9db31b5d37fab9	323e32b9d6591d070880bb69d6780879e01de514	9212c2db
-config.ini	 \bios\Machines\MSX2 - Yamaha CX7M-128\config.ini	2e6cc3f19c56fb26507d6e1784117fef	5ba860d316635d93d3ae7f5a5af90a2389c0f5a8	bb7da292
-config.ini	 \bios\Machines\MSX2+\config.ini	510c643fa932b346ea8b87ea4f965618	cb7d14a17c4f4632f17ba5a64160cdd876dd6010	8609e07e
-config.ini	 \bios\Machines\MSX2+ - Brazilian\config.ini	1b6b80b0393d819d68a824ab31714bee	9dcf2d88350f739871e4af3f91e8037aa2befbbf	3e97e707
-cbios.txt	 \bios\Machines\MSX2+ - C-BIOS\cbios.txt	86065454ad150f78acb1ea3d2b4659c0	1152f3e3eff0afac2143d478f157fd26c7466e6e	582c06d2
-cbios_logo_msx2+.rom	 \bios\Machines\MSX2+ - C-BIOS\cbios_logo_msx2+.rom	462d6ecb52a8c35dd7d48c2d46687f14	6e55cfc48d0d6ee57b041cb09427f614fb6a1910	1c7429c6
-cbios_main_msx2+.rom	 \bios\Machines\MSX2+ - C-BIOS\cbios_main_msx2+.rom	0a34c660614ead31dab78638ce7745e9	c5edc3b289dea120fe60ad38596a51c2e28838aa	ae23c039
-cbios_music.rom	 \bios\Machines\MSX2+ - C-BIOS\cbios_music.rom	e09783c4ec6d4770c5395c42bb0e1d91	5c5eb001e6a1fe29edb7abd428a3967bb388e5db	15c6ce2b
-cbios_sub.rom	 \bios\Machines\MSX2+ - C-BIOS\cbios_sub.rom	9dd9a69432cc116d0f1d4ec7a51053e0	565143f7c6fe0ffa12ec3069048113f44759d91a	f7a597e1
-config.ini	 \bios\Machines\MSX2+ - C-BIOS\config.ini	b7c58643eb6ebb245e312720f76ad13f	30b3932b7d2135157e5b7bbc4028efb9f658dc87	c7c6377f
-config.ini	 \bios\Machines\MSX2+ - Ciel Expert 3 IDE\config.ini	9a0acca0ceedef8eb1f2bcaac69e6621	4c06fda7639a0aee5a4835f89b834babc73f5bb9	8ea96669
-config.ini	 \bios\Machines\MSX2+ - Ciel Expert 3 Turbo\config.ini	dc6f18359093d2d18e1270aab7af5d70	77242eaab1acd34f1eb45a7c485fecac79d94a1e	7ab7592c
-config.ini	 \bios\Machines\MSX2+ - European\config.ini	a230e22345748b2b590efa1dc7e83f35	1877ba4b79c30deaf20d1b340a37a4a79899a491	390ca8fd
-KANJI.rom	 \bios\Machines\MSX2+ - European\KANJI.rom	acf53887c2d2783dc059a9b442c86b90	5aff2d9b6efc723bc395b0f96f0adfa83cc54a49	1f6406fb
-Msx2pe.rom	 \bios\Machines\MSX2+ - European\Msx2pe.rom	277fd57c13f301fb4b366845a32d673a	aea0e4a635efce5336e496d36e4cb0a4b79593ff	76c46fe0
-Msx2pexte.rom	 \bios\Machines\MSX2+ - European\Msx2pexte.rom	f78ab735aaad7045badbda8f4c8ac751	cf00ec60608010aac94cfe245eb7aa67cb44d110	2852b383
-MSX2PMUS.rom	 \bios\Machines\MSX2+ - European\MSX2PMUS.rom	f877f32e6d8687474ac5ee83e40de23b	6354ccc5c100b1c558c9395fa8c00784d2e9b0a3	456e494e
-MSXKANJI.rom	 \bios\Machines\MSX2+ - European\MSXKANJI.rom	9dfdebfaa6b547222a40aab8bb2e29f8	dcc3a67732aa01c4f2ee8d1ad886444a4dbafe06	b4fc574d
-PANASONICDISK.rom	 \bios\Machines\MSX2+ - European\PANASONICDISK.rom	00aa02b6077de40a0b51d71a3c3e1d5f	7ed7c55e0359737ac5e68d38cb6903f9e5d7c2b6	17fa392b
-XBASIC2.rom	 \bios\Machines\MSX2+ - European\XBASIC2.rom	0b6120f289336538bc564548109f97c6	47370bec7ca1f0615a54eda548b07fbc0c7ef398	2825b1a0
-config.ini	 \bios\Machines\MSX2+ - Gradiente Expert AC88+\config.ini	e1f518277698d1c9d6bf41982b2cb27d	8e20ae322c04ed76e25676db3b8e2f846f4491d5	fd549fa6
-config.ini	 \bios\Machines\MSX2+ - Gradiente Expert DDX+\config.ini	64269a04ab2622d235badd9c8c2f60f4	87a0783be86a7b3b4a70693ec2bfafafaefdd604	b03d487e
-config.ini	 \bios\Machines\MSX2+ - MSXPLAYer 2003\config.ini	0f134b0f916e2e23a23bda70711e8394	e8042ad74d64f20ff6b243e1a0c1790d7c8f5ffe	63683601
-config.ini	 \bios\Machines\MSX2+ - Panasonic FS-A1FX\config.ini	4a8c350a2eab84f552b1cfb689922c9c	fbaa4b4e21ff20892ebb59fda416939a736e10bb	a6d701ad
-config.ini	 \bios\Machines\MSX2+ - Panasonic FS-A1WSX\config.ini	cd85c5a118f6fabb267e8d1544867e7b	88b729e23341c5b47dee0b2509b1d93c1c19e9a0	520a1dd9
-config.ini	 \bios\Machines\MSX2+ - Panasonic FS-A1WX\config.ini	19f4cef7853bf4e85dbb97693c2faac9	248ebdfbb4f238bc88bec0092425f8a67e4403ae	c2c77072
-config.ini	 \bios\Machines\MSX2+ - Panasonic FS-A1WX (a)\config.ini	f563d420980ab7774b93c309a722fa2b	e818b3b8fa68936d5e7fe5573327d6282855bed1	36e76864
-config.ini	 \bios\Machines\MSX2+ - Sanyo Wavy PHC-35J\config.ini	e502a834ce2f239bde2226b89721c053	c5cfc42e522fd75ea76c029a697f77e36d267df3	d71d6c2a
-config.ini	 \bios\Machines\MSX2+ - Sanyo Wavy PHC-70FD1\config.ini	52aab807012d1d42049485d8ec807fc3	6a626d7d05fe83d6285e6d666c6eddb4a687e4c5	589092e3
-config.ini	 \bios\Machines\MSX2+ - Sanyo Wavy PHC-70FD2\config.ini	085b93f7cf9d5fb9060787b0c8048a08	8a6f4c6413ad97ef1828d5bd74b6aa61b32fba5b	da69e434
-config.ini	 \bios\Machines\MSX2+ - Sony HB-F1XDJ\config.ini	42a20ecf0a66f7cbcd9096e2c3491d7c	260afaa1894efdf55752e19ecb66017095b64af8	46edd0ba
-config.ini	 \bios\Machines\MSX2+ - Sony HB-F1XV\config.ini	b9f0b37f0103d32f6121df383451db37	4d9243b3484b3a99aafdf549f0afe798a263b8ad	e079eddd
-config.ini	 \bios\Machines\MSX2+ - Sony HB-F9S+\config.ini	c92aa9bf32a6015b8fe7e73e05002f99	f262716ae466e5d36d78f803e513a7c183084913	b83b0adc
-config.ini	 \bios\Machines\MSXturboR\config.ini	2112eca3217dd98cd55ab5aa79ec5296	9507b55069f673e476bcd34020127f6d2f6ed633	1f62c680
-config.ini	 \bios\Machines\MSXturboR - European\config.ini	086a40869e37a7a8aa870715f715434d	7e8010843572e4d539f2802de81a415c5a5d7e61	9435070a
-config.ini	 \bios\Machines\MSXturboR - Panasonic FS-A1GT\config.ini	ceefe613502252d767e993b87ed3c197	b518ca3aac43e6a7a212b3dcefb39dd05414fc28	55694c00
-config.ini	 \bios\Machines\MSXturboR - Panasonic FS-A1ST\config.ini	e73e586e8a390b161058c1444c312202	c849264e6c83623482dc1607003ad1c53acce84c	18dbaa99
-config.ini	 \bios\Machines\MSXturboR - Panasonic FS-A1ST (a)\config.ini	d0af5aa8c279e6be0d049ef7005c1022	36c171e2d82b1b3c68a5250ac89a6284a94ec6a9	a2bbe25c
-config.ini	 \bios\Machines\MSXturboR - Panasonic FS-A1ST (b)\config.ini	fe36c1fd5dfb40f3252a59ab27ac5964	51ae974b782eaaf7d5dde88651979d21a0a4c6cc	24c8c5b6
-config.ini	 \bios\Machines\SEGA - SC-3000\config.ini	3b623e191f1b4841912ce60df9a4193d	3c75856421ba350bf70f64721c0f7d016c72c6ef	b74a08e6
-config.ini	 \bios\Machines\SEGA - SF-7000\config.ini	9cc2a1f0361ccd5a5b351086d9629c30	9babbaf2cfb04a9057dbac370a56dd20f412f3ab	ba727732
-sf7000.rom	 \bios\Machines\SEGA - SF-7000\sf7000.rom	561b362f9aa4cbcb240461abf83c2e0d	77339a6db2593aadc638bed77b8e9bed5d9d87e3	d76810b8
-config.ini	 \bios\Machines\SEGA - SG-1000\config.ini	eb7e878418f3e484fa522a53223f8a21	1ed0081a4fdfcedb4fa23afbb4bc67afda380a50	6c26e357
-ARAB1.ROM	 \bios\Machines\Shared Roms\ARAB1.ROM	7fa0558bcec9dba310579521623d9f6a	0287b2ec897b9196788cd9f10c99e1487d7adbbb	339cd1aa
-ARABIC.rom	 \bios\Machines\Shared Roms\ARABIC.rom	20c4b5d1d9469c201b145f082ec32658	2c9600c6e0025fee10d249e97448ecaa37e38c42	c0d8fc85
-BEERIDE.ROM	 \bios\Machines\Shared Roms\BEERIDE.ROM	b32279f2700652a5ce0a809318626763	077bdfff644b931b6a13bab8ab847aee766d163e	584b1250
-FMPAC.rom	 \bios\Machines\Shared Roms\FMPAC.rom	6f69cc8b5ed761b03afd78000dfb0e19	9d789166e3caf28e4742fe933d962e99618c633d	0e84505d
-GCVMX80.ROM	 \bios\Machines\Shared Roms\GCVMX80.ROM	fd0b8f1766dc6dcc03a43d9c79dc4e37	977fed1135b6cc73e765b47f51570fc00acd5b79	47b843ca
-HANGUL.rom	 \bios\Machines\Shared Roms\HANGUL.rom	9baf17b190f631405b6b0eeeeb162b87	965f4982790f1817bcbabbb38c8777183b231a55	b663c605
-KANJI.rom	 \bios\Machines\Shared Roms\KANJI.rom	acf53887c2d2783dc059a9b442c86b90	5aff2d9b6efc723bc395b0f96f0adfa83cc54a49	1f6406fb
-MICROSOLDISK.ROM	 \bios\Machines\Shared Roms\MICROSOLDISK.ROM	02e8b1f96049f09d6d3a735647cbbb2a	f59d33311c95edc0168445f74eddd8a6772aa6a0	232222be
-MOONSOUND.rom	 \bios\Machines\Shared Roms\MOONSOUND.rom	42af93619160ef2116416f74a6cb12f2	32760893ce06dbe3930627755ba065cc3d8ec6ca	2a9d8d43
-MSX.rom	 \bios\Machines\Shared Roms\MSX.rom	364a1a579fe5cb8dba54519bcfcdac0d	e998f0c441f4f1800ef44e42cd1659150206cf79	a317e6b4
-MSX2.rom	 \bios\Machines\Shared Roms\MSX2.rom	ec3a01c91f24fbddcbcab0ad301bc9ef	6103b39f1e38d1aa2d84b1c3219c44f1abb5436e	6cdaf3a5
-MSX2AR.ROM	 \bios\Machines\Shared Roms\MSX2AR.ROM	91764e84f977671ac7caa50b36273fd2	35195ab67c289a0b470883464df66bc6ea5b00d3	ea306155
-MSX2AREXT.ROM	 \bios\Machines\Shared Roms\MSX2AREXT.ROM	be5d1ec8001d945ca1432285722e9d16	ebb76f9061e875365023523607db610f2eda1d26	7c7540b7
-MSX2BR.rom	 \bios\Machines\Shared Roms\MSX2BR.rom	d3df424728a225b301510f5384cae583	9c43106dba3ae2829e9a11dffa9d000ed6d6454c	6bacdce4
-MSX2BREXT.rom	 \bios\Machines\Shared Roms\MSX2BREXT.rom	355c6d5ee31da441d485cd89ca906413	4f2a7e0172f0214f025f23845f6e053d0ffd28e8	08ced880
-MSX2EXT.rom	 \bios\Machines\Shared Roms\MSX2EXT.rom	2183c2aff17cf4297bdb496de78c2e8a	5c1f9c7fb655e43d38e5dd1fcc6b942b2ff68b02	66237ecf
-MSX2FR.rom	 \bios\Machines\Shared Roms\MSX2FR.rom	7af9e84da1520a8a7fb82e73703e5075	3926cdd91fa89657a811463e48cfbdb350676e51	c0577a50
-MSX2FREXT.rom	 \bios\Machines\Shared Roms\MSX2FREXT.rom	6ffe789cca2eca9d2e71ca7b69b97e6b	792e6b2814ab783d06c7576c1e3ccd6a9bbac34a	e235d5c8
-MSX2G.rom	 \bios\Machines\Shared Roms\MSX2G.rom	b6c33b7b3508d691d7872589c778f808	b17d9bea0eb16a1aa2d0ccbd7c9488da9f57698e	8fa060e2
-MSX2GEXT.rom	 \bios\Machines\Shared Roms\MSX2GEXT.rom	4047ce143a8bf391e21991835aa65b59	4ab7b2030d022f5486abaab22aaeaf8aa23e05f3	41e36d03
-MSX2HAN.rom	 \bios\Machines\Shared Roms\MSX2HAN.rom	7b9466546009d419ebd0dc27db90c30e	87936f808423dddfd00629056d6807b4be1dc63e	a8ead5e3
-MSX2J.rom	 \bios\Machines\Shared Roms\MSX2J.rom	53bec1c22b30c0a15263e04b91a7814f	0081ea0d25bc5cd8d70b60ad8cfdc7307812c0fd	9b3e7b97
-MSX2JEXT.rom	 \bios\Machines\Shared Roms\MSX2JEXT.rom	8aabde714a42256bef36ea9b04f6ef59	0fbd45ef3dd7bb82d4c31f1947884f411f1ca344	43e7a7fc
-MSX2KR.rom	 \bios\Machines\Shared Roms\MSX2KR.rom	6819a1533502261bfdd52436b8346073	affa3c5cd8db79a1450ad8a7f405a425b251653d	53850907
-MSX2KREXT.rom	 \bios\Machines\Shared Roms\MSX2KREXT.rom	30a0b3402a0a13b516af76d39f45a365	b6d3649a6647fa9f6bd61efc317485a20901128f	2ba104a3
-MSX2P.rom	 \bios\Machines\Shared Roms\MSX2P.rom	847cc025ffae665487940ff2639540e5	e90f80a61d94c617850c415e12ad70ac41e66bb7	19771608
-MSX2PEXT.rom	 \bios\Machines\Shared Roms\MSX2PEXT.rom	7c8243c71d8f143b2531f01afa6a05dc	fe0254cbfc11405b79e7c86c7769bd6322b04995	b8ba44d3
-MSX2PMUS.rom	 \bios\Machines\Shared Roms\MSX2PMUS.rom	f877f32e6d8687474ac5ee83e40de23b	6354ccc5c100b1c558c9395fa8c00784d2e9b0a3	456e494e
-MSX2R.rom	 \bios\Machines\Shared Roms\MSX2R.rom	db56360c85ef8410dc4bcf8e8602f61e	0f851ee7a1cf79819f61cc89e9948ee72a413802	e7d08e29
-MSX2R2.ROM	 \bios\Machines\Shared Roms\MSX2R2.ROM	96ac231b718e88ce64d5a9b4a5e9ae12	ebb7eb540a390509edfd36c84288ba85e63f2d1f	d0c20f54
-MSX2REXT.rom	 \bios\Machines\Shared Roms\MSX2REXT.rom	8e4af1124e2b82fbdc74a7bc5f20dc6e	03bf6d2ac86f5c9ab618e155442787c700f99fed	34d21778
-MSX2SE.rom	 \bios\Machines\Shared Roms\MSX2SE.rom	fb8f7ab15e32a91147204bd7f7a1b451	1b70a195a00b1fc4995766390f39d3ba884b5148	5648eeeb
-MSX2SP.rom	 \bios\Machines\Shared Roms\MSX2SP.rom	79caefa20a0d056fb42eaeca856c6f82	4811956f878c3e03da46317f787cdc4bebc86f47	c2b889a5
-MSX2SPEXT.rom	 \bios\Machines\Shared Roms\MSX2SPEXT.rom	d71842ce8f559a8aed2721766bc15f2b	1e9a955943aeea9b1807ddf1250ba6436d8dd276	dc0951bd
-MSXAR.ROM	 \bios\Machines\Shared Roms\MSXAR.ROM	793e3b833c33be7aaf834beacb8fb926	5e094fca95ab8e91873ee372a3f1239b9a48a48d	bd95c436
-MSXBR.rom	 \bios\Machines\Shared Roms\MSXBR.rom	d13c1fc9ad4897c322f51aab3ad3b30d	d6720845928ee848cfa88a86accb067397685f02	efb4b972
-MSXDOS23.ROM	 \bios\Machines\Shared Roms\MSXDOS23.ROM	56bf5b02fed377b7bb9d91f914965431	0527fb75775caa76c7eca8d449938ace83d36e96	d25fc001
-MSXFR.rom	 \bios\Machines\Shared Roms\MSXFR.rom	6f43d28ac4a69182c860c2db0e18ee6d	9eaad185efc8e224368d1db4949eb9659c26fb2c	6e692fa1
-MSXG.rom	 \bios\Machines\Shared Roms\MSXG.rom	4655329d3f37bf1a655d05f2abd1aa62	38a645febd0e0fe86d594f27c2d14be995acc730	7e2b32dd
-MSXHAN.rom	 \bios\Machines\Shared Roms\MSXHAN.rom	394efbc50fb7df1151130d8c162f85c3	d41676fde0a3047792f93c4a41509b8749e55e74	938db440
-MSXJ.rom	 \bios\Machines\Shared Roms\MSXJ.rom	f005e55c680ba6e7b19f6d4dc8f73ce5	df48902f5f12af8867ae1a87f255145f0e5e0774	071135e0
-MSXKANJI.rom	 \bios\Machines\Shared Roms\MSXKANJI.rom	9dfdebfaa6b547222a40aab8bb2e29f8	dcc3a67732aa01c4f2ee8d1ad886444a4dbafe06	b4fc574d
-MSXKR.rom	 \bios\Machines\Shared Roms\MSXKR.rom	c84f362c44192659273d45ae97462362	171b587bd5a947a13f3114120b6e7baca3b57d78	3ab0cd3b
-MSXR.rom	 \bios\Machines\Shared Roms\MSXR.rom	0db9592930488259fc1a5c127215e784	4f3114e96d7b892911e3dccf1eece712be26f396	5095ae3d
-MSXR2.ROM	 \bios\Machines\Shared Roms\MSXR2.ROM	704bdd980fa56c6be5c680358458eeeb	04990aa1c3a3fc7294ec884b81deaa89832df614	67872f40
-MSXSE.ROM	 \bios\Machines\Shared Roms\MSXSE.ROM	161cb768c52a13f5b38ba46e721b68c1	87f4d0fa58cfe9cef818a3185df2735e6da6168c	c8ccdaa0
-MSXSP.rom	 \bios\Machines\Shared Roms\MSXSP.rom	51af5b19aeccf94eb8e03bce0b5d33c4	342e7d4bd86f3351766f460f6de3c89a40791ee0	fed7506f
-MSXTR.ROM	 \bios\Machines\Shared Roms\MSXTR.ROM	fd9513736823e470965949f2a3ec6a43	242e73d8284a012b275c0a266844ebbc4269d787	937c8dbb
-MSXTREXT.ROM	 \bios\Machines\Shared Roms\MSXTREXT.ROM	824b1c4475a3bd3b91c5ae81ea940aa2	018d7a5222f28514908fb1b1513286a6558a6d05	70aea0fe
-MSXTRMUS.ROM	 \bios\Machines\Shared Roms\MSXTRMUS.ROM	c688a229f834f95f8c64df7d33188cd8	6aea1aef5ec31c1826c22edf580525f93baad425	f5f93437
-MSXTROPT.ROM	 \bios\Machines\Shared Roms\MSXTROPT.ROM	2cba0d812ec445cfe63ffa2cac8d42c2	b4433a3975c57dd440d6bf12dbd28b2ac1b90ef4	50d11f60
-NATIONALDISK.rom	 \bios\Machines\Shared Roms\NATIONALDISK.rom	86269da485e852d9f581ac27f4ba32ff	78cd7f847e77fd8cd51a647efb2725ba93f4c471	1e7d6512
-NOVAXIS.rom	 \bios\Machines\Shared Roms\NOVAXIS.rom	20989124671593ab04eeb01d52a1e25c	352ec8c99fe1397a88ecb3aee6dbb4d121c818e9	ecf385f2
-nowindDos1.rom	 \bios\Machines\Shared Roms\nowindDos1.rom	8c294a75f14fc30fce0c8642d28ccec1	1d4c09166755c6569ff0ed3878bbf1b22d7e3864	0a7a7a5b
-nowindDos2.rom	 \bios\Machines\Shared Roms\nowindDos2.rom	1847398c014384b833868c64f149f338	8afd1ec5843ecfdcbff11497fa8c55b870c0c6f5	d64dee77
-PAINT.rom	 \bios\Machines\Shared Roms\PAINT.rom	41db0d7b37be479296ffd59fcd6775f0	ace202e87337fbc54fea21e22c0b3af0abe6f4ae	18956e3a
-PANASONICDISK.rom	 \bios\Machines\Shared Roms\PANASONICDISK.rom	00aa02b6077de40a0b51d71a3c3e1d5f	7ed7c55e0359737ac5e68d38cb6903f9e5d7c2b6	17fa392b
-PHILIPSDISK.rom	 \bios\Machines\Shared Roms\PHILIPSDISK.rom	01dd1d72ed9bb6afe8a9b441c198a1cd	c3efedda7ab947a06d9345f7b8261076fa7ceeef	ca3307d3
-RS232.ROM	 \bios\Machines\Shared Roms\RS232.ROM	55cca200bbbdd0a1ec5c9d70966c05c0	4e9384c9d137f0ab65ffc5a78f04cd8c9df6c8b7	3353dcc6
-Shared.txt	 \bios\Machines\Shared Roms\Shared.txt	a9e1ab3604e2e7d54988125ea841cd63	ab5c9feccc785871d3ba86165f05b15159361273	71689ec0
-SUNRISEIDE.rom	 \bios\Machines\Shared Roms\SUNRISEIDE.rom	7b564497beb2c0de0847f107dec00ddf	1c79c8fcfd661394f91be94b218955c84cabd742	c3438b15
-SWP.rom	 \bios\Machines\Shared Roms\SWP.rom	490db04e2a3c1c993a2a9d3611949c76	4b4508131dca6d811694ae6379f41364c477de58	076f40fc
-XBASIC2.rom	 \bios\Machines\Shared Roms\XBASIC2.rom	0b6120f289336538bc564548109f97c6	47370bec7ca1f0615a54eda548b07fbc0c7ef398	2825b1a0
-config.ini	 \bios\Machines\SVI - Spectravideo SVI-318\config.ini	c8a53a309afe77d6323ec11041f9c4ef	0552fe09d07c03e8fcf8f44b04bf086689e2106a	f05bf1e4
-svi318.rom	 \bios\Machines\SVI - Spectravideo SVI-318\svi318.rom	ee6ad7ea29e791b03a28a9443e622648	07758272df475e5e06187aa3574241df1b14035b	98d48655
-config.ini	 \bios\Machines\SVI - Spectravideo SVI-328\config.ini	ba3600d30ae755af371d8b9ab325b0f6	9dc104c536f9fbf6ef29006479916da4964d9c68	89a71896
-svi328.rom	 \bios\Machines\SVI - Spectravideo SVI-328\svi328.rom	2cebd1db9dda475a011b7bce65c984a2	7d8daf52f78371ca2c9443e04827c8e1f98c8f2c	709904e9
-config.ini	 \bios\Machines\SVI - Spectravideo SVI-328 80 Column\config.ini	7835259261b02f7053c73b55ee9bef34	e9157fcfad1e393bff6857ed1f1918aace5adc25	fdaed247
-svi328a.rom	 \bios\Machines\SVI - Spectravideo SVI-328 80 Column\svi328a.rom	352f054ab09605070bdff49d73f335cc	10349ce675f6d6d47f0976e39cb7188eba858d89	bc433df6
-svi806.rom	 \bios\Machines\SVI - Spectravideo SVI-328 80 Column\svi806.rom	82f7bc9c08f43db1d79bcb565a0de12b	ed45cb0e9bd18a9d7bd74f87e620f016a7ae840f	850bc232
-config.ini	 \bios\Machines\SVI - Spectravideo SVI-328 80 Swedish\config.ini	4acfec75bd9566ce3f6e614bcf327c19	fa4c86a9d9c74875079b324c3b247d5aea285787	f12a70fd
-svi328a.rom	 \bios\Machines\SVI - Spectravideo SVI-328 80 Swedish\svi328a.rom	352f054ab09605070bdff49d73f335cc	10349ce675f6d6d47f0976e39cb7188eba858d89	bc433df6
-svi806se.rom	 \bios\Machines\SVI - Spectravideo SVI-328 80 Swedish\svi806se.rom	6a5536c1eb4f0477c4f76488cd8ca3ad	3f16d5513ad35692488ae7d864f660e76c6e8ed3	daea8956
-config.ini	 \bios\Machines\SVI - Spectravideo SVI-328 MK2\config.ini	441dd9a2d5ed89a7406344623dc2f5ae	cb9dc3be87e7f9dd187ec3aef87620f3291e0a84	4f3f32be
-svi328a.rom	 \bios\Machines\SVI - Spectravideo SVI-328 MK2\svi328a.rom	352f054ab09605070bdff49d73f335cc	10349ce675f6d6d47f0976e39cb7188eba858d89	bc433df6
-svi806.rom	 \bios\Machines\SVI - Spectravideo SVI-328 MK2\svi806.rom	82f7bc9c08f43db1d79bcb565a0de12b	ed45cb0e9bd18a9d7bd74f87e620f016a7ae840f	850bc232
-MacII.ROM	 \bios\macintosh\MacII.ROM	66223be1497460f1e60885eeb35e03cc	db6b504744281369794e26ba71a6e385cf6227fa	4df6d054
-MinivMacBootv2.dsk	 \bios\macintosh\MinivMacBootv2.dsk	e66dc7952c8b9673868ad2faba3c0d20	20bb0271d02b1ab3b4cfe7c8d6b599abdbc5324e	4c873269
-Mame-0.220_NoClones_V1.0 barhi.dat.7z	 \bios\mame\Mame-0.220_NoClones_V1.0 barhi.dat.7z	5339e4c6f2b4e45778eb32b24543d6f1	68932ca7c9c11c088670b56bc6cdc853617aa776	51aaed0b
-Mame-0.220_V1.0 barhi.7z	 \bios\mame\Mame-0.220_V1.0 barhi.7z	5be5fe7327a6d353d364cd89e8d08fdb	31b8afb35b7afca612543117cc376f828f98cba3	14620fa8
-Mame-0.239_NoClones_V1.0 barhi.zip	 \bios\mame\Mame-0.239_NoClones_V1.0 barhi.zip	9997dd32281be08a84481957d77e79d8	4f36c0ef0d6dbaf4d470c68d5eb7f5922027ee87	3968b322
-Mame-0.239_V1.0 barhi.zip	 \bios\mame\Mame-0.239_V1.0 barhi.zip	72c0e71aa87eca72021cd7321c358519	1f1e5e6144885306d452ca2bcfcc412bc879f0a1	b7d95757
-catver.ini	 \bios\mame2000\catver.ini	e4856ffc69e22e0804375cd7801f0d71	572a73b286ade4082c1d4735b369dc2322f341af	b4b68e1f
-cheat.dat	 \bios\mame2000\cheat.dat	86ce263a249aefe0320fed28002b1c8e	b352e7e478c5685e4fcfb43b922f042579fa0818	e3bae657
-hiscore.dat	 \bios\mame2000\hiscore.dat	9b262149ec70cbda741a8ba55784f8e1	21ddda0c61bd4f1cc04fb9d09e16d403d620f9e8	cd9f4a9c
-MAME 0.37b5 XML.dat	 \bios\mame2000\MAME 0.37b5 XML.dat	557ee60d8ca0e7746ef5269d8e71f293	e5827ca5fdef904892bf48d86ce0de6b5d00e51d	d91d21ac
-MAME 2000 Not-Working Gamelist.txt	 \bios\mame2000\MAME 2000 Not-Working Gamelist.txt	1039cf37d19081a7da21197a1d8976cf	f68f06330669a81aad5b2387b7ee460c665c1541	f64650ba
-catver.ini	 \bios\mame2003\catver.ini	90a26ff39683d2f4ca70ceac35395a56	ef4e2a5a88a9620e92bb96e40c043fd036d2ddc5	9ef54137
-cheat.dat	 \bios\mame2003\cheat.dat	ce2eacd6730cea5e1c489891a34a283f	963c3cc8dc04ffa808a1401b7557155ffa6bee43	e7ea7f97
-hiscore.dat	 \bios\mame2003\hiscore.dat	7e31f0b84f6ea6f9ffec0cd968decf9f	68e94fb579f46f3255ef7c34c0322f3f0f3c8e20	8213e86a
-mame2003.xml	 \bios\mame2003\mame2003.xml	c82dd36c5f49cb795eb0157f1e504d6d	378383185bd816bf9bca07d42e8096eac3ab3d12	9cec8727
-catver.ini	 \bios\mame2003-plus\catver.ini	1ce45d46d8588335933d8ed1720333a1	6a975304774b7f99c0768f4a6ea9ad11d358352b	18154da0
-cheat.dat	 \bios\mame2003-plus\cheat.dat	0e9d2554d78c2f4d2ae0dceafd302f31	f2220f0929347ba8c57167338c8ae0c70f052f08	455ea430
-hiscore.dat	 \bios\mame2003-plus\hiscore.dat	478ccb2b51f2fd03769698cf0ba6ae52	2410ecb84caa77aa64e9b423e85710569f17fae0	34ec2559
-history.dat	 \bios\mame2003-plus\history.dat	eb4555ceacaf331153eef9e2bd6ab608	068f5ce897c022e29924c0a9997a078f766e21f4	c8bad5ae
-mame2003-plus.xml	 \bios\mame2003-plus\mame2003-plus.xml	2b608fada32cab71e196654113f280f8	d67e06372e697939d93b99f7b5f5c1bd163cc44b	0f796a98
-blueshrk.zip	 \bios\mame2003-plus\artwork\blueshrk.zip	4659968035d462be471fdfb46b604696	4317f301d6e4117dfde42b33dfaf73a2b25f43c1	7481c2ea
-frogs.zip	 \bios\mame2003-plus\artwork\frogs.zip	e30e8ef4631596e25466523b97fee19f	cdff29398e76b92d93825d96c0f9cae5bb6b3400	99541e86
-invaders.zip	 \bios\mame2003-plus\artwork\invaders.zip	23d65ad40ac1f2121fe35fe0c7893721	4b18db526ca907707fd888385d907a7a585935d0	02546fd3
-omegrace.zip	 \bios\mame2003-plus\artwork\omegrace.zip	255155cf3f9912c92be8f813e8112a54	1ca22afdfefcfa5943742e988c45c1fc0e1124bd	04dbbb0a
-skydiver.zip	 \bios\mame2003-plus\artwork\skydiver.zip	95e05db7f8fa208daafd7b0d32041db8	a0548e37e76a21fb37005cff944319ee63f93d1e	143797a3
-solarq.zip	 \bios\mame2003-plus\artwork\solarq.zip	b4b70db555dfb48b91a067eea747c771	ff532cee1de69668b0c68238aff0c16813640476	92998e66
-warrior.zip	 \bios\mame2003-plus\artwork\warrior.zip	29fe11717016182d446ca6af56a08f75	57f89bbac39d8071e45c87f97e9b918f31d21994	82a68bb4
-catver.ini	 \bios\mame2010\catver.ini	eba07aa1573ef4e8a6251c7496156388	44b5b0dc968cb36b46749f382966b5caf596023f	fda422c4
-cheat-origin-docs-and-credits.txt	 \bios\mame2010\cheat-origin-docs-and-credits.txt	ba4edcfb644f808a6cebb28248d32d1f	ae22afce1459d01fea8f46adedc9aced605f58b7	bc0f991f
-cheat.zip	 \bios\mame2010\cheat.zip	112c6b34e78ca3453cc2dc3a36b3ab04	a737e925e3b86374da57496e3261d0303889977f	2c502baa
-hiscore.dat	 \bios\mame2010\hiscore.dat	bb8023a43e357b7f0cc06bf00f0470b2	17b8b03a89d8443927aa92ede799e117b4ab6fdb	88a4f0e3
-mame2010.xml	 \bios\mame2010\mame2010.xml	30250411cb858750aa5b89a881d5bde8	bd7500c3a2f008d9995f2f42615b9f2d7af74d46	70cc0f36
-catver.ini	 \bios\mame2015\catver.ini	eba07aa1573ef4e8a6251c7496156388	44b5b0dc968cb36b46749f382966b5caf596023f	fda422c4
-cheat-origin-docs-and-credits.txt	 \bios\mame2015\cheat-origin-docs-and-credits.txt	086268574f99f11dd8cb92bb4c9adc52	4f443c93ac13c68965b530fb58e61482fafabb66	b1caa4f3
-cheat.7z	 \bios\mame2015\cheat.7z	f96f25b043ebc5eea690db9c2a2296f4	7000952c9fec4fbfb880ca1efcbf8cb4cdcb8747	c0b714b2
-hiscore.dat	 \bios\mame2015\hiscore.dat	7e31f0b84f6ea6f9ffec0cd968decf9f	68e94fb579f46f3255ef7c34c0322f3f0f3c8e20	8213e86a
-mame2014-xml.zip	 \bios\mame2015\mame2014-xml.zip	dbb197641b373bb2fc768d85fb921e5d	ecc69131ec070be4600b021c7c4a0b96c7d3baad	2fdd41e4
-mame2015-xml.zip	 \bios\mame2015\mame2015-xml.zip	dbb197641b373bb2fc768d85fb921e5d	ecc69131ec070be4600b021c7c4a0b96c7d3baad	2fdd41e4
-IPL.n64	 \bios\Mupen64plus\IPL.n64	8d3d9f294b6e174bc7b1d2fd1c727530	bf861922dcb78c316360e3e742f4f70ff63c9bc3	7f933ce2
-000-lo.lo	 \bios\neocd\000-lo.lo	fc7599f3f871578fe9a0453662d1c966	5992277debadeb64d1c1c64b0a92d9293eaf7e4a	5a86cff2
-front-sp1.bin	 \bios\neocd\front-sp1.bin	5c2366f25ff92d71788468ca492ebeca	53bc1f283cdf00fa2efbb79f2e36d4c8038d743a	cac62307
-neocd.bin	 \bios\neocd\neocd.bin	f39572af7584cb5b3f70ae8cc848aba2	7bb26d1e5d1e930515219cb18bcde5b7b23e2eda	df9de490
-neocd_f.rom	 \bios\neocd\neocd_f.rom	8834880c33164ccbe6476b559f3e37de	a5f4a7a627b3083c979f6ebe1fabc5d2df6d083b	6fd2a520
-neocd_sf.rom	 \bios\neocd\neocd_sf.rom	043d76d5f0ef836500700c34faef774d	4a94719ee5d0e3f2b981498f70efc1b8f1cef325	1101f313
-neocd_st.rom	 \bios\neocd\neocd_st.rom	f6325a33c6d63ea4b9162a3fa8c32727	19729b51bdab60c42aafef6e20ea9234c7eb8410	01c299cc
-neocd_sz.rom	 \bios\neocd\neocd_sz.rom	971ee8a36fb72da57aed01758f0a37f5	6a947457031dd3a702a296862446d7485aa89dbb	42f6b6c4
-neocd_t.rom	 \bios\neocd\neocd_t.rom	de3cf45d227ad44645b22aa83b49f450	cc92b54a18a8bff6e595aabe8e5c360ba9e62eb5	56c9ecba
-neocd_z.rom	 \bios\neocd\neocd_z.rom	11526d58d4c524daef7d5d677dc6b004	b0f1c4fa8d4492a04431805f6537138b842b549f	33697892
-ng-lo.rom	 \bios\neocd\ng-lo.rom	e255264d85d5765013b1b2fa8109dd53	2b1c719531dac9bb503f22644e6e4236b91e7cfc	e09e253c
-top-sp1.bin	 \bios\neocd\top-sp1.bin	122aee210324c72e8a11116e6ef9c0d0	235f4d1d74364415910f73c10ae5482d90b4274f	c36a47c0
-uni-bioscd.rom	 \bios\neocd\uni-bioscd.rom	08ca8b2dba6662e8024f9e789711c6fc	5142f205912869b673a71480c5828b1eaed782a8	ff3abc59
-2608_bd.wav	 \bios\np2kai\2608_bd.wav	d94546e70f17fd899be8df3544ab6cbb	0a56c142ef40cec50f3ee56a6e42d0029c9e2818	bb038714
-2608_hh.wav	 \bios\np2kai\2608_hh.wav	08c54a0c1f774a5538a848a6665a34b4	12f676cef249b82480b6f19c454e234b435ca7b6	9898b372
-2608_rim.wav	 \bios\np2kai\2608_rim.wav	465ea0768b27da404aec45dfc501404b	c65592330c9dd84011151daed52f9aec926b7e56	638864c1
-2608_sd.wav	 \bios\np2kai\2608_sd.wav	d71004351c8bbfdad53b18222c061d49	3c79663ef74c0b0439d13351326eb1c52a657008	542cc58c
-2608_tom.wav	 \bios\np2kai\2608_tom.wav	96a4ead13f364734f79b0c58af2f0e1f	9513fb4a3f41e75a972a273a5104cbd834c1e2c5	93c57bba
-2608_top.wav	 \bios\np2kai\2608_top.wav	593cff6597ab9380d822b8f824fd2c28	aa4a8f766a86b830687d5083fd3b9db0652f46fc	ab73a296
-bios.rom	 \bios\np2kai\bios.rom	cd237e16e7e77c06bb58540e9e9fca68	76a7360502fa0296ea93b4c537174610a834d367	0a682b93
-font.bmp	 \bios\np2kai\font.bmp	7da1e5b7c482d4108d22a5b09631d967	b4f14e58030ed40fff2dc312b58ea4440bdf8cc5	d271798b
-font.rom	 \bios\np2kai\font.rom	38d32748ae49d1815b0614970849fd40	78ba9960f135372825ab7244b5e4e73a810002ff	456d9fc7
-itf.rom	 \bios\np2kai\itf.rom	72ea51443070f0e9212bfc9b793ee28e	a2fb11c000ed7c976520622cfb7940ed6ddc904e	c1815325
-sound.rom	 \bios\np2kai\sound.rom	524473c1a5a03b17e21d86a0408ff827	d5dbc4fea3b8367024d363f5351baecd6adcd8ef	fe9f57f2
-8dos2.rom	 \bios\oricutron\8dos2.rom	5f3cd5a4307fed7a9dfe8faa4c044273	746a2996967282281a980842a93642ad7d740f9e	efc88d2b
-Bas122de.pch	 \bios\oricutron\Bas122de.pch	80fe771abf403e67f5640b2107c375c9	3e8f851df9319891fb9849c922437468df98915d	bfaaa640
-Bas122fr.pch	 \bios\oricutron\Bas122fr.pch	61e9414a2c0e2f71b5a25233506b4bf3	c92aa5e5fedf94a01519867fd8235f33731b8191	169dc64a
-Bas122uk.pch	 \bios\oricutron\Bas122uk.pch	120a23e1566195050983764e7d4543ce	ee9dc592128ff337be5ef0bfb6d059752296b445	3a0be9f6
-basic10.pch	 \bios\oricutron\basic10.pch	c3944a435cc249196db09290aa17e9cf	6c62326403ecdf3d120fa7ffea47f4f1d5b40020	801dea4e
-basic10.rom	 \bios\oricutron\basic10.rom	ebe418ec8a6c85d5ac32956c9a96c179	333116e6884d85aaa4dfc7578a91cceeea66d016	f18710b4
-basic11b.pch	 \bios\oricutron\basic11b.pch	120a23e1566195050983764e7d4543ce	ee9dc592128ff337be5ef0bfb6d059752296b445	3a0be9f6
-basic11b.rom	 \bios\oricutron\basic11b.rom	a330779c42ad7d0c4ac6ef9e92788ec6	9451a1a09d8f75944dbd6f91193fc360f1de80ac	c3a92bef
-bd500.rom	 \bios\oricutron\bd500.rom	2b6498fd29a0adbf1c529762c02c33ab	447975ed022379fb6b80a22fa37c2d188ca3aa88	61952e34
-empty_orix.rom	 \bios\oricutron\empty_orix.rom	af3cec316a4960be1c9987599066c792	e7c32e4f75a58c87de1672e4dbd0794083535a60	c98b4655
-hyperbas.rom	 \bios\oricutron\hyperbas.rom	364bf095e0dc4222d75354d50b8cddfc	f5f70a0eb59f8cd6c261e179ae78ef906f68ed63	1d96ab50
-jasmin.rom	 \bios\oricutron\jasmin.rom	5136f764a7dbd1352519351fbb53a9f3	70e59b8abd67092f050462abc6cb5271e4c15f01	37220e89
-kernel.rom	 \bios\oricutron\kernel.rom	1d63b6289c7e3566d411cf0682e401bc	01f7a84d5a1973623eabd2be6c2cbac1ce5096a6	356231a6
-microdis.rom	 \bios\oricutron\microdis.rom	df864344d2a2091c3f952bd1c5ce1707	0d2ef6e67322f48f4b7e08d8bbe68827e2074561	a9664a9c
-pravetzt-1.0.pch	 \bios\oricutron\pravetzt-1.0.pch	c3944a435cc249196db09290aa17e9cf	6c62326403ecdf3d120fa7ffea47f4f1d5b40020	801dea4e
-pravetzt.pch	 \bios\oricutron\pravetzt.pch	6bebef1a2540aeb79d95542f5d5a72cb	d0b6df373270f68d658ee1bc58da21f0afd29594	bb2836af
-pravetzt.rom	 \bios\oricutron\pravetzt.rom	8712a22e7e078de3343667d9fc1f2390	7afc276cb118adff72e4f16698f94bf3b2c64146	58079502
-shell.rom	 \bios\oricutron\shell.rom	642e8504adc72e7c16384dbdc1665fa2	926b95e1cb574d4914dbed0681729a7c1a4bc68d	8d166635
-teleass.rom	 \bios\oricutron\teleass.rom	2324c9cc227c1327a72a667c97ed2990	9e9af51dae3199cccf49ab3f0d47e2b9be4ba97d	68b0fde6
-telmatic.rom	 \bios\oricutron\telmatic.rom	0a814078410353744e2947a8e9342e4e	35f92a0477a88f5cf564971125047ffcfa02ec10	94358dc6
-telmon24.pch	 \bios\oricutron\telmon24.pch	82a22231d402cd3284c698ba16a51d1d	d8ce5b1405b6428969493efeb6f3aa2027c41bdc	29e86dbc
-telmon24.rom	 \bios\oricutron\telmon24.rom	9a432244d9ee4a49e8ddcde64af94e05	86fc8dc0932f983efa199e31ae05a4424772f959	aa727c5d
-gecard.pce	 \bios\pcenginecd\gecard.pce	6d2cb14fc3e1f65ceb135633d1694122	014881a959e045e00f4db8f52955200865d40280	51a12d90
-gexpress.pce	 \bios\pcenginecd\gexpress.pce	6d2cb14fc3e1f65ceb135633d1694122	014881a959e045e00f4db8f52955200865d40280	51a12d90
-syscard1.pce	 \bios\pcenginecd\syscard1.pce	9f770275393b8627cf9d24e5c56d2ab9	008cf0f5cd5e2000b9f2ebf5e4ee84097e6aef74	31cc5649
-syscard2.pce	 \bios\pcenginecd\syscard2.pce	424f1d6bf93259bf255afa7d1dc9f721	3ca4a3b8d8a7f08492e684064c6fa362e914c1af	5c01c82b
-syscard2u.pce	 \bios\pcenginecd\syscard2u.pce	94279f315e8b52904f65ab3108542afe	2bea3dac98f84b2f2f469fa77ea720b8770d598d	ff2a5ec3
-syscard3.pce	 \bios\pcenginecd\syscard3.pce	38179df8f4ac870017db21ebcbf53114	79f5ff55dd10187c7fd7b8daab0b3ffbd1f56a2c	6d9a73ef
-syscard3u.pce	 \bios\pcenginecd\syscard3u.pce	0754f903b52e3b3342202bdafb13efa5	d02611d99921986147c753df14c7349b31d71950	2b5b75fe
-prboom.wad	 \bios\prboom\prboom.wad	72ae1b47820fcc93cc0df9c428d0face	5f4aed208301449c2e9514edfd325fe9dead76fa	a5751b99
-ps2-0230a-20080220.bin	 \bios\ps2\ps2-0230a-20080220.bin	21038400dc633070a78ad53090c53017	f9229fe159d0353b9f0632f3fdc66819c9030458	286897c2
-ps2-0230e-20080220.bin	 \bios\ps2\ps2-0230e-20080220.bin	dc69f0643a3030aaa4797501b483d6c4	9915b5ba56798f4027ac1bd8d10abe0c1c9c326a	19eb1081
-ps2-0230h-20080220.bin	 \bios\ps2\ps2-0230h-20080220.bin	30d56e79d89fbddf10938fa67fe3f34e	a277b456849697abec11285c6b35bc734598c220	191174d4
-ps2-0230j-20080220.bin	 \bios\ps2\ps2-0230j-20080220.bin	80ac46fa7e77b8ab4366e86948e54f83	fbd54bfc020af34008b317dcb80b812dd29b3759	2912faa5
-disk.rom	 \bios\quasi88\disk.rom	793f86784e5608352a5d7f03f03e0858	bb7103a0818850a039c67ff666a31ce49a8d516f	2158d307
-n88.rom	 \bios\quasi88\n88.rom	22be239bc0c4298bc0561252eed98633	3518193b8207bdebf22c1380c2db8c554baff329	ffd68be0
-n88jisho.rom	 \bios\quasi88\n88jisho.rom	2e548679423370262f36cbde38a22789	deef0cc2a9734ba891a6d6c022aa70ffc66f783e	bd6eb062
-n88knj1.rom	 \bios\quasi88\n88knj1.rom	d81c6d5d7ad1a4bbbd6ae22a01257603	82e11a177af6a5091dd67f50a2f4bafda84d6556	6178bd43
-n88knj2.rom	 \bios\quasi88\n88knj2.rom	41d2e2c0c0edfccf76fa1c3e38bc1cf2	7e6591cd465cbb35d6d3446c5a83b46d30fafe95	154803cc
-n88n.rom	 \bios\quasi88\n88n.rom	5d6854624dd01cd791f58727fc43a525	063609dd518c124a4fc9ba35d1bae35771666a34	5cb8b584
-n88_0.rom	 \bios\quasi88\n88_0.rom	e28fe3f520bea594350ea8fb00395370	d1ae642aed4f0584eeb81ff50180db694e5101d4	61984bab
-n88_1.rom	 \bios\quasi88\n88_1.rom	e844534dfe5744b381444dbe61ef1b66	8528eef7946edf6501a6ccb1f416b60c64efac7c	c0bd2aa6
-n88_2.rom	 \bios\quasi88\n88_2.rom	6548fa45061274dee1ea8ae1e9e93910	b7c8bcea219b77d9cc3ee0efafe343cc307425d1	af2b6efa
-n88_3.rom	 \bios\quasi88\n88_3.rom	fc4b76a402ba501e6ba6de4b3e8b4273	efce0b51cab9f0da6cf68507757f1245a2867a72	7713c519
-SGB1.sfc	 \bios\sgb\SGB1.sfc	b15ddb15721c657d82c5bab6db982ee9	973e10840db683cf3faf61bd443090786b3a9f04	8a4a174f
-SGB2.sfc	 \bios\sgb\SGB2.sfc	8ecd73eb4edf7ed7e81aef1be80031d5	e5b2922ca137051059e4269b236d07a22c07bc84	cb176e45
-Model3-0.235_NoClones_V1.0 barhi.zip	 \bios\supermodel\Model3-0.235_NoClones_V1.0 barhi.zip	d6864677bb119ce3651dd00fae9d10d5	9359d214726b42dd0622eb7f7d42a0532609ab89	b345cc59
-spchrom.bin	 \bios\ti994a\spchrom.bin	7adcaf64272248f7a7161cfc02fd5b3f	382292295c00dff348d7e17c5ce4da12a1d87763	58b155f7
-TI-994A.ctg	 \bios\ti994a\TI-994A.ctg	412ecbf991edcb68edd0e76c2caa4a59	4e764ab67dfcbee8adc5b7d98e7b2926a008b9d8	a092207d
-ti-disk.ctg	 \bios\ti994a\ti-disk.ctg	04714f43347cefb2a051a77116344b3f	693f5b4fe1e5eb6429fd6614fb7bb14350939814	1a52b40c
-alice32.rom	 \bios\trs80coco\alice32.rom	79ea46603d716578d5f2b52eb4c33ca2	f34e61c3cf711fb59ff4f1d4c0d2863dab0ab5d1	c3854ddf
-alice4k.rom	 \bios\trs80coco\alice4k.rom	78af465c2f31cf4e05dec1efda77da01	c2166b91e6396a311f486832012aa43e0d2b19f8	f876abe9
-bas10.rom	 \bios\trs80coco\bas10.rom	a74f3d95b395dad7cdca19d560eeea74	1f08455cd48ce6a06132aea15c4778f264e19539	00b50aaa
-bas11.rom	 \bios\trs80coco\bas11.rom	c73fb4bff9621c5ab17f6220b20db82f	cecb7c24ff1e0ab5836e4a7a8eb1b8e01f1fded3	6270955a
-bas12.rom	 \bios\trs80coco\bas12.rom	c933316c7d939532a13648850c1c2aa6	0f14dc46c647510eb0b7bd3f53e33da07907d04f	54368805
-bas13.rom	 \bios\trs80coco\bas13.rom	c2fc43556eb6b7b25bdf5955bd9df825	28b92bebe35fa4f026a084416d6ea3b1552b63d3	d8f4d15e
-coco3.rom	 \bios\trs80coco\coco3.rom	7233c6c429f3ce1c7392f28a933e0b6f	e0d82953fb6fd03768604933df1ce8bc51fc427d	b4c88d6c
-coco3p.rom	 \bios\trs80coco\coco3p.rom	4ae57e5a8e7494e5485446fefedb580b	631e383068b1f52a8f419f4114b69501b21cf379	ff050d80
-disk10.rom	 \bios\trs80coco\disk10.rom	a64b3ef9efcc066b18d35b134068d1cc	04115be3f97952b9d9310b52f806d04f80b40d03	b4f9968e
-disk11.rom	 \bios\trs80coco\disk11.rom	8cab28f4b7311b8df63c07bb3b59bfd5	10bdc5aa2d7d7f205f67b47b19003a4bd89defd1	0b9c5415
-extbas10.rom	 \bios\trs80coco\extbas10.rom	fda72f415afe99b36f953bb9bc1253da	7275f1e3f165ff6a4657e4e5e24cb8b817239f54	e031d076
-extbas11.rom	 \bios\trs80coco\extbas11.rom	21070aa0496142b886c562bf76d7c113	ad927fb4f30746d820cb8b860ebb585e7f095dea	a82a6254
-hdbdw3bck.rom	 \bios\trs80coco\hdbdw3bck.rom	ef750d93d24d7bc87a8ecd6e5a15a845	8fd64f1c246489e0bf2b3743ae76332ff324716a	867a3f42
-mc10.rom	 \bios\trs80coco\mc10.rom	f29e94ff36577ffb6a787959e45bfe85	4afff2b4c120334481aab7b02c3552bf76f1bc43	11fda97e
-mx1600bas.rom	 \bios\trs80coco\mx1600bas.rom	88d1504e93366f498105a846cdbf7fb7	70a464edf3a654ed4ffe687e6dee4f0d2acc758b	d918156e
-JiffyDOS_1541-II.bin	 \bios\vice\JiffyDOS_1541-II.bin	1b1e985ea5325a1f46eb7fd9681707bf	b1a5b826304d3df2a27d7163c6a81a532e040d32	dd409902
-JiffyDOS_1571_repl310654.bin	 \bios\vice\JiffyDOS_1571_repl310654.bin	41c6cc528e9515ffd0ed9b180f8467c0	d4b79b60cf1eaa399d0932200eb7811e00455249	fe6cac6d
-JiffyDOS_1581.bin	 \bios\vice\JiffyDOS_1581.bin	20b6885c6dc2d42c38754a365b043d71	65bbf2be7bcd5bdcbff609d6c66471ffb9d04bfe	98873d0f
-JiffyDOS_C128.bin	 \bios\vice\JiffyDOS_C128.bin	cbbd1bbcb5e4fd8046b6030ab71fc021	7d1898f32beae4b2ae610d469ce578a588efaa7c	4b7964de
-JiffyDOS_C64.bin	 \bios\vice\JiffyDOS_C64.bin	be09394f0576cf81fa8bacf634daf9a2	31e73e66eccb28732daea8ec3ad1addd9b39a017	2f79984c
-scpu-dos-1.4.bin	 \bios\vice\SCPU64\scpu-dos-1.4.bin	cda2fcd2e1f0412029383e51dd472095	3422a7735f0f959d990ab39512d8815a5d8eab7a	78008489
-scpu-dos-2.04.bin	 \bios\vice\SCPU64\scpu-dos-2.04.bin	b2869f8678b8b274227f35aad26ba509	6aa529a7b1b6de53e8979e407a77b4d5657727f5	f4151454
-IPLROM.X1	 \bios\xmil\IPLROM.X1	eeeea1cd29c6e0e8b094790ae969bfa7	d3395e9aeb5b8bbba7654dd471bcd8af228ee69a	e70011d3
-IPLROM.X1T	 \bios\xmil\IPLROM.X1T	56c28adcf1f3a2f87cf3d57c378013f5	44620f57a25f0bcac2b57ca2b0f1ebad3bf305d3	2e8b767c
-gamelist.xml	 \roms\neogeo\gamelist.xml	d84ce629a37ab681eaecba13c28ab707	1d8c3983f0b38b679612c3b93e6b126c18d8c0aa	5597cb5d
-neogeo.zip	 \roms\neogeo\neogeo.zip	67682655fa5fb32831e28429643e26c7	cdbde4e73d49ed3a682b99f66c231eb3dfd90dc7	3a1b0586
-_lisezmoi.txt	 \roms\neogeo\_lisezmoi.txt	f13856aa698cd9e97d5715e7cbe9aad8	561db7b8259cef60c10f38ca839123f970f4a6d3	5bbe4db2
-_readme.txt	 \roms\neogeo\_readme.txt	d11ec80301029df3a0cd3a5182180765	913c82e16bb71c45eafcffc5448a96c2ceaa96a8	a850d625
-neogeo.png	 \roms\neogeo\media\images\neogeo.png	a7bc69bf94102f73b9b5cd53d23bd582	3445e1adeb1d46421410fb1f587d5955b62b49fa	399af214
-gamelist.Missing.Serial.txt	 \roms\neogeocd\gamelist.Missing.Serial.txt	89e77948206b9e63918f89beff41ce46	51dc3b18ae3bcaf361d74ed96bf18fe83f0e2755	84435120
-gamelist.xml	 \roms\neogeocd\gamelist.xml	bd823b1b09ed053b18a1c5f78598a11c	aed2b7c965400301b182790bbdbc012d8f4a061f	e1334aac
-neocdz.zip	 \roms\neogeocd\neocdz.zip	a7cca75f3d5af6acc85efcce589ab04f	891407e147b2c022ebedf8c51fe3a2f497304906	05cfde8c
-_lisezmoi.txt	 \roms\neogeocd\_lisezmoi.txt	cd0c478d2c15d89b3ec266213033ab8b	65e00222ea855c839a01fae665a5899ddf58161e	a09fee30
-_readme.txt	 \roms\neogeocd\_readme.txt	eacf2acdb8081bb82ac2809e94d3234e	845b3a8abbc09611569a7c3c10a5dc3bafdb343c	e7d49b0a
+32X_G_BIOS.BIN	bios\32X_G_BIOS.BIN	6a5433f6a132a2b683635819a6dcf085	dbebd76a448447cb6e524ac3cb0fd19fc065d944	
+32X_M_BIOS.BIN	bios\32X_M_BIOS.BIN	f88354ec482be09aeccd76a97bb75868	1e5b0b2441a4979b6966d942b20cc76c413b8c5e	
+32X_S_BIOS.BIN	bios\32X_S_BIOS.BIN	7f041b6a55cd7423a6c08a219335269e	4103668c1bbd66c5e24558e73d4f3f92061a109a	
+3do_arcade_saot.bin	bios\3do_arcade_saot.bin	8970fc987ab89a7f64da9f8a8c4333ff	520d3d1b5897800af47f92efd2444a26b7a7dead	
+5200.rom	bios\5200.rom	281f20ea4320404ec820fb7ec0693b38	6ad7a1e8c9fad486fbec9498cb48bf5bc3adc530	
+64DD_IPL.bin	bios\64DD_IPL.bin	8d3d9f294b6e174bc7b1d2fd1c727530	bf861922dcb78c316360e3e742f4f70ff63c9bc3	
+7800 BIOS (E).rom	bios\7800 BIOS (E).rom	397bb566584be7b9764e7a68974c4263	5a140136a16d1d83e4ff32a19409ca376a8df874	
+7800 BIOS (U).rom	bios\7800 BIOS (U).rom	0763f1ffb006ddbe32e52d497ee848ae	d9d134bb6b36907c615a594cc7688f7bfcef5b43	
+8dos2.rom	bios\8dos2.rom	5f3cd5a4307fed7a9dfe8faa4c044273	746a2996967282281a980842a93642ad7d740f9e	
+agb_boot.bin	bios\agb_boot.bin	36c394ff8b6968f746d4628c639c00a5	4697f23cc5ef95b9522412f1ae05571eb2947b02	
+apple2gs.rom	bios\apple2gs.rom	ba89edf2729a28a17cd9e0f7a0ac9a39	bc32bc0e8902946663998f56aea52be597d9e361	
+apple2gs1.rom	bios\apple2gs1.rom	20a0334c447cb069a040ae5be1d938df	e4fc7560b69d062cb2da5b1ffbe11cd1ca03cc37	
+apple2gs3.rom	bios\apple2gs3.rom	ba89edf2729a28a17cd9e0f7a0ac9a39	bc32bc0e8902946663998f56aea52be597d9e361	
+ATARIBAS.ROM	bios\ATARIBAS.ROM	0bac0c6a50104045d902df4503a4c30b	3693c9cb9bf3b41bae1150f7a8264992468fc8c0	
+ATARIOSA.ROM	bios\ATARIOSA.ROM	eb1f32f5d9f382db1bbfb8d7f9cb343a	6dd53356159a129ed12367beb3b24a771d41adb0	
+ATARIOSB.ROM	bios\ATARIOSB.ROM	a3e8d617c95d08031fe1b20d541434b2	f1f0741b1d34fb4350cf7cb8ab3b6ea11cdd8174	
+ATARIXL.ROM	bios\ATARIXL.ROM	06daac977823773a3eea3422fd26a703	ae4f523ba08b6fd59f3cae515a2b2410bbd98f55	
+basic10.rom	bios\basic10.rom	ebe418ec8a6c85d5ac32956c9a96c179	333116e6884d85aaa4dfc7578a91cceeea66d016	
+basic11b.rom	bios\basic11b.rom	a330779c42ad7d0c4ac6ef9e92788ec6	9451a1a09d8f75944dbd6f91193fc360f1de80ac	
+BD500.ROM	bios\BD500.ROM	2b6498fd29a0adbf1c529762c02c33ab	447975ed022379fb6b80a22fa37c2d188ca3aa88	
+bios.gg	bios\bios.gg	672e104c3be3a238301aceffc3b23fd6	914aa165e3d879f060be77870d345b60cfeb4ede	
+bios.min	bios\bios.min	1e4fb124a3a886865acb574f388c803d	daad4113713ed776fbd47727762bca81ba74915f	
+bios7.bin	bios\bios7.bin	df692a80a5b1bc90728bc3dfc76cd948	24f67bdea115a2c847c8813a262502ee1607b7df	
+bios9.bin	bios\bios9.bin	a392174eb3e572fed6447e956bde4b25	bfaac75f101c135e32e2aaf541de6b1be4c8c62d	
+bios_CD_E.bin	bios\bios_CD_E.bin	e66fa1dc5820d254611fdcdba0662372	f891e0ea651e2232af0c5c4cb46a0cae2ee8f356	
+bios_CD_J.bin	bios\bios_CD_J.bin	278a9397d192149e84e820ac621a8edd	4846f448160059a7da0215a5df12ca160f26dd69	
+bios_CD_U.bin	bios\bios_CD_U.bin	2efd74e3232ff260e371b99f84024f7f	f4f315adcef9b8feb0364c21ab7f0eaf5457f3ed	
+bios_E.sms	bios\bios_E.sms	840481177270d5642a14ca71ee72844c	c315672807d8ddb8d91443729405c766dd95cae7	
+bios_J.sms	bios\bios_J.sms	24a519c53f67b00640d0048ef7089105	a8c1b39a2e41137835eda6a5de6d46dd9fadbaf2	
+bios_MD.bin	bios\bios_MD.bin	45e298905a08f9cfb38fd504cd6dbc84	453fca4e1db6fae4a10657c4451bccbb71955628	
+bios_U.sms	bios\bios_U.sms	840481177270d5642a14ca71ee72844c	c315672807d8ddb8d91443729405c766dd95cae7	
+bootloader-dbvz.rom	bios\bootloader-dbvz.rom	9da101cd2317830649a31f8fa46debec	cea669f6d740f29ca248d2e8837a4b4f86fbe75a	
+bootloader-en-m515.rom	bios\bootloader-en-m515.rom	e64c755205bc3e79d1bc5b70128f688d	aa35c04429a9eda1edb1c7eb257f621363d5a78c	
+BS-X.bin	bios\BS-X.bin	fed4d8242cfbed61343d53d48432aced	604556b2e62860af18db5a77f2956ebc75450020	
+c52.bin	bios\c52.bin	f1071cdb0b6b10dde94d3bc8a6146387	a6120aed50831c9c0d95dbdf707820f601d9452e	
+CARTS.SHA	bios\CARTS.SHA	d6dedca1112ddfda94cc9b2e426b818b	69dd7344e4dfa7e250973a71bbb3e8aa6fb08d81	
+cgb_boot.bin	bios\cgb_boot.bin	b560efd759d87634a03b243f22bba27a	80e3ee82416c1a74827a5459fde32f04bf51a1f6	
+CYRILLIC.FNT	bios\CYRILLIC.FNT	85b38e4128bbc300e675f55b278683a8	000ac11b702a4c42e40f135df12fa5f2f13e20a1	
+dc_boot.bin	bios\dc_boot.bin	e10c53c2f8b90bab96ead2d368858623	8951d1bb219ab2ff8583033d2119c899cc81f18c	
+dc_flash.bin	bios\dc_flash.bin	0a93f7940c455905bea6e392dfde92a4	94d44d7f9529ec1642ba3771ed3c5f756d5bc872	
+dc_nvmem.bin	bios\dc_nvmem.bin	3d8ebc7a1cf29298305779e3b5d1b0ee	5d8b47bb2a13558eccc8858a6fda518ae99d6af7	
+DISK.ROM	bios\DISK.ROM	80dcd1ad1a4cf65d64b7ba10504e8190	032cb1c1c75b9a191fa1230978971698d9d2a17f	
+disksys.rom	bios\disksys.rom	ca30b50f880eb660a320674ed365ef7a	57fe1bdee955bb48d357e463ccbf129496930b62	
+dmg_boot.bin	bios\dmg_boot.bin	57f6a79fb41d6b2c8987fa529c3a90f2	3c48c4ce9c20ba1ca3d003ef43b249a9ec69941b	
+ecwolf.pk3	bios\ecwolf.pk3	d68107770b3ba230d10aa27472a7617b	05a7b07cfe7f1d94728abc0290cb3bb2b1d69332	
+exec.bin	bios\exec.bin	62e761035cb657903761800f4437b8af	5a65b922b562cb1f57dab51b73151283f0e20c7a	
+firmware.bin	bios\firmware.bin	145eaef5bd3037cbc247c213bb3da1b3	8497afdd16af92d6887b71582846c40514e9039f	
+FMPAC.ROM	bios\FMPAC.ROM	6f69cc8b5ed761b03afd78000dfb0e19	9d789166e3caf28e4742fe933d962e99618c633d	
+FMPAC16.ROM	bios\FMPAC16.ROM	af8537262df8df267072f359399a7635	2dc4517ebd5a061f9b5aa6b449cc4d4a2073540c	
+g7400.bin	bios\g7400.bin	c500ff71236068e0dc0d0603d265ae76	5130243429b40b01a14e1304d0394b8459a6fbae	
+gba_bios.bin	bios\gba_bios.bin	a860e8c0b6d573d191e4ec7db1b1e4f6	300c20df6731a33952ded8c436f7f186d25d3492	
+gbc_bios.bin	bios\gbc_bios.bin	dbfce9db9deaa2567f6a84fde55f9680	1293d68bf9643bc4f36954c1e80e38f39864528d	
+gb_bios.bin	bios\gb_bios.bin	32fbbd84168d3482956eb3c5051637f5	4ed31ec6b0b175bb109c0eb5fd3d193da823339f	
+gexpress.pce	bios\gexpress.pce	6d2cb14fc3e1f65ceb135633d1694122	014881a959e045e00f4db8f52955200865d40280	
+goldstar.bin	bios\goldstar.bin	8639fd5e549bd6238cfee79e3e749114	c4a2e5336f77fb5f743de1eea2cda43675ee2de7	
+grom.bin	bios\grom.bin	0cd5946c6473e42e8e4c2137785e427f	f9608bb4ad1cfe3640d02844c7ad8e0bcd974917	
+hyperbas.rom	bios\hyperbas.rom	364bf095e0dc4222d75354d50b8cddfc	f5f70a0eb59f8cd6c261e179ae78ef906f68ed63	
+ITALIC.FNT	bios\ITALIC.FNT	c83e50e9f33b8dd893c414691822740d	401dd6692dc80628e5f68b7c79be0b0ebbc4d3ee	
+jasmin.rom	bios\jasmin.rom	5136f764a7dbd1352519351fbb53a9f3	70e59b8abd67092f050462abc6cb5271e4c15f01	
+jopac.bin	bios\jopac.bin	279008e4a0db2dc5f1c048853b033828	54b8d2c1317628de51a85fc1c424423a986775e4	
+KANJI.ROM	bios\KANJI.ROM	febe8782b466d7c3b16de6d104826b34	84a645becec0a25d3ab7a909cde1b242699a8662	
+kick02019.AROS	bios\kick02019.AROS	186d23cccd9fbd6336d0f988b39dce4d	f1952b97e0fa7661e99efb4954e0a86371952c1d	
+kick02019.AROS.ext	bios\kick02019.AROS.ext	4fa7042d73d0f77bf5723cf8430989bf	8b193a6515e0c8b3555ef4142417208dbbdb025e	
+kick02019.AROS.ext.rom	bios\kick02019.AROS.ext.rom	4fa7042d73d0f77bf5723cf8430989bf	8b193a6515e0c8b3555ef4142417208dbbdb025e	
+kick02019.AROS.rom	bios\kick02019.AROS.rom	186d23cccd9fbd6336d0f988b39dce4d	f1952b97e0fa7661e99efb4954e0a86371952c1d	
+kick33180.A500	bios\kick33180.A500	85ad74194e87c08904327de1a9443b7a	11f9e62cf299f72184835b7b2a70a16333fc0d88	
+kick33180.A500.rom	bios\kick33180.A500.rom	85ad74194e87c08904327de1a9443b7a	11f9e62cf299f72184835b7b2a70a16333fc0d88	
+kick33180.A500.RTB	bios\kick33180.A500.RTB	c993feb1eeddec1d2e687aa514231028	1d1c557f4a0f5ea88aeb96d68b09f41990340f70	
+kick34005.A500	bios\kick34005.A500	82a21c1890cae844b3df741f2762d48d	891e9a547772fe0c6c19b610baf8bc4ea7fcb785	
+kick34005.A500.rom	bios\kick34005.A500.rom	82a21c1890cae844b3df741f2762d48d	891e9a547772fe0c6c19b610baf8bc4ea7fcb785	
+kick34005.A500.RTB	bios\kick34005.A500.RTB	7eb13d974af0992d672b67c317a7e0a1	209c109855f94c935439b60950d049527d2f2484	
+kick34005.CDTV	bios\kick34005.CDTV	89da1838a24460e4b93f4f0c5d92d48d	7ba40ffa17e500ed9fed041f3424bd81d9c907be	
+KICK34005.CDTV.rom	bios\KICK34005.CDTV.rom	89da1838a24460e4b93f4f0c5d92d48d	7ba40ffa17e500ed9fed041f3424bd81d9c907be	
+kick37175.A500	bios\kick37175.A500	dc10d7bdd1b6f450773dfb558477c230	c5839f5cb98a7a8947065c3ed2f14f5f42e334a1	
+kick37175.A500.rom	bios\kick37175.A500.rom	dc10d7bdd1b6f450773dfb558477c230	c5839f5cb98a7a8947065c3ed2f14f5f42e334a1	
+kick39106.A1200	bios\kick39106.A1200	b7cc148386aa631136f510cd29e42fc3	70033828182fffc7ed106e5373a8b89dda76faa5	
+kick39106.A1200.rom	bios\kick39106.A1200.rom	b7cc148386aa631136f510cd29e42fc3	70033828182fffc7ed106e5373a8b89dda76faa5	
+kick40060.CD32	bios\kick40060.CD32	5f8924d013dd57a89cf349f4cdedc6b1	3525be8887f79b5929e017b42380a79edfee542d	
+kick40060.CD32.ext	bios\kick40060.CD32.ext	bb72565701b1b6faece07d68ea5da639	5bef3d628ce59cc02a66e6e4ae0da48f60e78f7f	
+kick40060.CD32.ext.rom	bios\kick40060.CD32.ext.rom	bb72565701b1b6faece07d68ea5da639	5bef3d628ce59cc02a66e6e4ae0da48f60e78f7f	
+kick40060.CD32.rom	bios\kick40060.CD32.rom	5f8924d013dd57a89cf349f4cdedc6b1	3525be8887f79b5929e017b42380a79edfee542d	
+kick40063.A600	bios\kick40063.A600	e40a5dfb3d017ba8779faba30cbd1c8e	3b7f1493b27e212830f989f26ca76c02049f09ca	
+kick40063.A600.rom	bios\kick40063.A600.rom	e40a5dfb3d017ba8779faba30cbd1c8e	3b7f1493b27e212830f989f26ca76c02049f09ca	
+kick40063.A600.RTB	bios\kick40063.A600.RTB	3f97c1963d82c808ef29e7c984c4c688	ca2d6e1e2b4883929447a05e29418533723a419c	
+kick40068.A1200	bios\kick40068.A1200	646773759326fbac3b2311fd8c8793ee	e21545723fe8374e91342617604f1b3d703094f1	
+kick40068.A1200.rom	bios\kick40068.A1200.rom	646773759326fbac3b2311fd8c8793ee	e21545723fe8374e91342617604f1b3d703094f1	
+kick40068.A1200.RTB	bios\kick40068.A1200.RTB	547b42b7b070c7f227ea45e0986d57a1	1ad1b55e7226bd5cd66def8370a69f19244da796	
+kick40068.A4000	bios\kick40068.A4000	9bdedde6a4f33555b4a270c8ca53297d	5fe04842d04a489720f0f4bb0e46948199406f49	
+kick40068.A4000.rom	bios\kick40068.A4000.rom	9bdedde6a4f33555b4a270c8ca53297d	5fe04842d04a489720f0f4bb0e46948199406f49	
+kick40068.A4000.RTB	bios\kick40068.A4000.RTB	f89f19b858ea6b1a04327c6f71ee1600	973b42dcaf8d6cb111484b3c4d3b719b15f6792d	
+lisez-moi.txt	bios\lisez-moi.txt	dcae48b283f9d4ff8ac363421cfa50dd	f53122c3eeeab4132744042162fb85bd16041ddb	
+lynxboot.img	bios\lynxboot.img	fcd403db69f54290b51035d82f835e7b	e4ed47fae31693e016b081c6bda48da5b70d7ccb	
+microdis.rom	bios\microdis.rom	df864344d2a2091c3f952bd1c5ce1707	0d2ef6e67322f48f4b7e08d8bbe68827e2074561	
+missing_bios_report.txt	bios\missing_bios_report.txt	96801c357914c8735ae652e026d6bb65	2eb162c1ea38c52472b762e571f2e03647f7099f	
+mpr-17933.bin	bios\mpr-17933.bin	3240872c70984b6cbfda1586cab68dbe	faa8ea183a6d7bbe5d4e03bb1332519800d3fbc3	
+mpr-18811-mx.ic1	bios\mpr-18811-mx.ic1	255113ba943c92a54facd25a10fd780c	a67cd4f550751f8b91de2b8b74528ab4e0c11c77	
+mpr-19367-mx.ic1	bios\mpr-19367-mx.ic1	1cd19988d1d72a3e7caa0b73234c96b4	56c1b93da6b660bf393fbf48ca47569000ef4047	
+MSX.ROM	bios\MSX.ROM	aa95aea2563cd5ec0a0919b44cc17d47	409e82adac40f6bdd18eb6c84e8b2fbdc7fb5498	
+MSX2.ROM	bios\MSX2.ROM	ec3a01c91f24fbddcbcab0ad301bc9ef	6103b39f1e38d1aa2d84b1c3219c44f1abb5436e	
+MSX2EXT.ROM	bios\MSX2EXT.ROM	2183c2aff17cf4297bdb496de78c2e8a	5c1f9c7fb655e43d38e5dd1fcc6b942b2ff68b02	
+MSX2P.ROM	bios\MSX2P.ROM	6d8c0ca64e726c82a4b726e9b01cdf1e	e2fbd56e42da637609d23ae9df9efd1b4241b18a	
+MSX2PEXT.ROM	bios\MSX2PEXT.ROM	7c8243c71d8f143b2531f01afa6a05dc	fe0254cbfc11405b79e7c86c7769bd6322b04995	
+MSXDOS2.ROM	bios\MSXDOS2.ROM	6418d091cd6907bbcf940324339e43bb	c36c9e0f96738a340381e23b4f97245388801a46	
+neocdz.zip	bios\neocdz.zip	c85b8132799f1b2ad3754a97947809d2	838934ee5b8fcc81883fb664526b3d281840b2e9	
+neogeo.zip	bios\neogeo.zip	b9ee441f9ca39e69688352f59917ac7a	256dc6f59f27222b70491dbd26d7baa667c84e2a	
+o2rom.bin	bios\o2rom.bin	562d5ebf9e030a40d6fabfc2f33139fd	b2e1955d957a475de2411770452eff4ea19f4cee	
+PAINTER.ROM	bios\PAINTER.ROM	403cdea1cbd2bb24fae506941f8f655e	7fd2a28c4fdaeb140f3c8c8fb90271b1472c97b9	
+palmos41-en-m515.rom	bios\palmos41-en-m515.rom	83cb1d1c76e568b916dc2e7c0bf669f6	cc4898ee8cae4669fc19e184c5b560c770e731b3	
+panafz1-kanji.bin	bios\panafz1-kanji.bin	b8dc97f778a6245c58e064b0312e8281	acd39a8fee1b9d2950d5ab447846c11fb31af63e	
+panafz1.bin	bios\panafz1.bin	f47264dd47fe30f73ab3c010015c155b	34bf189111295f74d7b7dfc1f304d98b8d36325a	
+panafz10-norsa.bin	bios\panafz10-norsa.bin	1477bda80dc33731a65468c1f5bcbee9	f05e642322c03694f06a809c0b90fc27ac73c002	
+panafz10.bin	bios\panafz10.bin	51f2f43ae2f3508a14d9f56597e2d3ce	3c912300775d1ad730dc35757e279c274c0acaad	
+panafz10e-anvil-norsa.bin	bios\panafz10e-anvil-norsa.bin	cf11bbb5a16d7af9875cca9de9a15e09	2765c7b4557cc838b32567d2428d088980295159	
+panafz10e-anvil.bin	bios\panafz10e-anvil.bin	a48e6746bd7edec0f40cff078f0bb19f	a900371f0cdcdc03f79557f11d406fd71251a5fd	
+panafz10ja-anvil-kanji.bin	bios\panafz10ja-anvil-kanji.bin	428577250f43edc902ea239c50d2240d	2e857b957803d0331fd229328df01f3ffab69eee	
+panafz1j-kanji.bin	bios\panafz1j-kanji.bin	c23fb5d5e6bb1c240d02cf968972be37	884515605ee243577ab20767ef8c1a7368e4e407	
+panafz1j-norsa.bin	bios\panafz1j-norsa.bin	f6c71de7470d16abe4f71b1444883dc8	a417587ae3b0b8ef00c830920c21af8bee88e419	
+panafz1j.bin	bios\panafz1j.bin	a496cfdded3da562759be3561317b605	ec7ec62d60ec0459a14ed56ebc66761ef3c80efc	
+pcfx.rom	bios\pcfx.rom	08e36edbea28a017f79f8d4f7ff9b6d7	1a77fd83e337f906aecab27a1604db064cf10074	
+pravetzt.rom	bios\pravetzt.rom	8712a22e7e078de3343667d9fc1f2390	7afc276cb118adff72e4f16698f94bf3b2c64146	
+ps1_rom.bin	bios\ps1_rom.bin	81bbe60ba7a3d1cea1d48c14cbcc647b	c40146361eb8cf670b19fdc9759190257803cab7	
+readme.txt	bios\readme.txt	a9011cf524e8f326d8d705125f99c272	6e49cc83c8acf972556e0a70c31520a268a9dce6	
+RS232.ROM	bios\RS232.ROM	279efd1eae0d358eecd4edc7d9adedf3	7aec0134ad6a5177f4056fcb6047083e8e00529b	
+sanyotry.bin	bios\sanyotry.bin	35fa1a1ebaaeea286dc5cd15487c13ea	b01c53da256dde43ffec4ad3fc3adfa8d635e943	
+saturn_bios.bin	bios\saturn_bios.bin	af5828fdff51384f99b3c4926be27762	2b8cb4f87580683eb4d760e4ed210813d667f0a2	
+scph1001.bin	bios\scph1001.bin	dc2b9bf8da62ec93e868cfd29f0d067d	649895efd79d14790eabb362e94eb0622093dfb9	
+scph101.bin	bios\scph101.bin	6e3735ff4c7dc899ee98981385f6f3d0	dcffe16bd90a723499ad46c641424981338d8378	
+scph5500.bin	bios\scph5500.bin	8dd7d5296a650fac7319bce665a6a53c	b05def971d8ec59f346f2d9ac21fb742e3eb6917	
+scph5501.bin	bios\scph5501.bin	490f666e1afb15b7362b406ed1cea246	0555c6fae8906f3f09baf5988f00e55f88e9f30b	
+scph5502.bin	bios\scph5502.bin	32736f17079d0b2b7024407c39bd3050	f6bc2d1f5eb6593de7d089c425ac681d6fffd3f0	
+scph7001.bin	bios\scph7001.bin	1e68c231d0896b7eadcad1d7d8e76129	14df4f6c1e367ce097c11deae21566b4fe5647a9	
+sega_101.bin	bios\sega_101.bin	85ec9ca47d8f6807718151cbcca8b964	df94c5b4d47eb3cc404d88b33a8fda237eaf4720	
+sgb2_boot.bin	bios\sgb2_boot.bin	b4331a9e612b4738867a30af9c96df52	576678d0fc3892b80471d7067ce6014e6af77ed5	
+sgb_bios.bin	bios\sgb_bios.bin	d574d4f9c12f305074798f54c091a8b4	aa2f50a77dfb4823da96ba99309085a3c6278515	
+sgb_boot.bin	bios\sgb_boot.bin	be77bbd03f8675478f6e3d2176f3cb56	27267e45c8408857267231ba6c18bfbd052536e2	
+SL31253.bin	bios\SL31253.bin	ac9804d4c0e9d07e33472e3726ed15c3	81193965a374d77b99b4743d317824b53c3e3c78	
+SL31254.bin	bios\SL31254.bin	da98f4bb3242ab80d76629021bb27585	8f70d1b74483ba3a37e86cf16c849d601a8c3d2c	
+SL90025.bin	bios\SL90025.bin	95d339631d867c8f1d15a5f2ec26069d	759e2ed31fbde4a2d8daf8b9f3e0dffebc90dae2	
+STBIOS.bin	bios\STBIOS.bin	d3a44ba7d42a74d3ac58cb9c14c6a5ca	ef86ea192eed03d5c413fdbbfd46043be1d7a127	
+stvbios.zip	bios\stvbios.zip	53a094ad3a188f86de4e64624fe9b3ca	7783ab663bb1a8d62ff60d583674355c2af556b1	
+syscard1.pce	bios\syscard1.pce	9f770275393b8627cf9d24e5c56d2ab9	008cf0f5cd5e2000b9f2ebf5e4ee84097e6aef74	
+syscard2.pce	bios\syscard2.pce	424f1d6bf93259bf255afa7d1dc9f721	3ca4a3b8d8a7f08492e684064c6fa362e914c1af	
+syscard3.pce	bios\syscard3.pce	ff1a674273fe3540ccef576376407d1d	1b4c260326d905bc718812dad0f68089977f427b	
+teleass.rom	bios\teleass.rom	2324c9cc227c1327a72a667c97ed2990	9e9af51dae3199cccf49ab3f0d47e2b9be4ba97d	
+telmon24.rom	bios\telmon24.rom	9a432244d9ee4a49e8ddcde64af94e05	86fc8dc0932f983efa199e31ae05a4424772f959	
+tos.img	bios\tos.img	b2a8570de2e850c5acf81cb80512d9f6	87900a40a890fdf03bd08be6c60cc645855cbce5	
+upd7801g.s01	bios\upd7801g.s01	635a978fd40db9a18ee44eff449fc126	6e89d1227581c76441a53d605f9e324185f1da33	
+DIC	bios\amiga\whdl\C\DIC	d2e1f236a1be8816994d276df1bfb16c	2fcb5934019133ed7a2069e333cdbc349ecaa7ee	
+exitemu	bios\amiga\whdl\C\exitemu	44d74a5243a0607753f8e3e62da80fe8	c8c50937b22ad20acdb307b736325fed6ea76d08	
+Patcher	bios\amiga\whdl\C\Patcher	15a8fbc4365dbd74bd36a28ae4c965b0	e1b6c3871d8327f771874b17258167c2a454029a	
+RawDIC	bios\amiga\whdl\C\RawDIC	8ca244472d1c3438b2894fcad4a72584	100d80eead41511dfef6086508b1f77d3c1672a8	
+uaequit	bios\amiga\whdl\C\uaequit	6fd19683a4f2319b5406f7191fee0762	7988f7389a0e1f771838cd88eee6f8427626ebf9	
+WHDLoad	bios\amiga\whdl\C\WHDLoad	1aa6b2dc04b35fe084d749699ed3c54b	0a9e7bfa1183420543e44c08410af1c5500fa704	
+kick33180.A500.RTB	bios\amiga\whdl\Devs\Kickstarts\kick33180.A500.RTB	c993feb1eeddec1d2e687aa514231028	1d1c557f4a0f5ea88aeb96d68b09f41990340f70	
+kick33192.A500.RTB	bios\amiga\whdl\Devs\Kickstarts\kick33192.A500.RTB	c993feb1eeddec1d2e687aa514231028	1d1c557f4a0f5ea88aeb96d68b09f41990340f70	
+kick34005.A500.RTB	bios\amiga\whdl\Devs\Kickstarts\kick34005.A500.RTB	7eb13d974af0992d672b67c317a7e0a1	209c109855f94c935439b60950d049527d2f2484	
+kick40068.A1200.RTB	bios\amiga\whdl\Devs\Kickstarts\kick40068.A1200.RTB	547b42b7b070c7f227ea45e0986d57a1	1ad1b55e7226bd5cd66def8370a69f19244da796	
+WHDLoad-Cleanup	bios\amiga\whdl\S\WHDLoad-Cleanup	9639b635a284b775d6ae824d260ff96d	42be78c0967738faeeffe9ef0f2dc763ffefa04a	
+WHDLoad-Startup	bios\amiga\whdl\S\WHDLoad-Startup	23e9573ebed13001e0a46d9d81229dd3	7baa4d095c44de62d23277e2e93856101bb4e46b	
+WHDLoad.prefs	bios\amiga\whdl\S\WHDLoad.prefs	34eaaa8264df548afd138db3c2da6f1a	f73e62f6f897baedb791af82682f1abd8f0cf1e9	
+emutos.img	bios\atarist\emutos.img	e2c861c588fca2d0cf6be3df3aaf05f2	bfcc01ae105fa4cee47890c09ebad9e3775395a4	
+falcon.img	bios\atarist\falcon.img	b338bacb2fc453bab61bcc1e2cf5076b	7157f6a8aff275cfbb5ea6aa8e788dda8a977e56	
+megaste.img	bios\atarist\megaste.img	c9093f27159e7d13ac0d1501a95e53d4	ee58768bdfc602c9b14942ce5481e97dd24e7c83	
+st.img	bios\atarist\st.img	c87a52c277f7952b41c639fc7bf0a43b	9a6e4c88533a9eaa4d55cdc040e47443e0226eb2	
+ste.img	bios\atarist\ste.img	30f69d70fe7c210300ed83f991b12de9	3a18f342c8288c0bc1879b7a209c73d5d57f7e81	
+tos.img	bios\atarist\tos.img	ed5fbaabe0219092df74c6c14cea3f8e	35e61592d4f5969a609c83b57462e0630f614859	
+tt.img	bios\atarist\tt.img	ac6ca0f0ed42a1603dfd409c4bf8eb89	4f0b344231719e80c2a4d4ade3769d7f0d0629b6	
+B11M_BOS.ROM	bios\bk\B11M_BOS.ROM	fe4627d1e3a1535874085050733263e7	7e9a30e38d7b78981999821640a68a201bb6df01	
+B11M_EXT.ROM	bios\bk\B11M_EXT.ROM	dc52f365d56fa1951f5d35b1101b9e3f	f087af69044432a1ef2431a72ac06946e32f2dd3	
+BAS11M_0.ROM	bios\bk\BAS11M_0.ROM	946f6f23ded03c0e26187f0b3ca75993	9d76f3eefd64e032c763fa1ebf9cd3d9bd22317a	
+BAS11M_1.ROM	bios\bk\BAS11M_1.ROM	1e6637f32aa7d1de03510030cac40bcf	34fa37599f2f9eb607390ef2458a3c22d87f09a9	
+Disk_327.rom	bios\bk\Disk_327.rom	5015228eeeb238e65da8edcd1b6dfac7	28eefbb63047b26e4aec104aeeca74e2f9d0276c	
+FOCAL10.ROM	bios\bk\FOCAL10.ROM	5737f972e8638831ab71e9139abae052	6386e58bc1bba5e76baec9e8a1ca4b99dc3c573f	
+MONIT10.ROM	bios\bk\MONIT10.ROM	95f8c41c6abf7640e35a6a03cecebd01	4e83a94ae5155bbea14d7331a5a8db82457bd5ae	
+cdibios.zip	bios\cdi\cdibios.zip	709acce6e9c4043b851ea7429b8e7eff	16072afaa65d1b059346616ac5b5a600c63ff1d1	
+cdimono1.zip	bios\cdi\cdimono1.zip	4d8f5238df9a374ce3640262773ba885	e6714b3d5fdc7023348435a77a016b763e0992b1	
+cdimono2.zip	bios\cdi\cdimono2.zip	97aa5f47030cd9fdb679d4fafbb0e332	9492247203b71c12d88fad0a5437376941c7870a	
+boot.rom	bios\coleco\boot.rom	2c66f5911e5b42b8ebe113403548eee7	45bedc4cbdeac66c7df59e9e599195c778d86a92	
+bioscv.rom	bios\creativision\bioscv.rom	3b1ef759d8e3fb4071582efd33dd05f9	5ac620c529e4965efb5560fe824854a44c983757	
+cslbios.rom	bios\creativision\cslbios.rom	b320579c642b007ce01697e384151a53	965965d3c94100813799bf5fe8095024ca53d7a9	
+cslbiossm.rom	bios\creativision\cslbiossm.rom	bd01e99eec4b50fc97a7bd53867868c6	cb9be92c685fee196f291d8fe27ab9eab1f232ea	
+disk.rom	bios\creativision\disk.rom	99691286a9d860b9512c1368e74e4c14	3d1d6c0c2fd8039c042e5985da3a501e378bbad3	
+laser2001.rom	bios\creativision\laser2001.rom	4dfadfb1158f84e2df2b85b13f303986	c12e098c14ac0724869053df2b63277a3e413802	
+saloram.rom	bios\creativision\saloram.rom	e65f96e9ffef24b5215a2cd86d5c94b8	42e7909e0198701102ec19b1bf66c240dd3fa8b3	
+colecodb.xml	bios\Databases\colecodb.xml	7decb2b4ae37b7456c5b71dfa1a48b63	7811316216d035c065b076b174df912e481e13f0	
+msxcaswavdb.xml	bios\Databases\msxcaswavdb.xml	5d4f9b7d75f27d0dd73519d2b841fc49	06481f9739fd86d9d460062456fdc4844a13e583	
+msxromdb.xml	bios\Databases\msxromdb.xml	c0a94965701431e0df29949189e424dd	573aa830b7bef4452808b40df883469907db2fed	
+msxsysromdb.xml	bios\Databases\msxsysromdb.xml	56fc758eefd477ed1e16b3183a9779d2	5f90ec0161801b9d30ac1e0dbdf90485ed2bfc6c	
+segadb.xml	bios\Databases\segadb.xml	a806d88adff5383619613e94100b85f9	e5bc915267d01567d460fb6c8d0d2c7456970ae1	
+svidb.xml	bios\Databases\svidb.xml	a9e5fabbbe1c557f74101092b4fc069e	02d24a58e95b8ea373fd58639946886ebd50954d	
+airlbios.zip	bios\dc\airlbios.zip	3f348c88af99a40fbd11fa435f28c69d	e18c5e9ca21654dfd724aa54e625b386e6ffb2c5	
+Atomiswave-0.220_NoClones_V1.0 barhi.dat.7z	bios\dc\Atomiswave-0.220_NoClones_V1.0 barhi.dat.7z	2593bcd4ba33a4974344af27ca371a1a	09f1ed9e0f8ece181a1850ec89361cef78f37c9e	
+Atomiswave-0.239_NoClones_V1.0 barhi.zip	bios\dc\Atomiswave-0.239_NoClones_V1.0 barhi.zip	1c3337f3f267e9aaab2652ab8aa6c335	a43960ea7ba25dd823f5e0567d8d0296b960e47e	
+Atomiswave_datfiles.zip	bios\dc\Atomiswave_datfiles.zip	cbc5d25c183ca3eb44af1d44418f52bd	8841e8e15c65fd94ccad95588eb71ef6b2d3d3c9	
+awbios.zip	bios\dc\awbios.zip	0ec5ae5b5a5c4959fa8b43fcf8687f7c	cdf247154e28c4b352b962a4a523587f2fde9305	
+dc_boot.bin	bios\dc\dc_boot.bin	e10c53c2f8b90bab96ead2d368858623	8951d1bb219ab2ff8583033d2119c899cc81f18c	
+dc_flash.bin	bios\dc\dc_flash.bin	0a93f7940c455905bea6e392dfde92a4	94d44d7f9529ec1642ba3771ed3c5f756d5bc872	
+f355bios.zip	bios\dc\f355bios.zip	f126d318f135f38ee377fef2acf08d7e	62a0d456ff84664a4f631938d3991088bc122f1b	
+f355dlx.zip	bios\dc\f355dlx.zip	5e83867c751f692a000afdf658dc181f	3c1c6422c332fc57c69c938db4dd3ac91eff4f02	
+hod2bios.zip	bios\dc\hod2bios.zip	6559697f76592be77a7a9ff3bfb6711a	9b9c9f0af3de914de677ba8e19f4190673142c1b	
+Naomi-0.220_NoClones_V1.0 barhi.dat.7z	bios\dc\Naomi-0.220_NoClones_V1.0 barhi.dat.7z	482bbeb3343533cdd33bca6d00a1ffe6	3b025eb0f2727a521ea8b29dec349a139709737e	
+Naomi-0.239_NoClones_V1.0 barhi.zip	bios\dc\Naomi-0.239_NoClones_V1.0 barhi.zip	0f15cbb8efd73d289a42077614c14980	9e98bf5dacf4461aaf23ae2c2c193a0bd6c8a579	
+naomi.zip	bios\dc\naomi.zip	eb4099aeb42ef089cfe94f8fe95e51f6	d7ef86bd03de7c1d0e2b0762e04b6f8f8d26dbdb	
+naomi2.zip	bios\dc\naomi2.zip	c50072cbab75673e1b1a6b94355e6fa8	2962e338ccc9f66f29b409f73ca27aeee79633ac	
+NaomiGd-0.220_NoClones_V1.0 barhi.dat.7z	bios\dc\NaomiGd-0.220_NoClones_V1.0 barhi.dat.7z	5536305d6e89f825519fabf1a8ef207a	73bdb8359bfc74b04e6e82b20143dc9f6322c886	
+NaomiGd-0.239_NoClones_V1.0 barhi.zip	bios\dc\NaomiGd-0.239_NoClones_V1.0 barhi.zip	35480fabb5a7a306e5a643b915480a24	c42ff3b9e74c723b07a394dee9106e5a6ab5d3bb	
+naomigd.zip	bios\dc\naomigd.zip	a3c74748f4b1d08f2247b16099db372d	4b92936f396c8199f745d3ed0ff588a324b8dd70	
+Naomi_datfiles.zip	bios\dc\Naomi_datfiles.zip	c045f571b123b018ce2bfd2289172169	3251d3b601850aed422f006b61ce9776cdb799d2	
+d200rom1.rom	bios\dragon\d200rom1.rom	be9bc86ee5eb401d0a40d0377f65fefa	1983b4fb398e3dd9668d424c666c5a0b3f1e2b69	
+d200rom2.rom	bios\dragon\d200rom2.rom	fd91edce7be5e7c2d88e46b76956a8aa	e3c8986bb1d44269c4587b04f1ca27a70b0aaa2e	
+d32.rom	bios\dragon\d32.rom	3420b96031078a4ef408cad7bf21a33f	f2dab125673e653995a83bf6b793e3390ec7f65a	
+d64rom1.rom	bios\dragon\d64rom1.rom	5f0bee59710e55f5880e74890912ed78	f119506eaa3b4b70b9aa0dd83761e8cbe043d042	
+d64rom2.rom	bios\dragon\d64rom2.rom	fd91edce7be5e7c2d88e46b76956a8aa	e3c8986bb1d44269c4587b04f1ca27a70b0aaa2e	
+d64tano.rom	bios\dragon\d64tano.rom	be9bc86ee5eb401d0a40d0377f65fefa	1983b4fb398e3dd9668d424c666c5a0b3f1e2b69	
+d64tano2.rom	bios\dragon\d64tano2.rom	fd91edce7be5e7c2d88e46b76956a8aa	e3c8986bb1d44269c4587b04f1ca27a70b0aaa2e	
+ddos10.rom	bios\dragon\ddos10.rom	1c965da49b6c5459b8353630aa1482e7	a8918c71d319237c1e3155bb38620acb114a80bc	
+ddos11c.rom	bios\dragon\ddos11c.rom	d8429af1a12f7438a4bf88a5b934cb3a	e2ef204e58372e836486b1fcb4edf0e3a0f3a457	
+ddos12a.rom	bios\dragon\ddos12a.rom	55e2535dbbed7f1a26b5f263d7c72c63	7e324688aac097dd2b016506c40d570a085361bf	
+ddos40.rom	bios\dragon\ddos40.rom	9ddc388632cd3c376b164ba5cfc64329	89f38825ddf72b9863c04d8066d5ab8cabb9197a	
+ddos42.rom	bios\dragon\ddos42.rom	c956a854cbc4b9d1e69c000f78368668	7747fe3d431b745b570629fe7f3f5d51b6d6f393	
+deltados.rom	bios\dragon\deltados.rom	024eac3db20f1b5cf98c30a0e4743201	686ebb5f39dd4fc907a0b748867d0a022d2f1a60	
+dplus48.rom	bios\dragon\dplus48.rom	ee6f24d893a52b8efea9f787855456b5	e72ca68061267692b01034005c2804aeee8e5cd0	
+dplus49b.rom	bios\dragon\dplus49b.rom	56f1b97314e4ca82491c465bb887059e	73ae74978a78ec2b97ebb1b0c808238779529bfa	
+dplus50.rom	bios\dragon\dplus50.rom	35de5d28da507ebb213a26e04241d940	90164ea50fe3ac4c118b502438d2e5015a588398	
+sdose6.rom	bios\dragon\sdose6.rom	9d85e6b7133f915c021156f4b9cdb512	ef157016386ed463374de6bac84d1f8ce654ed80	
+sdose8.rom	bios\dragon\sdose8.rom	167f409b7a4b992faabb784b061ab4c6	8958dc06ee15a505e4b5729c8acf9db0f1f066fe	
+fba_029671_od_release_10_working_roms.dat	bios\fba\fba_029671_od_release_10_working_roms.dat	993c9ce349e377e353713641f0166d2b	a601f89c9d7d9e6de2b1e51e91d1eba9bdf8949e	
+fba_029671_od_release_10_working_roms_filtered.dat	bios\fba\fba_029671_od_release_10_working_roms_filtered.dat	d84bebcfb35ed4349199404ade082642	98de8a206b9a403ba7bcc3c08535061c3e05a852	
+piFBA_gamelist.txt	bios\fba\piFBA_gamelist.txt	f3a0c4fa7e10c5e9a12445040a2df727	bee87380448ac9fb0f9cd90ce8bd71b8fdc87f70	
+FinalBurn Neo (ClrMame Pro XML, Arcade only).dat	bios\fbneo\FinalBurn Neo (ClrMame Pro XML, Arcade only).dat	529cc40b86b2916981cf62f445620e5d	ef2caff41d59e4f7cf5d157ca34c22fe6dca134f	
+FinalBurn Neo (ClrMame Pro XML, ColecoVision only).dat	bios\fbneo\FinalBurn Neo (ClrMame Pro XML, ColecoVision only).dat	4001a16f5656c5b2105e0e6c2dd5bc69	1aa657ae77211c9184e95da72f15d6eeda4ac1bc	
+FinalBurn Neo (ClrMame Pro XML, Fairchild Channel F Games only).dat	bios\fbneo\FinalBurn Neo (ClrMame Pro XML, Fairchild Channel F Games only).dat	3a9ee904740d5be3653f3930937f17b2	ef7ecf6f8872faa2fc964e5df69fc5fa1871af4e	
+FinalBurn Neo (ClrMame Pro XML, FDS Games only).dat	bios\fbneo\FinalBurn Neo (ClrMame Pro XML, FDS Games only).dat	2eef01c727ab8215b0fd3080dae4648a	9d4e3ff457b9c3a124c2ccc24334a4aa836afee8	
+FinalBurn Neo (ClrMame Pro XML, Game Gear only).dat	bios\fbneo\FinalBurn Neo (ClrMame Pro XML, Game Gear only).dat	a3d572cde0a5ca563b7dade56743ad9b	3aad823c1375398a023891838c5ed94d7b0da1f6	
+FinalBurn Neo (ClrMame Pro XML, Master System only).dat	bios\fbneo\FinalBurn Neo (ClrMame Pro XML, Master System only).dat	e9aee40bef5abc8ddd1a367db166da64	3296f7484ccf0316fb956878899d2f5cc0503837	
+FinalBurn Neo (ClrMame Pro XML, Megadrive only).dat	bios\fbneo\FinalBurn Neo (ClrMame Pro XML, Megadrive only).dat	b288f86047907ac341242237768bac4e	c7712ba7995010aca7345bbfa8db28c9c2c31e9b	
+FinalBurn Neo (ClrMame Pro XML, MSX 1 Games only).dat	bios\fbneo\FinalBurn Neo (ClrMame Pro XML, MSX 1 Games only).dat	56a9387c0f463b8f3bad2445d9e11d70	a38ce68d7acd9edbbc89917dfd3c11e6a9bbf395	
+FinalBurn Neo (ClrMame Pro XML, Neogeo only).dat	bios\fbneo\FinalBurn Neo (ClrMame Pro XML, Neogeo only).dat	73c27326effecced2425ab030662c5b3	abadedc3ed32f0bf2b274671c9c81d020ea2c57e	
+FinalBurn Neo (ClrMame Pro XML, NeoGeo Pocket Games only).dat	bios\fbneo\FinalBurn Neo (ClrMame Pro XML, NeoGeo Pocket Games only).dat	c14081568fb9f3d02d2c07068af66a13	25122746537afddf9fff9fc9412e30e03d07f2d0	
+FinalBurn Neo (ClrMame Pro XML, NES Games only).dat	bios\fbneo\FinalBurn Neo (ClrMame Pro XML, NES Games only).dat	d4ee652b2f9ab5883fed97a1c80b69ed	5eefeedbb8fcec08d60a8c136ac194df2523231c	
+FinalBurn Neo (ClrMame Pro XML, PC-Engine only).dat	bios\fbneo\FinalBurn Neo (ClrMame Pro XML, PC-Engine only).dat	2c092418d5eed5fdf1408b82a50bced6	c40689fb6e657c451f1091594909d18a77b2589a	
+FinalBurn Neo (ClrMame Pro XML, Sega SG-1000 only).dat	bios\fbneo\FinalBurn Neo (ClrMame Pro XML, Sega SG-1000 only).dat	07a602d576194eae74be4dcb61efb9d0	80c914bfb94a5264d5bd032c602b120a836f7f49	
+FinalBurn Neo (ClrMame Pro XML, SuprGrafx only).dat	bios\fbneo\FinalBurn Neo (ClrMame Pro XML, SuprGrafx only).dat	8bfc6676355901266c4b2a064473577f	851757678d10b30449a4c222cb8c779e1ed718f0	
+FinalBurn Neo (ClrMame Pro XML, TurboGrafx16 only).dat	bios\fbneo\FinalBurn Neo (ClrMame Pro XML, TurboGrafx16 only).dat	3ecbb3823e69489d06b9831820e306d0	0ed4162b10325c7b9e61542c985a2131dacf8e4a	
+FinalBurn Neo (ClrMame Pro XML, ZX Spectrum Games only).dat	bios\fbneo\FinalBurn Neo (ClrMame Pro XML, ZX Spectrum Games only).dat	14d6ec5e40a23be9fd5a36bfaa023fc7	a025d29a51322cf36989514221718a44c4a5b604	
+hiscore.dat	bios\fbneo\hiscore.dat	53c6a0c3fb14fb51109d6a4f356f49ac	1b50c19d2b509f69e9b463d1e1715fd7422406d8	
+FinalBurn Neo Light (ClrMame Pro XML, Arcade only).dat	bios\fbneo\light\FinalBurn Neo Light (ClrMame Pro XML, Arcade only).dat	a18cdc12a4008e95c9fc7b59f403421f	6904fcf70d4fc74969dc08ca5c77ac0622a494fa	
+FinalBurn Neo Light (ClrMame Pro XML, ColecoVision only).dat	bios\fbneo\light\FinalBurn Neo Light (ClrMame Pro XML, ColecoVision only).dat	cf0f4af471b8b5efcc1f0a816f98490c	57a81404ce76bf4a71a5aea7e0514ff96e44656a	
+FinalBurn Neo Light (ClrMame Pro XML, Fairchild Channel F Games only).dat	bios\fbneo\light\FinalBurn Neo Light (ClrMame Pro XML, Fairchild Channel F Games only).dat	3a9ee904740d5be3653f3930937f17b2	ef7ecf6f8872faa2fc964e5df69fc5fa1871af4e	
+FinalBurn Neo Light (ClrMame Pro XML, Game Gear only).dat	bios\fbneo\light\FinalBurn Neo Light (ClrMame Pro XML, Game Gear only).dat	b55e7981a53d5dc36bd13bc718a47cdc	24559b86f3223d00d5a67b88df6c7f9d8ae3b586	
+FinalBurn Neo Light (ClrMame Pro XML, Master System only).dat	bios\fbneo\light\FinalBurn Neo Light (ClrMame Pro XML, Master System only).dat	17723bc632eb34b9bcfd333cebb3afbe	2f49db9981a4000bdf48b6257e01281fae639187	
+FinalBurn Neo Light (ClrMame Pro XML, Megadrive only).dat	bios\fbneo\light\FinalBurn Neo Light (ClrMame Pro XML, Megadrive only).dat	6fd312856eabeec8e13ce8b8e4d5032a	eea1029bd75c047d30448f9a7ac5aacdd19052a1	
+FinalBurn Neo Light (ClrMame Pro XML, Neogeo only).dat	bios\fbneo\light\FinalBurn Neo Light (ClrMame Pro XML, Neogeo only).dat	3e586757cfadb164fb8465f49cd01017	ecbe7bc3dd7fee7ee9ef4cbe7a323464d8b66f1d	
+FinalBurn Neo Light (ClrMame Pro XML, NeoGeo Pocket Games only).dat	bios\fbneo\light\FinalBurn Neo Light (ClrMame Pro XML, NeoGeo Pocket Games only).dat	f9fc24b7d4d01e70b205e6cfea0a06e7	df0e41818baa5d43c28cd5c86cac05821ceb1b8d	
+FinalBurn Neo Light (ClrMame Pro XML, Sega SG-1000 only).dat	bios\fbneo\light\FinalBurn Neo Light (ClrMame Pro XML, Sega SG-1000 only).dat	cbf8ed5de2872639faef81032859c4b8	05c74c118ead0d093237e80212c7b1322fe715e9	
+README.md	bios\fbneo\light\README.md	5259e07ff5d264ec0101e5da8e557813	c63a351f5c5060733ce3edbe0243db2922f2dac1	
+128p-0.rom	bios\fuse\128p-0.rom	a249565f03b98d004ee7f019570069cd	d07fcdeca892ee80494d286ea9ea5bf3928a1aca	
+128p-1.rom	bios\fuse\128p-1.rom	6e09e5d3c4aef166601669feaaadc01c	80080644289ed93d71a1103992a154cc9802b2fa	
+256s-0.rom	bios\fuse\256s-0.rom	b9fda5b6a747ff037365b0e2d8c4379a	477114ff0fe1388e0979df1423602b21248164e5	
+256s-1.rom	bios\fuse\256s-1.rom	643861ad34831b255bf2eb64e8b6ecb8	367b5a102fb663beee8e7930b8c4acc219c1f7b3	
+256s-2.rom	bios\fuse\256s-2.rom	d8ad507b1c915a9acfe0d73957082926	07783ee295274d8ff15d935bfd787c8ac1d54900	
+256s-3.rom	bios\fuse\256s-3.rom	ce0723f9bc02f4948c15d3b3230ae831	33703e97cc93b7edfcc0334b64233cf81b7930db	
+gluck.rom	bios\fuse\gluck.rom	d5869034604dbfd2c1d54170e874fd0a	015eb96dafb273d4f4512c467e9b43c305fd1bc4	
+trdos.rom	bios\fuse\trdos.rom	0da70a5d2a0e733398e005b96b7e4ba6	21695e3f2a8f796386ce66eea8a246b0ac44810c	
+.gitkeep	bios\gamecube\EUR\.gitkeep	d41d8cd98f00b204e9800998ecf8427e	da39a3ee5e6b4b0d3255bfef95601890afd80709	
+IPL.bin	bios\gamecube\EUR\IPL.bin	0cdda509e2da83c85bfe423dd87346cc	f27c63e5394e2fd1606f70df004c4fc2d6027700	
+.gitkeep	bios\gamecube\JAP\.gitkeep	d41d8cd98f00b204e9800998ecf8427e	da39a3ee5e6b4b0d3255bfef95601890afd80709	
+IPL.bin	bios\gamecube\JAP\IPL.bin	fc924a7c879b661abc37cec4f018fdf3	a1837968288253ed541f2b11440b68f5a9b33875	
+.gitkeep	bios\gamecube\USA\.gitkeep	d41d8cd98f00b204e9800998ecf8427e	da39a3ee5e6b4b0d3255bfef95601890afd80709	
+IPL.bin	bios\gamecube\USA\IPL.bin	339848a0b7c2124cf155276c1e79cbd0	f3cd0c7c61cbcefa85e7de3aff4cfa50bc508714	
+open_gba_bios.bin	bios\gba\open_gba_bios.bin	1876f71b0d8c65eef3454547896ffb11	598c0b2c6c5d15bbba218773574c9e7856d141f3	
+aes.zip	bios\geolith\aes.zip	ad9585c72130c56f04ae26aae87c289d	23c66caa80b93199914fae246a5ea6e84db1be29	
+neogeo.zip	bios\geolith\neogeo.zip	00dad01abdbf8ea9e79ad2fe11bdb182	deb62b0074b8cae4f162c257662136733cfc76ad	
+cgrom.dat	bios\keropi\cgrom.dat	cb0a5cfcf7247a7eab74bb2716260269	8d72c5b4d63bb14c5dbdac495244d659aa1498b6	
+config	bios\keropi\config	d407317a52f8425a6753232064d14700	77be2f6f28897f99b73d4c47bf7cd47e999fd7cd	
+iplrom.dat	bios\keropi\iplrom.dat	7fd4caabac1d9169e289f0f7bbf71d8e	0ed038ed2133b9f78c6e37256807424e0d927560	
+iplrom30.dat	bios\keropi\iplrom30.dat	f373003710ab4322642f527f567e020a	239e9124568c862c31d9ec0605e32373ea74b86a	
+iplromco.dat	bios\keropi\iplromco.dat	cc78d4f4900f622bd6de1aed7f52592f	77511fc58798404701f66b6bbc9cbde06596eba7	
+iplromxv.dat	bios\keropi\iplromxv.dat	0617321daa182c3f3d6f41fd02fb3275	e33cdcdb69cd257b0b211ef46e7a8b144637db57	
+config.ini	bios\Machines\COL - Bit Corporation Dina\config.ini	496751f95950f4ba240479e454f9bf00	33c1dbf723ddff0994aa56d7607e5b0e9757c9c5	
+czz50-1.rom	bios\Machines\COL - Bit Corporation Dina\czz50-1.rom	1de922acdd742d31349c2801e9768c35	17fbbf2aa6a336454f9bd6f3f2b7b17bbe28c072	
+czz50-2.rom	bios\Machines\COL - Bit Corporation Dina\czz50-2.rom	72b089dc55b7fe7ffb5028f365e8c045	ccbe07648f72eeedcde3fc8feb665124fcbf97ad	
+coleco.rom	bios\Machines\COL - ColecoVision\coleco.rom	2c66f5911e5b42b8ebe113403548eee7	45bedc4cbdeac66c7df59e9e599195c778d86a92	
+config.ini	bios\Machines\COL - ColecoVision\config.ini	8ed74c95dcaad0d714e1734c82159119	0f0b7b73ba6f8677dfc5c824bb3edf6df2ff653e	
+coleco.rom	bios\Machines\COL - ColecoVision with Opcode Memory Extension\coleco.rom	2c66f5911e5b42b8ebe113403548eee7	45bedc4cbdeac66c7df59e9e599195c778d86a92	
+config.ini	bios\Machines\COL - ColecoVision with Opcode Memory Extension\config.ini	fbf084848c822891684c5791d190a5c2	a6d5df689e8263b3cd1870c287132a767e30bb78	
+config.ini	bios\Machines\COL - Spectravideo SVI-603 Coleco\config.ini	0622c054e44d55649a1bcfa35c1b1254	930e778317ea802a848f596e0054ec46375d53c6	
+SVI603.ROM	bios\Machines\COL - Spectravideo SVI-603 Coleco\SVI603.ROM	c60a2e85572c0ccb69505a7646d5c1b6	8a30abe5ffef810b0f99b86db38b1b3c9d259b78	
+config.ini	bios\Machines\Forte II Games - Pesadelo\config.ini	ea55e8981db21b6e4322ff53e2149421	3f56cdf8736a9e1d2d1e0dadefb8c19786aff01b	
+pesadelo.rom	bios\Machines\Forte II Games - Pesadelo\pesadelo.rom	ba53d700ec25bcb08020ce693319cd28	12880dd7ad82acf04861843fb9d4f0f926d18f6b	
+config.ini	bios\Machines\MSX\config.ini	98501fb5bd45bb5995f1f1ddb4fe520c	483b2c34fcb3ddcf650314e45104f358ef74c98b	
+config.ini	bios\Machines\MSX - Al Alamiah AX-170\config.ini	443526e576c008ac16881e637bc30a16	cff532d00a2cb17548348f492bc520d346e4a045	
+config.ini	bios\Machines\MSX - Arabic\config.ini	b925034360e13d44623449f337bd517f	f782ca81dde6a0c80f58289e83a1af59ea1d40ee	
+config.ini	bios\Machines\MSX - Brazilian\config.ini	fb15adbcf2e9dfc97f761931a7926eb6	bc70db412a9677ebbbab4b565ef6d2c85b259db2	
+cbios.txt	bios\Machines\MSX - C-BIOS\cbios.txt	86065454ad150f78acb1ea3d2b4659c0	1152f3e3eff0afac2143d478f157fd26c7466e6e	
+cbios_logo_msx1.rom	bios\Machines\MSX - C-BIOS\cbios_logo_msx1.rom	25b5cdea5040883a206b89845cdf55f1	95fe138745f5e627b021085c7e4629a6dfe6f93a	
+cbios_main_msx1.rom	bios\Machines\MSX - C-BIOS\cbios_main_msx1.rom	87b27f48cc25e2b6f749c019587d5f23	a49bcf7a5a1115815f730782a1fd7d1c79ce29e7	
+config.ini	bios\Machines\MSX - C-BIOS\config.ini	2106d77a87f334c3bf7d6e11526d51ff	0f232bd2d7410baf3ccd158b4348a0e0f1e44e71	
+config.ini	bios\Machines\MSX - Canon V-10\config.ini	303a7e804bb5dd2e623737b733325043	eb287d4eae5d90f47e7ba8f94b430e2e52c61249	
+config.ini	bios\Machines\MSX - Canon V-20\config.ini	b2044d513692bec22c3a6fd1c922c29d	37ca9bac21eacbc012a80219d15381d757bcfb14	
+config.ini	bios\Machines\MSX - Daewoo DPC-100\config.ini	a34ef58f30cc7f5aa5386385665e538b	c989cb1bb632a1482298c234a4a76a3f94282390	
+config.ini	bios\Machines\MSX - Daewoo DPC-180\config.ini	061163886469279a1c45d3fd1ce7fbeb	1a033e4508e549421c94f83473de8dbd3aba834d	
+config.ini	bios\Machines\MSX - Daewoo DPC-200\config.ini	d5c38321e43f6ea29f0cacada86836f7	ed5fdda9435c4c4cbb96b5231032f0e7128ec542	
+config.ini	bios\Machines\MSX - Daewoo DPC-200E\config.ini	dcd690ca386e0eec71a3f314c7d53421	0f6b7cd53ce79a577988f2341335bff24ad90f1f	
+config.ini	bios\Machines\MSX - Estonian\config.ini	1f3f76fe5d34ef1f8a3eaeb6e27bbfa3	c7bb8d863582e68650c3a0090369b626fbc3b7de	
+config.ini	bios\Machines\MSX - Frael Bruc 100-1\config.ini	4deb67abd14f890e3afb6c028b37da8d	99d5ec793bb00f1ee9f7bb856492da82f3e4858b	
+config.ini	bios\Machines\MSX - French\config.ini	55675b187b3c35a477a169c077e1805d	c375acc521b0df362faab7745e0f35acde92a85e	
+config.ini	bios\Machines\MSX - German\config.ini	75541f9a4c4126edb2362d816b05d00f	b3017e7d79ca0634bb313dd469852789610a4548	
+config.ini	bios\Machines\MSX - Goldstar FC-200\config.ini	35a348fd662754bfd9eba62ae5d5d874	eab1c23bd2e6ace8ef38e048ec71ccedb46c857d	
+config.ini	bios\Machines\MSX - Gradiente Expert 1.0\config.ini	60295caa45190888a31bde42eee615c5	69ce8179babc5f2e446fa86c94dfbc9b4da67d37	
+config.ini	bios\Machines\MSX - Gradiente Expert 1.1\config.ini	2dff90d68a0b96444a66b861879ffcdc	fd9c7514639efceac987d6d492353b9982470a61	
+config.ini	bios\Machines\MSX - Gradiente Expert 1.3\config.ini	a1f13100e0d1b1e5090e70e21a16dc1d	099a128c2d077673dc7db5454727922486c83895	
+config.ini	bios\Machines\MSX - Gradiente Expert DDPlus\config.ini	919e4290bb8672c0729bb467c5180899	042d579bed20c0ef64f8128ec782b5057708dd23	
+config.ini	bios\Machines\MSX - Gradiente Expert Plus\config.ini	06ed665b34001401a4e65ff74ee3f222	d8b53c972cb1559298f83fec9fd9913e724ba129	
+config.ini	bios\Machines\MSX - Japanese\config.ini	a7b19e8b12ce1a292b0bfc6e0d48425a	1f2f42a3c5d8471da652bcf2a9b620798487cf11	
+config.ini	bios\Machines\MSX - JVC HC-7GB\config.ini	49d30acdeccac1f2edbabedcb85d4859	4cdeb73232ad5887fcee0259db5e5a1354848018	
+config.ini	bios\Machines\MSX - Korean\config.ini	3f9b143d1740391358a273e9cab7f723	718dceb5ffb6294ce5a179848cf862fc0d72ad71	
+config.ini	bios\Machines\MSX - Mitsubishi ML-F80\config.ini	583207b66a47ec07b2cca99f579931a8	b71e6a9b1ad1a325d680dfee53b86a4b507118a3	
+config.ini	bios\Machines\MSX - Mitsubishi ML-FX1\config.ini	bbf42e6f2a97759412fce64e0b42b1bb	578be282f58a280bc3706950f950d9c4650d6113	
+config.ini	bios\Machines\MSX - National CF-1200\config.ini	cf29d099b1d7f774b2e229ded7b0ed6f	a8208695f82b96b797c58b508b5b788199a83427	
+config.ini	bios\Machines\MSX - National CF-2000\config.ini	1c4c478866542b5d7ee75df7ff717160	95781d184bc5d8e310fa22bf94e0b7ddb89bdf86	
+config.ini	bios\Machines\MSX - National CF-2700\config.ini	30d4035d799dc261fdc29ea918b398cb	6f7f3c9a4ae8beb60a54d98a15ec6001ba1f211e	
+config.ini	bios\Machines\MSX - National CF-3000\config.ini	cba9693441cfa310e6d644ba8bb6ee56	9241d9b114d514cd9d5957203b43818ad29c6d16	
+config.ini	bios\Machines\MSX - National CF-3300\config.ini	dd40b80a3f55d801fd59f230ef1c9da2	8a060b6169b87a524fd8d2fc8b8b47ac0f8368b9	
+config.ini	bios\Machines\MSX - National FS-1300\config.ini	de4e6dc535359e902429614a3f2b8733	d2a894d58428246ee2d1fc16d89bfd04659ab35f	
+config.ini	bios\Machines\MSX - National FS-4000\config.ini	7f9ecd9439b02321dd0bfd6c7fc95250	73f60e3d7c83f87ce3f6ff85ea94960bc3425316	
+config.ini	bios\Machines\MSX - Olympia PHC-2\config.ini	04aeefa9a623c51da7d1c58c8dcb9e26	4364432d0a1ad21ce06705052248b1df8dd9052d	
+config.ini	bios\Machines\MSX - Olympia PHC-28\config.ini	9aa760f7d925399635f9f8d267a0dc0f	b15daf568e6e6b29e4c0ce4674a6389f81589b2d	
+config.ini	bios\Machines\MSX - Panasonic CF-2700G\config.ini	5ea458250339d0c1c33d67ada3f8ffa3	d14db70e8200b2829aba83f724d104b7247a9626	
+config.ini	bios\Machines\MSX - Philips NMS-801\config.ini	ed761c105612e7bbdfda8cce9d4ea219	db6516ac9fd99e47ca9c68c66260d053b4316e30	
+config.ini	bios\Machines\MSX - Philips VG-8000\config.ini	fd10cabf36ec82a2bbdfbf0d99f78a91	347c24c34caab687856a7dcbb4404046c5af1b34	
+config.ini	bios\Machines\MSX - Philips VG-8010\config.ini	351e6bfea5c2103ad5748fab529f8954	c5ab3e58e7e1ed861af60e4161ce6164af1e36be	
+config.ini	bios\Machines\MSX - Philips VG-8010F\config.ini	901ce9531bc4be0b0e0d26b4f394f7c6	ad03d600d5b8e4047477efb817e6625ff064d414	
+config.ini	bios\Machines\MSX - Philips VG-8020-00\config.ini	1ecc77a90b6e598a94069b44bcc3754c	10353870ff25664b46826ebc4d074467034cbbec	
+config.ini	bios\Machines\MSX - Philips VG-8020-20\config.ini	fe28d629f34437e3b26e7b8d9354e249	d69b93fad3a65c27977b82695087139b3843b3b3	
+config.ini	bios\Machines\MSX - Philips VG-8020F\config.ini	5a02902a25da58826b3b3f5db64ac647	3f00f566202992941f082c9748442c8fd08e5671	
+config.ini	bios\Machines\MSX - Pioneer PX-7\config.ini	a9fabec1af1f20906a04a3751d4a18e5	1a3a35acaf1186104b0792c9cb0b52e45ad5d869	
+config.ini	bios\Machines\MSX - Pioneer PX-V60\config.ini	b3d52b1a247bcd45cde371f3994e0ab6	fc0aff559469ba63c7ebe2e22065f510212df6a5	
+config.ini	bios\Machines\MSX - Russian\config.ini	6d318d7145545fe18375091357e73659	cc393b4c73273a6710068d4dc7d16952d55a56f7	
+config.ini	bios\Machines\MSX - Sanyo MPC-100\config.ini	eaf627e1a5b339618f84d32b22b2b200	6fb3f394904d0c50e595f1df22cfaf7955ccaaa2	
+config.ini	bios\Machines\MSX - Sanyo MPC-64\config.ini	1eb0e05afa6ab1f92d7b6fa01f1f4de5	dc033c3b50f9b5921faa58af3e6382f05210f00b	
+config.ini	bios\Machines\MSX - Sanyo PHC-28L\config.ini	2915964c29a287bc8f1c1bf9a0b959fd	921d3ff67ecb870098a86ae5f8022d4858aaed3b	
+config.ini	bios\Machines\MSX - Sanyo PHC-28S\config.ini	4c3ef93d9b09627b7f1a5fb2badddf24	1a0df568997ce23d8eeb5985d74295a87de37843	
+config.ini	bios\Machines\MSX - Sanyo Wavy MPC-10\config.ini	7c1dfb85af6ea9b15483c63c5fdf384a	c7a0b2f43ae2ae5ab4c7d3b39d5915a648792516	
+config.ini	bios\Machines\MSX - Sharp Epcom HotBit 1.1\config.ini	85b99a8b5b7155fa8fe44000c84b69a9	4df2c7c7acbb7287944df64479ac327d262efb70	
+config.ini	bios\Machines\MSX - Sharp Epcom HotBit 1.2\config.ini	556fd234f4b8b939ef2b1470907f937b	117cb4dcbc2ff443fced1aa81f8e46ae4d013e96	
+config.ini	bios\Machines\MSX - Sharp Epcom HotBit 1.3b\config.ini	9e304d760602424e43b2e8398e51f378	02b44e3ca7a9a187012e0669fdc087117f2319a5	
+config.ini	bios\Machines\MSX - Sharp Epcom HotBit 1.3p\config.ini	f2b4682473be9fba29ce04d9a6a96a74	213641733001bea40d323ed1f8054cdafc9bcee2	
+config.ini	bios\Machines\MSX - Sony HB-10P\config.ini	cf4f0d4ce65ec97a7ea655407af48179	32b04756b3bec58ecd88910ec1ea5e45754d95b7	
+config.ini	bios\Machines\MSX - Sony HB-201\config.ini	ef65fc7c33806162af8b9059309332e1	c715982aa811b9d9d8e801ab9f5e8d784ff93a46	
+config.ini	bios\Machines\MSX - Sony HB-201P\config.ini	aa04a57cb87b6a11e584a0f9ebce047e	c353f4d7f8cf0ee58782882d73dbbb8bf41097f9	
+config.ini	bios\Machines\MSX - Sony HB-20P\config.ini	3e414479d312b0a09e628f33703e2f1d	e6505cf68a9942b6648fa87c812d931cb3b5c2d3	
+config.ini	bios\Machines\MSX - Sony HB-501P\config.ini	22ddcfb504a42962c18e00b5b27938eb	8e8a2aca5ef380b1a6ce9d652cf452db18c1ffb2	
+config.ini	bios\Machines\MSX - Sony HB-55D\config.ini	117f9065becc230bcac2c2697d64388e	9695c4dc48e63b9acee5c0d40a6e01849ffcc3bb	
+config.ini	bios\Machines\MSX - Sony HB-55P\config.ini	e8008ed2668c9612fc0e72115557692b	5798acb86557a676a6e92c61948f0dec23886a83	
+config.ini	bios\Machines\MSX - Sony HB-75D\config.ini	ef25834ad8cba5a77a66a171074119e3	3405ea76acf361788e905d7a7e382c8cb01c9f3e	
+config.ini	bios\Machines\MSX - Sony HB-75P\config.ini	b40b186f718eb61e121d3e135505e15a	7a234f193625f3daa2bfdf1b4ecd64910a5e73f0	
+config.ini	bios\Machines\MSX - Spanish\config.ini	9d858780032cfa6bc3e7d0b0d526dcb6	5641c9b3167a438d3a7ac4695116d3bfb12eabfd	
+config.ini	bios\Machines\MSX - Spectravideo SVI-728\config.ini	a2b238f5507e13a7b7a9edadede476da	2ab1cdfa6169ee2d9021137410676a24ca3fa9be	
+config.ini	bios\Machines\MSX - Spectravideo SVI-738\config.ini	e1ccfd1d7e4765e74fe6ccdf152a4e9e	f98f9e4a32f85187f91117177663e51c7a8c2ae0	
+config.ini	bios\Machines\MSX - Spectravideo SVI-738 Henrik Gilvad\config.ini	9984a9615309f8b0fd77fe468c08fa60	2afd2a06067aa847b09b81de59305ea29e6d902d	
+config.ini	bios\Machines\MSX - Spectravideo SVI-738 Swedish\config.ini	780273d30afb7764d4b08f338f481432	6e4f708ad9f203751afac2597177287d40045bf5	
+config.ini	bios\Machines\MSX - Swedish\config.ini	614d44596f10001acc2ddaa9b20e398c	3a416bfe651475ce0ad1ce6bd2dfa5e48df26eac	
+config.ini	bios\Machines\MSX - Talent DPC-200\config.ini	ebb98f6223985963133d8b0e7ecacaf5	2a1056f50cd842a5bf66e5f8f1daae5f1681db68	
+config.ini	bios\Machines\MSX - Talent DPC-200A\config.ini	a1efd35a690e8deff1c0431e1ab5a8b9	1bb388ef31a9b8b0a06268159ab9408e47f1c464	
+config.ini	bios\Machines\MSX - Toshiba HX-10\config.ini	40a28060672ce962b563db76ef87e7da	ab08688dbe3409ab6f01ad0f60c323250dbed173	
+config.ini	bios\Machines\MSX - Toshiba HX-10S\config.ini	27b67fde8aac2a43d171be40d2ec41e3	61ab8b6b61ae9dc884fbd97f2c740ea6440441c1	
+config.ini	bios\Machines\MSX - Toshiba HX-20\config.ini	c95a3c7d736ddd88d27d9fa388f45b53	ba497e1c98c10638a3cb76be16d5168e87338da9	
+config.ini	bios\Machines\MSX - Yamaha CX5M-1\config.ini	4df689f47c2ac685e302629b120c6335	79f9b2a149b5640a260c0af1ee0c4ab972c60e74	
+config.ini	bios\Machines\MSX - Yamaha CX5M-128\config.ini	aa38d15d8ad2c3fa1d116adf14e3c2ab	fc5b1f3aaec25ead14eb9b74b187ba4a5d62eebf	
+config.ini	bios\Machines\MSX - Yamaha CX5M-2\config.ini	b467beca81fd9faa04a3d48413df53fb	d83782fb25c4fc73697cc8137dc71ef68258682d	
+config.ini	bios\Machines\MSX - Yamaha CX5MII\config.ini	dcb40987b978b4160f4a48ab12d89019	aae207dba987e699ff5b9d58de2569dc570a2900	
+config.ini	bios\Machines\MSX - Yamaha YIS303\config.ini	e377cdab0ebcb7ec7245e046a0ed0f3f	aeef4cba14b6cbdbab2c3f0252bec86956a503ad	
+config.ini	bios\Machines\MSX - Yamaha YIS503\config.ini	90927225106ffe3e015c34392aa64c88	a430b9300a5ae9b0584113714a3d94b73ccfc455	
+config.ini	bios\Machines\MSX - Yamaha YIS503F\config.ini	ebf6d6bc7a8d1cb9b55542e9c63c7aa6	ca0418d9f87b0f7161fbcc2bdcc7e355e7e69503	
+config.ini	bios\Machines\MSX - Yamaha YIS503II\config.ini	ac96b4ce3285d31db7c02034b9046db2	479f333a72c7e3de935d1230c66d92594c2876f7	
+config.ini	bios\Machines\MSX - Yamaha YIS503IIR\config.ini	1e88e128a9c3aa2600140bd80a07fa4b	440d02ed098d2d5d847dc5b785c6bd3eae27720f	
+config.ini	bios\Machines\MSX - Yamaha YIS503IIR Estonian\config.ini	4df0c5ee5167c505a65af1d857cdf217	471db782f1b7e85d332ce88ebbdcd12f92d75a60	
+config.ini	bios\Machines\MSX - Yamaha YIS503M\config.ini	326aba10fbf9b3f00010dfb3d74345f2	fbccedb75c77953ed9d5b87ddc8b0c3991d33be4	
+config.ini	bios\Machines\MSX - Yashica YC-64\config.ini	d0df7e57c78a32e6bb8ede6ac65c918c	dd009df24ad82298d982a1ddc86ea5556a8a920a	
+config.ini	bios\Machines\MSX - Yeno DPC-64\config.ini	b7fc9d5696411b340a5c60212b37fdd7	a69458fc93a73592eabebd7c8ab9b25372b9cc63	
+config.ini	bios\Machines\MSX - Yeno MX64\config.ini	b81e4fb3429ec9894711a540a7ee706c	8185bb8361fe9aeb4c1cb8483bfcbbe1ff5ac10a	
+config.ini	bios\Machines\MSX2\config.ini	c616cfad5eba7ac99b03bc2d40ac669b	460ded0dbfc0285490da87a446b0321b6496aa5b	
+config.ini	bios\Machines\MSX2 - Al Alamiah AX-350\config.ini	8aca07b7add1867c6492888b04b59384	e78ebeb26ec3672ca98e696cfea16ce79a2e21a1	
+config.ini	bios\Machines\MSX2 - Al Alamiah AX-370\config.ini	16b3f5e833de2f0179746e92e3718144	a07c82b456814d0f95029500661f3db2c02ea611	
+config.ini	bios\Machines\MSX2 - Arabic\config.ini	4959854e6184c1108de69e0bb617365a	66141cc07c768bed0370bb6fe7df3e4bdd80ab77	
+config.ini	bios\Machines\MSX2 - Brazilian\config.ini	1af4a2b55599048452d9c6d73c4dc4db	505cd7f8cb1e5afc2a8fd8b0937686b8d4546572	
+cbios.txt	bios\Machines\MSX2 - C-BIOS\cbios.txt	86065454ad150f78acb1ea3d2b4659c0	1152f3e3eff0afac2143d478f157fd26c7466e6e	
+cbios_logo_msx2.rom	bios\Machines\MSX2 - C-BIOS\cbios_logo_msx2.rom	659db9142e62c51f2f75fd52fac78e44	6fc989ae715fe8492700a9d15934113d910aed36	
+cbios_main_msx2.rom	bios\Machines\MSX2 - C-BIOS\cbios_main_msx2.rom	98b94c2d99066f272bb5de07778f7fd1	0808d0486f77a44d3aa08cd77828a3748a356b8d	
+cbios_sub.rom	bios\Machines\MSX2 - C-BIOS\cbios_sub.rom	9dd9a69432cc116d0f1d4ec7a51053e0	565143f7c6fe0ffa12ec3069048113f44759d91a	
+config.ini	bios\Machines\MSX2 - C-BIOS\config.ini	f9d905f8f18f94ad25adef25fa2ab920	a8f33b4b8cb07449706d5e701badff1808f02415	
+config.ini	bios\Machines\MSX2 - Daewoo CPC-300\config.ini	59572ba87c2b04f0c4fb27e30d9cb5b2	ff9325fbe2da1bb36979cb0a187391b210bb8e0f	
+config.ini	bios\Machines\MSX2 - Daewoo CPC-300E\config.ini	facaf93b411b38246dc86032f7dcabe7	12e560b28a75fcd78819078ec141edf6b91742f2	
+config.ini	bios\Machines\MSX2 - Daewoo CPC-400\config.ini	d910f354cb1cec0578885d3c4ca44872	4b7e4693dc160ece61b0bc5cd5b0b81042824b25	
+config.ini	bios\Machines\MSX2 - Daewoo CPC-400S\config.ini	03c1c3984f6dd43d0df763707b5ece54	6dc8cb156bbdf75761f0f28d2535fd4e07fa3371	
+config.ini	bios\Machines\MSX2 - Estonian\config.ini	98280bf171c99dedc6892f4e0bec868c	e1f2b54ca864981af9fd9f60a6e06102293aefa0	
+config.ini	bios\Machines\MSX2 - French\config.ini	4acfcff93020bfdc373a2c933de10c87	341cc08dfecb5bc1ed06b0f0f8d40efe5424e8f0	
+config.ini	bios\Machines\MSX2 - German\config.ini	e349db2db7b69db0baedbf248d048a37	046ba0eb76348827e0a3e2d2de289ff94e0970a5	
+config.ini	bios\Machines\MSX2 - Gradiente Expert 2.0\config.ini	af5efc299c663bf56e09fb04fc8327bb	c9f67f2d2a8d7a65b3ced09a2392e921afa6f7f1	
+config.ini	bios\Machines\MSX2 - Japanese\config.ini	c1ea670df9893d7f4bb3de8b618b71f7	10787827a4446712640dfc0c445d81edf71cf15f	
+config.ini	bios\Machines\MSX2 - Korean\config.ini	08a52a23c80a15077f6232ddc305a6ff	d4832afd2c34dec7300e7ab80ee7a8a921769bb9	
+config.ini	bios\Machines\MSX2 - National FS-4500\config.ini	3018367b6eb9ef153b2eed55e376bfc0	20b751a66b6970561617194fdd64808f1186a286	
+config.ini	bios\Machines\MSX2 - National FS-4600\config.ini	5e2e5dbfbae86930f43936563e8a4fcd	4b0248cc9d444b7a122c3e8d2e2e1975e15ebb10	
+config.ini	bios\Machines\MSX2 - National FS-4700\config.ini	53dd1196ad09d15fa7bd58009e641b56	d99fff49f500290fc562f3b72cef2fc442af9c2f	
+config.ini	bios\Machines\MSX2 - National FS-5000\config.ini	5694c60d98fb02cbfad2195562f8822f	f65cc0f72ffccf48e11ced10048e2f0930c79348	
+config.ini	bios\Machines\MSX2 - National FS-5500F1\config.ini	f209ded395cae2d18b38b52d08e917ce	f0fae04dd4901d6b88e6fe6008b5f986014c8cc5	
+config.ini	bios\Machines\MSX2 - National FS-5500F2\config.ini	9414080be8e287adef46f61c3189d436	941bed70f7af87b53aae7eab58f6f761d4de1cdc	
+config.ini	bios\Machines\MSX2 - Only PSG\config.ini	46e86fc50e1884841f440ca220aa7c3e	7d35fd78ccfea2a280fd77d5daf7a75eb2f1d233	
+config.ini	bios\Machines\MSX2 - Panasonic FS-A1\config.ini	89be1be6a48c96125fb9b19dc261607d	79eed9af0bc82e86bb7d4f1880e1a2682a152001	
+config.ini	bios\Machines\MSX2 - Panasonic FS-A1 (a)\config.ini	3b32d2f011ce85330dbeba34cbd9eb7f	7def4e3e7c294d58ea48fb7c9016f72649f21fe2	
+config.ini	bios\Machines\MSX2 - Panasonic FS-A1F\config.ini	c2674d01d037eb8e9a9156d77b1a8a96	cdacb737051190331bc39ed72ad6331c2c931420	
+config.ini	bios\Machines\MSX2 - Panasonic FS-A1FM\config.ini	d1a4d700ee994511cd8323e62e28aadd	0c853e7dd545f6872851c508438752da6eb8a1e7	
+config.ini	bios\Machines\MSX2 - Panasonic FS-A1MK2\config.ini	fbf273109701e5c27d291832afcc8ea9	c583400d3a9ea1e868346625b18577e339691a37	
+config.ini	bios\Machines\MSX2 - Philips NMS-8220\config.ini	fc0488be451b9d67460c74cd81ccd985	2153ddc013c17dec9efc569a202a8ae8edfc5879	
+config.ini	bios\Machines\MSX2 - Philips NMS-8220 (a)\config.ini	612de869ae0750976414cddcba675123	768b3b1d342b60bfafb345e037e9eab859cd4215	
+config.ini	bios\Machines\MSX2 - Philips NMS-8245\config.ini	0f06f51f6efd4d34a7e04ecb92126d20	e0ed25532058166404ccf42b9fd977da931c10e3	
+config.ini	bios\Machines\MSX2 - Philips NMS-8245F\config.ini	1fecc67a405fbd790e410318549489ac	005b4bbbcb29680693d139bec449c6d180951d3a	
+config.ini	bios\Machines\MSX2 - Philips NMS-8250\config.ini	03aaa44026b81d85897bbc5419440e9d	1f89dcb7b89893e497ae9c2344dad90c74c21a37	
+config.ini	bios\Machines\MSX2 - Philips NMS-8255\config.ini	1dde9ea25d88a4cf32f94b303f690b78	b3a995c388f145c79af003ba5dbc1c2f06e6458f	
+config.ini	bios\Machines\MSX2 - Philips NMS-8280\config.ini	a5d32fbd3a44b8c2a9f3c963d62faa25	9efd61f78075fbcb548fa71f1e38971aa1e3aa0a	
+config.ini	bios\Machines\MSX2 - Philips NMS-8280G\config.ini	2110465d2ffdff9c67b3c078898f68e7	8d7da37154f0347441ce981f68ad5d364e4ed4a8	
+config.ini	bios\Machines\MSX2 - Philips VG-8230\config.ini	0773929caf1b678c2895ad3d4c7386e0	3502d3f8e6e41fb92c9d5745358481d24d42373f	
+config.ini	bios\Machines\MSX2 - Philips VG-8235\config.ini	a488399bfee5783e1c32d88f818ef064	4ff27cbb079b76198c77ce83df87dd9f78c65e3d	
+config.ini	bios\Machines\MSX2 - Philips VG-8235F\config.ini	c483f982cae2f15d89249c79b395fab6	24c8e8cdc07a7ed5d4fef519c52b8d5c5c4f0bd7	
+config.ini	bios\Machines\MSX2 - Philips VG-8240\config.ini	59eaedb98e61ad0f7063bb5192334187	afa8824f5b05d649dbef2cfd2b525fcc335305b8	
+config.ini	bios\Machines\MSX2 - Russian\config.ini	e6edd84f9311778ac7c83f86abf784b9	22dbd9e51ef0899515e28a6362c12e3e05daefe6	
+config.ini	bios\Machines\MSX2 - Sanyo Wavy MPC-25FD\config.ini	52553682ed75d6ddf2fb58d0bce493fe	dd03b46c8ebd33a5367fec3080831553f7062153	
+config.ini	bios\Machines\MSX2 - Sanyo Wavy PHC-23\config.ini	d28f6ac4e561423c31a0fb80f457e2a7	fcde481206f684048a48a716e9558d31ddd42898	
+config.ini	bios\Machines\MSX2 - Sharp Epcom HotBit 2.0\config.ini	76c6c18cdb0c3944bdd9c201dce58921	63cbe0c778c66b028b4eb431567b2fde945290f3	
+config.ini	bios\Machines\MSX2 - Sony HB-F1\config.ini	7e0b0eb7b2c9aaba8bcad3e6024d9211	f266f069c8159f0f054fb5527fe3a28e9aab22c7	
+config.ini	bios\Machines\MSX2 - Sony HB-F1II\config.ini	577f8a4d2b98a27e81e0926bc62c82ad	7ac2361ab83a04e5bf4c2007fbd7865b3327a483	
+config.ini	bios\Machines\MSX2 - Sony HB-F1XD\config.ini	a70f78bc869825d9ce59ea2867e45bc3	d999e6305009db781c7f579cf2e0be9f7e88484e	
+config.ini	bios\Machines\MSX2 - Sony HB-F1XDMK2\config.ini	c56f85232c4e7a1a7480e06bfb87859f	b57ab62c9953644464da71cb466fd0a31e80b64d	
+config.ini	bios\Machines\MSX2 - Sony HB-F500\config.ini	a5165b6b795b8d3eff3eae67d8421bc3	d8a6f3a2fe3a178e04c9bbf4aac08ff6bf380e67	
+config.ini	bios\Machines\MSX2 - Sony HB-F500P\config.ini	b7d66c0318fb51d25149d297c22a8c7d	791a8860b3ce7b8e3f218c683b4c2d4424d154a4	
+config.ini	bios\Machines\MSX2 - Sony HB-F700D\config.ini	ab562407c8026a157f939936f1347b61	8c7c8b0862aa804f6cbab4ba3b5c510aaa9efc95	
+config.ini	bios\Machines\MSX2 - Sony HB-F700F\config.ini	5322e7e843f77009ba83a55eac8b7490	66b42bbb347b436ec7a33c29f5b6e228fc3bcacd	
+config.ini	bios\Machines\MSX2 - Sony HB-F700P\config.ini	d61e9a0a3f4ba3632a02bcfcf1a72b75	223a8ac1ba1476db6c0f403e3ae023b38fe3e83b	
+config.ini	bios\Machines\MSX2 - Sony HB-F700S\config.ini	365d49bfaeb819afc034542c74f2da92	7b46bab5836a3d3b32b069e7d7e2d6290735b264	
+config.ini	bios\Machines\MSX2 - Sony HB-F900\config.ini	644e01372ccf7584517e58f40147f8e6	de3fa5345e5dfad6c69d751ce132c5694a878334	
+config.ini	bios\Machines\MSX2 - Sony HB-F900 (a)\config.ini	5ef958697492ea19425cdef81a709959	7398037569beb9e30f8e0857240b7882938ca693	
+config.ini	bios\Machines\MSX2 - Sony HB-F9P\config.ini	bb2bb20e0f2a9a1b70c1b73e372fe924	2df5a8558f7f55413668d7f6a649af0267261fa3	
+config.ini	bios\Machines\MSX2 - Sony HB-F9P Russian\config.ini	fae978008634d56f2b8f3efc67d05e66	5db596d4f24bc49c8c0a4b9bc61b30cc4b19e734	
+config.ini	bios\Machines\MSX2 - Sony HB-F9S\config.ini	d5faefc7fb271b5733c16bf22f3d4300	75b17d86347084e0b42a69a1934ab4928df3ba3f	
+config.ini	bios\Machines\MSX2 - Sony HB-G900AP\config.ini	6f50ff6934aeaa75686b030316a7cbc1	a7b98188975117012ccf161c86d967e74fac2dfc	
+config.ini	bios\Machines\MSX2 - Sony HB-G900P\config.ini	cbf75cf14f93481f2e8c9af09df26601	24d0d7c20aaa7d8e799eb4cbd4ef3a4813036130	
+config.ini	bios\Machines\MSX2 - Spanish\config.ini	c7fe215cf4d434799f21220d78f7b555	80a6e5bfc62f38132fc74abcf9a39dbb6930b4da	
+config.ini	bios\Machines\MSX2 - Spectravideo SVI-738-2 CUC\config.ini	6dc5437477c3f3e7c6af974845c485af	58584d6f4a40189749a7d64c6801e5602d0fc86e	
+config.ini	bios\Machines\MSX2 - Spectravideo SVI-738-2 JP Grobler\config.ini	e3b95de6426b55814b05b4dd8eacea48	5232188e6a13fd3c275fa3ffc3f4ac9691cefd0f	
+config.ini	bios\Machines\MSX2 - Spectravideo SVI-738-2 LC Grosso\config.ini	abb88a7f213078ca077a49144b6154a3	845b8bdb5f0999f789c8aab34e7ffc0c15ce3a67	
+config.ini	bios\Machines\MSX2 - Swedish\config.ini	ce540179c472be16f22a24a624ed4bf1	8977b7f4809088dafbf68d6a34af4ad38a74bd81	
+config.ini	bios\Machines\MSX2 - Talent TPC-310\config.ini	4c94d6a9a9059bb4a4f2aadb90680b1f	d5e5e6670635e93b931c24a4411836f43cf116cb	
+config.ini	bios\Machines\MSX2 - Toshiba HX-23\config.ini	d0ec17dffbc20e8770a8b5c211fa6f33	32fe51f368863e2963f696feb379ef8b9dbe91de	
+config.ini	bios\Machines\MSX2 - Toshiba HX-23F\config.ini	e16f2c5428f7bd43be861ea60680fcc3	f3a54879e4ad46fea3b3805ea5837d990debf5d2	
+config.ini	bios\Machines\MSX2 - Virtual Haesung Console\config.ini	ec29f60d0ec574d0a74eb8c4f3c4882e	517b3beee3094c25ebc23d972fafd58dff1c8157	
+config.ini	bios\Machines\MSX2 - Yamaha CX7M\config.ini	e764c9b1422f95a67a9db31b5d37fab9	323e32b9d6591d070880bb69d6780879e01de514	
+config.ini	bios\Machines\MSX2 - Yamaha CX7M-128\config.ini	2e6cc3f19c56fb26507d6e1784117fef	5ba860d316635d93d3ae7f5a5af90a2389c0f5a8	
+config.ini	bios\Machines\MSX2+\config.ini	510c643fa932b346ea8b87ea4f965618	cb7d14a17c4f4632f17ba5a64160cdd876dd6010	
+config.ini	bios\Machines\MSX2+ - Brazilian\config.ini	1b6b80b0393d819d68a824ab31714bee	9dcf2d88350f739871e4af3f91e8037aa2befbbf	
+cbios.txt	bios\Machines\MSX2+ - C-BIOS\cbios.txt	86065454ad150f78acb1ea3d2b4659c0	1152f3e3eff0afac2143d478f157fd26c7466e6e	
+cbios_logo_msx2+.rom	bios\Machines\MSX2+ - C-BIOS\cbios_logo_msx2+.rom	462d6ecb52a8c35dd7d48c2d46687f14	6e55cfc48d0d6ee57b041cb09427f614fb6a1910	
+cbios_main_msx2+.rom	bios\Machines\MSX2+ - C-BIOS\cbios_main_msx2+.rom	0a34c660614ead31dab78638ce7745e9	c5edc3b289dea120fe60ad38596a51c2e28838aa	
+cbios_music.rom	bios\Machines\MSX2+ - C-BIOS\cbios_music.rom	e09783c4ec6d4770c5395c42bb0e1d91	5c5eb001e6a1fe29edb7abd428a3967bb388e5db	
+cbios_sub.rom	bios\Machines\MSX2+ - C-BIOS\cbios_sub.rom	9dd9a69432cc116d0f1d4ec7a51053e0	565143f7c6fe0ffa12ec3069048113f44759d91a	
+config.ini	bios\Machines\MSX2+ - C-BIOS\config.ini	b7c58643eb6ebb245e312720f76ad13f	30b3932b7d2135157e5b7bbc4028efb9f658dc87	
+config.ini	bios\Machines\MSX2+ - Ciel Expert 3 IDE\config.ini	9a0acca0ceedef8eb1f2bcaac69e6621	4c06fda7639a0aee5a4835f89b834babc73f5bb9	
+config.ini	bios\Machines\MSX2+ - Ciel Expert 3 Turbo\config.ini	dc6f18359093d2d18e1270aab7af5d70	77242eaab1acd34f1eb45a7c485fecac79d94a1e	
+config.ini	bios\Machines\MSX2+ - European\config.ini	a230e22345748b2b590efa1dc7e83f35	1877ba4b79c30deaf20d1b340a37a4a79899a491	
+KANJI.rom	bios\Machines\MSX2+ - European\KANJI.rom	acf53887c2d2783dc059a9b442c86b90	5aff2d9b6efc723bc395b0f96f0adfa83cc54a49	
+Msx2pe.rom	bios\Machines\MSX2+ - European\Msx2pe.rom	277fd57c13f301fb4b366845a32d673a	aea0e4a635efce5336e496d36e4cb0a4b79593ff	
+Msx2pexte.rom	bios\Machines\MSX2+ - European\Msx2pexte.rom	f78ab735aaad7045badbda8f4c8ac751	cf00ec60608010aac94cfe245eb7aa67cb44d110	
+MSX2PMUS.rom	bios\Machines\MSX2+ - European\MSX2PMUS.rom	f877f32e6d8687474ac5ee83e40de23b	6354ccc5c100b1c558c9395fa8c00784d2e9b0a3	
+MSXKANJI.rom	bios\Machines\MSX2+ - European\MSXKANJI.rom	9dfdebfaa6b547222a40aab8bb2e29f8	dcc3a67732aa01c4f2ee8d1ad886444a4dbafe06	
+PANASONICDISK.rom	bios\Machines\MSX2+ - European\PANASONICDISK.rom	00aa02b6077de40a0b51d71a3c3e1d5f	7ed7c55e0359737ac5e68d38cb6903f9e5d7c2b6	
+XBASIC2.rom	bios\Machines\MSX2+ - European\XBASIC2.rom	0b6120f289336538bc564548109f97c6	47370bec7ca1f0615a54eda548b07fbc0c7ef398	
+config.ini	bios\Machines\MSX2+ - Gradiente Expert AC88+\config.ini	e1f518277698d1c9d6bf41982b2cb27d	8e20ae322c04ed76e25676db3b8e2f846f4491d5	
+config.ini	bios\Machines\MSX2+ - Gradiente Expert DDX+\config.ini	64269a04ab2622d235badd9c8c2f60f4	87a0783be86a7b3b4a70693ec2bfafafaefdd604	
+config.ini	bios\Machines\MSX2+ - MSXPLAYer 2003\config.ini	0f134b0f916e2e23a23bda70711e8394	e8042ad74d64f20ff6b243e1a0c1790d7c8f5ffe	
+config.ini	bios\Machines\MSX2+ - Panasonic FS-A1FX\config.ini	4a8c350a2eab84f552b1cfb689922c9c	fbaa4b4e21ff20892ebb59fda416939a736e10bb	
+config.ini	bios\Machines\MSX2+ - Panasonic FS-A1WSX\config.ini	cd85c5a118f6fabb267e8d1544867e7b	88b729e23341c5b47dee0b2509b1d93c1c19e9a0	
+config.ini	bios\Machines\MSX2+ - Panasonic FS-A1WX\config.ini	19f4cef7853bf4e85dbb97693c2faac9	248ebdfbb4f238bc88bec0092425f8a67e4403ae	
+config.ini	bios\Machines\MSX2+ - Panasonic FS-A1WX (a)\config.ini	f563d420980ab7774b93c309a722fa2b	e818b3b8fa68936d5e7fe5573327d6282855bed1	
+config.ini	bios\Machines\MSX2+ - Sanyo Wavy PHC-35J\config.ini	e502a834ce2f239bde2226b89721c053	c5cfc42e522fd75ea76c029a697f77e36d267df3	
+config.ini	bios\Machines\MSX2+ - Sanyo Wavy PHC-70FD1\config.ini	52aab807012d1d42049485d8ec807fc3	6a626d7d05fe83d6285e6d666c6eddb4a687e4c5	
+config.ini	bios\Machines\MSX2+ - Sanyo Wavy PHC-70FD2\config.ini	085b93f7cf9d5fb9060787b0c8048a08	8a6f4c6413ad97ef1828d5bd74b6aa61b32fba5b	
+config.ini	bios\Machines\MSX2+ - Sony HB-F1XDJ\config.ini	42a20ecf0a66f7cbcd9096e2c3491d7c	260afaa1894efdf55752e19ecb66017095b64af8	
+config.ini	bios\Machines\MSX2+ - Sony HB-F1XV\config.ini	b9f0b37f0103d32f6121df383451db37	4d9243b3484b3a99aafdf549f0afe798a263b8ad	
+config.ini	bios\Machines\MSX2+ - Sony HB-F9S+\config.ini	c92aa9bf32a6015b8fe7e73e05002f99	f262716ae466e5d36d78f803e513a7c183084913	
+config.ini	bios\Machines\MSXturboR\config.ini	2112eca3217dd98cd55ab5aa79ec5296	9507b55069f673e476bcd34020127f6d2f6ed633	
+config.ini	bios\Machines\MSXturboR - European\config.ini	086a40869e37a7a8aa870715f715434d	7e8010843572e4d539f2802de81a415c5a5d7e61	
+config.ini	bios\Machines\MSXturboR - Panasonic FS-A1GT\config.ini	ceefe613502252d767e993b87ed3c197	b518ca3aac43e6a7a212b3dcefb39dd05414fc28	
+config.ini	bios\Machines\MSXturboR - Panasonic FS-A1ST\config.ini	e73e586e8a390b161058c1444c312202	c849264e6c83623482dc1607003ad1c53acce84c	
+config.ini	bios\Machines\MSXturboR - Panasonic FS-A1ST (a)\config.ini	d0af5aa8c279e6be0d049ef7005c1022	36c171e2d82b1b3c68a5250ac89a6284a94ec6a9	
+config.ini	bios\Machines\MSXturboR - Panasonic FS-A1ST (b)\config.ini	fe36c1fd5dfb40f3252a59ab27ac5964	51ae974b782eaaf7d5dde88651979d21a0a4c6cc	
+config.ini	bios\Machines\SEGA - SC-3000\config.ini	3b623e191f1b4841912ce60df9a4193d	3c75856421ba350bf70f64721c0f7d016c72c6ef	
+config.ini	bios\Machines\SEGA - SF-7000\config.ini	9cc2a1f0361ccd5a5b351086d9629c30	9babbaf2cfb04a9057dbac370a56dd20f412f3ab	
+sf7000.rom	bios\Machines\SEGA - SF-7000\sf7000.rom	561b362f9aa4cbcb240461abf83c2e0d	77339a6db2593aadc638bed77b8e9bed5d9d87e3	
+config.ini	bios\Machines\SEGA - SG-1000\config.ini	eb7e878418f3e484fa522a53223f8a21	1ed0081a4fdfcedb4fa23afbb4bc67afda380a50	
+ARAB1.ROM	bios\Machines\Shared Roms\ARAB1.ROM	7fa0558bcec9dba310579521623d9f6a	0287b2ec897b9196788cd9f10c99e1487d7adbbb	
+ARABIC.rom	bios\Machines\Shared Roms\ARABIC.rom	20c4b5d1d9469c201b145f082ec32658	2c9600c6e0025fee10d249e97448ecaa37e38c42	
+BEERIDE.ROM	bios\Machines\Shared Roms\BEERIDE.ROM	b32279f2700652a5ce0a809318626763	077bdfff644b931b6a13bab8ab847aee766d163e	
+FMPAC.rom	bios\Machines\Shared Roms\FMPAC.rom	6f69cc8b5ed761b03afd78000dfb0e19	9d789166e3caf28e4742fe933d962e99618c633d	
+GCVMX80.ROM	bios\Machines\Shared Roms\GCVMX80.ROM	fd0b8f1766dc6dcc03a43d9c79dc4e37	977fed1135b6cc73e765b47f51570fc00acd5b79	
+HANGUL.rom	bios\Machines\Shared Roms\HANGUL.rom	9baf17b190f631405b6b0eeeeb162b87	965f4982790f1817bcbabbb38c8777183b231a55	
+KANJI.rom	bios\Machines\Shared Roms\KANJI.rom	acf53887c2d2783dc059a9b442c86b90	5aff2d9b6efc723bc395b0f96f0adfa83cc54a49	
+MICROSOLDISK.ROM	bios\Machines\Shared Roms\MICROSOLDISK.ROM	02e8b1f96049f09d6d3a735647cbbb2a	f59d33311c95edc0168445f74eddd8a6772aa6a0	
+MOONSOUND.rom	bios\Machines\Shared Roms\MOONSOUND.rom	42af93619160ef2116416f74a6cb12f2	32760893ce06dbe3930627755ba065cc3d8ec6ca	
+MSX.rom	bios\Machines\Shared Roms\MSX.rom	364a1a579fe5cb8dba54519bcfcdac0d	e998f0c441f4f1800ef44e42cd1659150206cf79	
+MSX2.rom	bios\Machines\Shared Roms\MSX2.rom	ec3a01c91f24fbddcbcab0ad301bc9ef	6103b39f1e38d1aa2d84b1c3219c44f1abb5436e	
+MSX2AR.ROM	bios\Machines\Shared Roms\MSX2AR.ROM	91764e84f977671ac7caa50b36273fd2	35195ab67c289a0b470883464df66bc6ea5b00d3	
+MSX2AREXT.ROM	bios\Machines\Shared Roms\MSX2AREXT.ROM	be5d1ec8001d945ca1432285722e9d16	ebb76f9061e875365023523607db610f2eda1d26	
+MSX2BR.rom	bios\Machines\Shared Roms\MSX2BR.rom	d3df424728a225b301510f5384cae583	9c43106dba3ae2829e9a11dffa9d000ed6d6454c	
+MSX2BREXT.rom	bios\Machines\Shared Roms\MSX2BREXT.rom	355c6d5ee31da441d485cd89ca906413	4f2a7e0172f0214f025f23845f6e053d0ffd28e8	
+MSX2EXT.rom	bios\Machines\Shared Roms\MSX2EXT.rom	2183c2aff17cf4297bdb496de78c2e8a	5c1f9c7fb655e43d38e5dd1fcc6b942b2ff68b02	
+MSX2FR.rom	bios\Machines\Shared Roms\MSX2FR.rom	7af9e84da1520a8a7fb82e73703e5075	3926cdd91fa89657a811463e48cfbdb350676e51	
+MSX2FREXT.rom	bios\Machines\Shared Roms\MSX2FREXT.rom	6ffe789cca2eca9d2e71ca7b69b97e6b	792e6b2814ab783d06c7576c1e3ccd6a9bbac34a	
+MSX2G.rom	bios\Machines\Shared Roms\MSX2G.rom	b6c33b7b3508d691d7872589c778f808	b17d9bea0eb16a1aa2d0ccbd7c9488da9f57698e	
+MSX2GEXT.rom	bios\Machines\Shared Roms\MSX2GEXT.rom	4047ce143a8bf391e21991835aa65b59	4ab7b2030d022f5486abaab22aaeaf8aa23e05f3	
+MSX2HAN.rom	bios\Machines\Shared Roms\MSX2HAN.rom	7b9466546009d419ebd0dc27db90c30e	87936f808423dddfd00629056d6807b4be1dc63e	
+MSX2J.rom	bios\Machines\Shared Roms\MSX2J.rom	53bec1c22b30c0a15263e04b91a7814f	0081ea0d25bc5cd8d70b60ad8cfdc7307812c0fd	
+MSX2JEXT.rom	bios\Machines\Shared Roms\MSX2JEXT.rom	8aabde714a42256bef36ea9b04f6ef59	0fbd45ef3dd7bb82d4c31f1947884f411f1ca344	
+MSX2KR.rom	bios\Machines\Shared Roms\MSX2KR.rom	6819a1533502261bfdd52436b8346073	affa3c5cd8db79a1450ad8a7f405a425b251653d	
+MSX2KREXT.rom	bios\Machines\Shared Roms\MSX2KREXT.rom	30a0b3402a0a13b516af76d39f45a365	b6d3649a6647fa9f6bd61efc317485a20901128f	
+MSX2P.rom	bios\Machines\Shared Roms\MSX2P.rom	847cc025ffae665487940ff2639540e5	e90f80a61d94c617850c415e12ad70ac41e66bb7	
+MSX2PEXT.rom	bios\Machines\Shared Roms\MSX2PEXT.rom	7c8243c71d8f143b2531f01afa6a05dc	fe0254cbfc11405b79e7c86c7769bd6322b04995	
+MSX2PMUS.rom	bios\Machines\Shared Roms\MSX2PMUS.rom	f877f32e6d8687474ac5ee83e40de23b	6354ccc5c100b1c558c9395fa8c00784d2e9b0a3	
+MSX2R.rom	bios\Machines\Shared Roms\MSX2R.rom	db56360c85ef8410dc4bcf8e8602f61e	0f851ee7a1cf79819f61cc89e9948ee72a413802	
+MSX2R2.ROM	bios\Machines\Shared Roms\MSX2R2.ROM	96ac231b718e88ce64d5a9b4a5e9ae12	ebb7eb540a390509edfd36c84288ba85e63f2d1f	
+MSX2REXT.rom	bios\Machines\Shared Roms\MSX2REXT.rom	8e4af1124e2b82fbdc74a7bc5f20dc6e	03bf6d2ac86f5c9ab618e155442787c700f99fed	
+MSX2SE.rom	bios\Machines\Shared Roms\MSX2SE.rom	fb8f7ab15e32a91147204bd7f7a1b451	1b70a195a00b1fc4995766390f39d3ba884b5148	
+MSX2SP.rom	bios\Machines\Shared Roms\MSX2SP.rom	79caefa20a0d056fb42eaeca856c6f82	4811956f878c3e03da46317f787cdc4bebc86f47	
+MSX2SPEXT.rom	bios\Machines\Shared Roms\MSX2SPEXT.rom	d71842ce8f559a8aed2721766bc15f2b	1e9a955943aeea9b1807ddf1250ba6436d8dd276	
+MSXAR.ROM	bios\Machines\Shared Roms\MSXAR.ROM	793e3b833c33be7aaf834beacb8fb926	5e094fca95ab8e91873ee372a3f1239b9a48a48d	
+MSXBR.rom	bios\Machines\Shared Roms\MSXBR.rom	d13c1fc9ad4897c322f51aab3ad3b30d	d6720845928ee848cfa88a86accb067397685f02	
+MSXDOS23.ROM	bios\Machines\Shared Roms\MSXDOS23.ROM	56bf5b02fed377b7bb9d91f914965431	0527fb75775caa76c7eca8d449938ace83d36e96	
+MSXFR.rom	bios\Machines\Shared Roms\MSXFR.rom	6f43d28ac4a69182c860c2db0e18ee6d	9eaad185efc8e224368d1db4949eb9659c26fb2c	
+MSXG.rom	bios\Machines\Shared Roms\MSXG.rom	4655329d3f37bf1a655d05f2abd1aa62	38a645febd0e0fe86d594f27c2d14be995acc730	
+MSXHAN.rom	bios\Machines\Shared Roms\MSXHAN.rom	394efbc50fb7df1151130d8c162f85c3	d41676fde0a3047792f93c4a41509b8749e55e74	
+MSXJ.rom	bios\Machines\Shared Roms\MSXJ.rom	f005e55c680ba6e7b19f6d4dc8f73ce5	df48902f5f12af8867ae1a87f255145f0e5e0774	
+MSXKANJI.rom	bios\Machines\Shared Roms\MSXKANJI.rom	9dfdebfaa6b547222a40aab8bb2e29f8	dcc3a67732aa01c4f2ee8d1ad886444a4dbafe06	
+MSXKR.rom	bios\Machines\Shared Roms\MSXKR.rom	c84f362c44192659273d45ae97462362	171b587bd5a947a13f3114120b6e7baca3b57d78	
+MSXR.rom	bios\Machines\Shared Roms\MSXR.rom	0db9592930488259fc1a5c127215e784	4f3114e96d7b892911e3dccf1eece712be26f396	
+MSXR2.ROM	bios\Machines\Shared Roms\MSXR2.ROM	704bdd980fa56c6be5c680358458eeeb	04990aa1c3a3fc7294ec884b81deaa89832df614	
+MSXSE.ROM	bios\Machines\Shared Roms\MSXSE.ROM	161cb768c52a13f5b38ba46e721b68c1	87f4d0fa58cfe9cef818a3185df2735e6da6168c	
+MSXSP.rom	bios\Machines\Shared Roms\MSXSP.rom	51af5b19aeccf94eb8e03bce0b5d33c4	342e7d4bd86f3351766f460f6de3c89a40791ee0	
+MSXTR.ROM	bios\Machines\Shared Roms\MSXTR.ROM	fd9513736823e470965949f2a3ec6a43	242e73d8284a012b275c0a266844ebbc4269d787	
+MSXTREXT.ROM	bios\Machines\Shared Roms\MSXTREXT.ROM	824b1c4475a3bd3b91c5ae81ea940aa2	018d7a5222f28514908fb1b1513286a6558a6d05	
+MSXTRMUS.ROM	bios\Machines\Shared Roms\MSXTRMUS.ROM	c688a229f834f95f8c64df7d33188cd8	6aea1aef5ec31c1826c22edf580525f93baad425	
+MSXTROPT.ROM	bios\Machines\Shared Roms\MSXTROPT.ROM	2cba0d812ec445cfe63ffa2cac8d42c2	b4433a3975c57dd440d6bf12dbd28b2ac1b90ef4	
+NATIONALDISK.rom	bios\Machines\Shared Roms\NATIONALDISK.rom	86269da485e852d9f581ac27f4ba32ff	78cd7f847e77fd8cd51a647efb2725ba93f4c471	
+NOVAXIS.rom	bios\Machines\Shared Roms\NOVAXIS.rom	20989124671593ab04eeb01d52a1e25c	352ec8c99fe1397a88ecb3aee6dbb4d121c818e9	
+nowindDos1.rom	bios\Machines\Shared Roms\nowindDos1.rom	8c294a75f14fc30fce0c8642d28ccec1	1d4c09166755c6569ff0ed3878bbf1b22d7e3864	
+nowindDos2.rom	bios\Machines\Shared Roms\nowindDos2.rom	1847398c014384b833868c64f149f338	8afd1ec5843ecfdcbff11497fa8c55b870c0c6f5	
+PAINT.rom	bios\Machines\Shared Roms\PAINT.rom	41db0d7b37be479296ffd59fcd6775f0	ace202e87337fbc54fea21e22c0b3af0abe6f4ae	
+PANASONICDISK.rom	bios\Machines\Shared Roms\PANASONICDISK.rom	00aa02b6077de40a0b51d71a3c3e1d5f	7ed7c55e0359737ac5e68d38cb6903f9e5d7c2b6	
+PHILIPSDISK.rom	bios\Machines\Shared Roms\PHILIPSDISK.rom	01dd1d72ed9bb6afe8a9b441c198a1cd	c3efedda7ab947a06d9345f7b8261076fa7ceeef	
+RS232.ROM	bios\Machines\Shared Roms\RS232.ROM	55cca200bbbdd0a1ec5c9d70966c05c0	4e9384c9d137f0ab65ffc5a78f04cd8c9df6c8b7	
+Shared.txt	bios\Machines\Shared Roms\Shared.txt	a9e1ab3604e2e7d54988125ea841cd63	ab5c9feccc785871d3ba86165f05b15159361273	
+SUNRISEIDE.rom	bios\Machines\Shared Roms\SUNRISEIDE.rom	7b564497beb2c0de0847f107dec00ddf	1c79c8fcfd661394f91be94b218955c84cabd742	
+SWP.rom	bios\Machines\Shared Roms\SWP.rom	490db04e2a3c1c993a2a9d3611949c76	4b4508131dca6d811694ae6379f41364c477de58	
+XBASIC2.rom	bios\Machines\Shared Roms\XBASIC2.rom	0b6120f289336538bc564548109f97c6	47370bec7ca1f0615a54eda548b07fbc0c7ef398	
+config.ini	bios\Machines\SVI - Spectravideo SVI-318\config.ini	c8a53a309afe77d6323ec11041f9c4ef	0552fe09d07c03e8fcf8f44b04bf086689e2106a	
+svi318.rom	bios\Machines\SVI - Spectravideo SVI-318\svi318.rom	ee6ad7ea29e791b03a28a9443e622648	07758272df475e5e06187aa3574241df1b14035b	
+config.ini	bios\Machines\SVI - Spectravideo SVI-328\config.ini	ba3600d30ae755af371d8b9ab325b0f6	9dc104c536f9fbf6ef29006479916da4964d9c68	
+svi328.rom	bios\Machines\SVI - Spectravideo SVI-328\svi328.rom	2cebd1db9dda475a011b7bce65c984a2	7d8daf52f78371ca2c9443e04827c8e1f98c8f2c	
+config.ini	bios\Machines\SVI - Spectravideo SVI-328 80 Column\config.ini	7835259261b02f7053c73b55ee9bef34	e9157fcfad1e393bff6857ed1f1918aace5adc25	
+svi328a.rom	bios\Machines\SVI - Spectravideo SVI-328 80 Column\svi328a.rom	352f054ab09605070bdff49d73f335cc	10349ce675f6d6d47f0976e39cb7188eba858d89	
+svi806.rom	bios\Machines\SVI - Spectravideo SVI-328 80 Column\svi806.rom	82f7bc9c08f43db1d79bcb565a0de12b	ed45cb0e9bd18a9d7bd74f87e620f016a7ae840f	
+config.ini	bios\Machines\SVI - Spectravideo SVI-328 80 Swedish\config.ini	4acfec75bd9566ce3f6e614bcf327c19	fa4c86a9d9c74875079b324c3b247d5aea285787	
+svi328a.rom	bios\Machines\SVI - Spectravideo SVI-328 80 Swedish\svi328a.rom	352f054ab09605070bdff49d73f335cc	10349ce675f6d6d47f0976e39cb7188eba858d89	
+svi806se.rom	bios\Machines\SVI - Spectravideo SVI-328 80 Swedish\svi806se.rom	6a5536c1eb4f0477c4f76488cd8ca3ad	3f16d5513ad35692488ae7d864f660e76c6e8ed3	
+config.ini	bios\Machines\SVI - Spectravideo SVI-328 MK2\config.ini	441dd9a2d5ed89a7406344623dc2f5ae	cb9dc3be87e7f9dd187ec3aef87620f3291e0a84	
+svi328a.rom	bios\Machines\SVI - Spectravideo SVI-328 MK2\svi328a.rom	352f054ab09605070bdff49d73f335cc	10349ce675f6d6d47f0976e39cb7188eba858d89	
+svi806.rom	bios\Machines\SVI - Spectravideo SVI-328 MK2\svi806.rom	82f7bc9c08f43db1d79bcb565a0de12b	ed45cb0e9bd18a9d7bd74f87e620f016a7ae840f	
+MacII.ROM	bios\macintosh\MacII.ROM	66223be1497460f1e60885eeb35e03cc	db6b504744281369794e26ba71a6e385cf6227fa	
+MinivMacBootv2.dsk	bios\macintosh\MinivMacBootv2.dsk	e66dc7952c8b9673868ad2faba3c0d20	20bb0271d02b1ab3b4cfe7c8d6b599abdbc5324e	
+Mame-0.220_NoClones_V1.0 barhi.dat.7z	bios\mame\Mame-0.220_NoClones_V1.0 barhi.dat.7z	5339e4c6f2b4e45778eb32b24543d6f1	68932ca7c9c11c088670b56bc6cdc853617aa776	
+Mame-0.220_V1.0 barhi.7z	bios\mame\Mame-0.220_V1.0 barhi.7z	5be5fe7327a6d353d364cd89e8d08fdb	31b8afb35b7afca612543117cc376f828f98cba3	
+Mame-0.239_NoClones_V1.0 barhi.zip	bios\mame\Mame-0.239_NoClones_V1.0 barhi.zip	9997dd32281be08a84481957d77e79d8	4f36c0ef0d6dbaf4d470c68d5eb7f5922027ee87	
+Mame-0.239_V1.0 barhi.zip	bios\mame\Mame-0.239_V1.0 barhi.zip	72c0e71aa87eca72021cd7321c358519	1f1e5e6144885306d452ca2bcfcc412bc879f0a1	
+catver.ini	bios\mame2000\catver.ini	e4856ffc69e22e0804375cd7801f0d71	572a73b286ade4082c1d4735b369dc2322f341af	
+cheat.dat	bios\mame2000\cheat.dat	86ce263a249aefe0320fed28002b1c8e	b352e7e478c5685e4fcfb43b922f042579fa0818	
+hiscore.dat	bios\mame2000\hiscore.dat	9b262149ec70cbda741a8ba55784f8e1	21ddda0c61bd4f1cc04fb9d09e16d403d620f9e8	
+MAME 0.37b5 XML.dat	bios\mame2000\MAME 0.37b5 XML.dat	557ee60d8ca0e7746ef5269d8e71f293	e5827ca5fdef904892bf48d86ce0de6b5d00e51d	
+MAME 2000 Not-Working Gamelist.txt	bios\mame2000\MAME 2000 Not-Working Gamelist.txt	1039cf37d19081a7da21197a1d8976cf	f68f06330669a81aad5b2387b7ee460c665c1541	
+catver.ini	bios\mame2003\catver.ini	90a26ff39683d2f4ca70ceac35395a56	ef4e2a5a88a9620e92bb96e40c043fd036d2ddc5	
+cheat.dat	bios\mame2003\cheat.dat	ce2eacd6730cea5e1c489891a34a283f	963c3cc8dc04ffa808a1401b7557155ffa6bee43	
+hiscore.dat	bios\mame2003\hiscore.dat	7e31f0b84f6ea6f9ffec0cd968decf9f	68e94fb579f46f3255ef7c34c0322f3f0f3c8e20	
+mame2003.xml	bios\mame2003\mame2003.xml	c82dd36c5f49cb795eb0157f1e504d6d	378383185bd816bf9bca07d42e8096eac3ab3d12	
+catver.ini	bios\mame2003-plus\catver.ini	1ce45d46d8588335933d8ed1720333a1	6a975304774b7f99c0768f4a6ea9ad11d358352b	
+cheat.dat	bios\mame2003-plus\cheat.dat	0e9d2554d78c2f4d2ae0dceafd302f31	f2220f0929347ba8c57167338c8ae0c70f052f08	
+hiscore.dat	bios\mame2003-plus\hiscore.dat	478ccb2b51f2fd03769698cf0ba6ae52	2410ecb84caa77aa64e9b423e85710569f17fae0	
+history.dat	bios\mame2003-plus\history.dat	eb4555ceacaf331153eef9e2bd6ab608	068f5ce897c022e29924c0a9997a078f766e21f4	
+mame2003-plus.xml	bios\mame2003-plus\mame2003-plus.xml	2b608fada32cab71e196654113f280f8	d67e06372e697939d93b99f7b5f5c1bd163cc44b	
+blueshrk.zip	bios\mame2003-plus\artwork\blueshrk.zip	4659968035d462be471fdfb46b604696	4317f301d6e4117dfde42b33dfaf73a2b25f43c1	
+frogs.zip	bios\mame2003-plus\artwork\frogs.zip	e30e8ef4631596e25466523b97fee19f	cdff29398e76b92d93825d96c0f9cae5bb6b3400	
+invaders.zip	bios\mame2003-plus\artwork\invaders.zip	23d65ad40ac1f2121fe35fe0c7893721	4b18db526ca907707fd888385d907a7a585935d0	
+omegrace.zip	bios\mame2003-plus\artwork\omegrace.zip	255155cf3f9912c92be8f813e8112a54	1ca22afdfefcfa5943742e988c45c1fc0e1124bd	
+skydiver.zip	bios\mame2003-plus\artwork\skydiver.zip	95e05db7f8fa208daafd7b0d32041db8	a0548e37e76a21fb37005cff944319ee63f93d1e	
+solarq.zip	bios\mame2003-plus\artwork\solarq.zip	b4b70db555dfb48b91a067eea747c771	ff532cee1de69668b0c68238aff0c16813640476	
+warrior.zip	bios\mame2003-plus\artwork\warrior.zip	29fe11717016182d446ca6af56a08f75	57f89bbac39d8071e45c87f97e9b918f31d21994	
+catver.ini	bios\mame2010\catver.ini	eba07aa1573ef4e8a6251c7496156388	44b5b0dc968cb36b46749f382966b5caf596023f	
+cheat-origin-docs-and-credits.txt	bios\mame2010\cheat-origin-docs-and-credits.txt	ba4edcfb644f808a6cebb28248d32d1f	ae22afce1459d01fea8f46adedc9aced605f58b7	
+cheat.zip	bios\mame2010\cheat.zip	112c6b34e78ca3453cc2dc3a36b3ab04	a737e925e3b86374da57496e3261d0303889977f	
+hiscore.dat	bios\mame2010\hiscore.dat	bb8023a43e357b7f0cc06bf00f0470b2	17b8b03a89d8443927aa92ede799e117b4ab6fdb	
+mame2010.xml	bios\mame2010\mame2010.xml	30250411cb858750aa5b89a881d5bde8	bd7500c3a2f008d9995f2f42615b9f2d7af74d46	
+catver.ini	bios\mame2015\catver.ini	eba07aa1573ef4e8a6251c7496156388	44b5b0dc968cb36b46749f382966b5caf596023f	
+cheat-origin-docs-and-credits.txt	bios\mame2015\cheat-origin-docs-and-credits.txt	086268574f99f11dd8cb92bb4c9adc52	4f443c93ac13c68965b530fb58e61482fafabb66	
+cheat.7z	bios\mame2015\cheat.7z	f96f25b043ebc5eea690db9c2a2296f4	7000952c9fec4fbfb880ca1efcbf8cb4cdcb8747	
+hiscore.dat	bios\mame2015\hiscore.dat	7e31f0b84f6ea6f9ffec0cd968decf9f	68e94fb579f46f3255ef7c34c0322f3f0f3c8e20	
+mame2014-xml.zip	bios\mame2015\mame2014-xml.zip	dbb197641b373bb2fc768d85fb921e5d	ecc69131ec070be4600b021c7c4a0b96c7d3baad	
+mame2015-xml.zip	bios\mame2015\mame2015-xml.zip	dbb197641b373bb2fc768d85fb921e5d	ecc69131ec070be4600b021c7c4a0b96c7d3baad	
+IPL.n64	bios\Mupen64plus\IPL.n64	8d3d9f294b6e174bc7b1d2fd1c727530	bf861922dcb78c316360e3e742f4f70ff63c9bc3	
+000-lo.lo	bios\neocd\000-lo.lo	fc7599f3f871578fe9a0453662d1c966	5992277debadeb64d1c1c64b0a92d9293eaf7e4a	
+front-sp1.bin	bios\neocd\front-sp1.bin	5c2366f25ff92d71788468ca492ebeca	53bc1f283cdf00fa2efbb79f2e36d4c8038d743a	
+neocd.bin	bios\neocd\neocd.bin	f39572af7584cb5b3f70ae8cc848aba2	7bb26d1e5d1e930515219cb18bcde5b7b23e2eda	
+neocd_f.rom	bios\neocd\neocd_f.rom	8834880c33164ccbe6476b559f3e37de	a5f4a7a627b3083c979f6ebe1fabc5d2df6d083b	
+neocd_sf.rom	bios\neocd\neocd_sf.rom	043d76d5f0ef836500700c34faef774d	4a94719ee5d0e3f2b981498f70efc1b8f1cef325	
+neocd_st.rom	bios\neocd\neocd_st.rom	f6325a33c6d63ea4b9162a3fa8c32727	19729b51bdab60c42aafef6e20ea9234c7eb8410	
+neocd_sz.rom	bios\neocd\neocd_sz.rom	971ee8a36fb72da57aed01758f0a37f5	6a947457031dd3a702a296862446d7485aa89dbb	
+neocd_t.rom	bios\neocd\neocd_t.rom	de3cf45d227ad44645b22aa83b49f450	cc92b54a18a8bff6e595aabe8e5c360ba9e62eb5	
+neocd_z.rom	bios\neocd\neocd_z.rom	11526d58d4c524daef7d5d677dc6b004	b0f1c4fa8d4492a04431805f6537138b842b549f	
+ng-lo.rom	bios\neocd\ng-lo.rom	e255264d85d5765013b1b2fa8109dd53	2b1c719531dac9bb503f22644e6e4236b91e7cfc	
+top-sp1.bin	bios\neocd\top-sp1.bin	122aee210324c72e8a11116e6ef9c0d0	235f4d1d74364415910f73c10ae5482d90b4274f	
+uni-bioscd.rom	bios\neocd\uni-bioscd.rom	08ca8b2dba6662e8024f9e789711c6fc	5142f205912869b673a71480c5828b1eaed782a8	
+2608_bd.wav	bios\np2kai\2608_bd.wav	d94546e70f17fd899be8df3544ab6cbb	0a56c142ef40cec50f3ee56a6e42d0029c9e2818	
+2608_hh.wav	bios\np2kai\2608_hh.wav	08c54a0c1f774a5538a848a6665a34b4	12f676cef249b82480b6f19c454e234b435ca7b6	
+2608_rim.wav	bios\np2kai\2608_rim.wav	465ea0768b27da404aec45dfc501404b	c65592330c9dd84011151daed52f9aec926b7e56	
+2608_sd.wav	bios\np2kai\2608_sd.wav	d71004351c8bbfdad53b18222c061d49	3c79663ef74c0b0439d13351326eb1c52a657008	
+2608_tom.wav	bios\np2kai\2608_tom.wav	96a4ead13f364734f79b0c58af2f0e1f	9513fb4a3f41e75a972a273a5104cbd834c1e2c5	
+2608_top.wav	bios\np2kai\2608_top.wav	593cff6597ab9380d822b8f824fd2c28	aa4a8f766a86b830687d5083fd3b9db0652f46fc	
+bios.rom	bios\np2kai\bios.rom	cd237e16e7e77c06bb58540e9e9fca68	76a7360502fa0296ea93b4c537174610a834d367	
+font.bmp	bios\np2kai\font.bmp	7da1e5b7c482d4108d22a5b09631d967	b4f14e58030ed40fff2dc312b58ea4440bdf8cc5	
+font.rom	bios\np2kai\font.rom	38d32748ae49d1815b0614970849fd40	78ba9960f135372825ab7244b5e4e73a810002ff	
+itf.rom	bios\np2kai\itf.rom	72ea51443070f0e9212bfc9b793ee28e	a2fb11c000ed7c976520622cfb7940ed6ddc904e	
+sound.rom	bios\np2kai\sound.rom	524473c1a5a03b17e21d86a0408ff827	d5dbc4fea3b8367024d363f5351baecd6adcd8ef	
+8dos2.rom	bios\oricutron\8dos2.rom	5f3cd5a4307fed7a9dfe8faa4c044273	746a2996967282281a980842a93642ad7d740f9e	
+Bas122de.pch	bios\oricutron\Bas122de.pch	80fe771abf403e67f5640b2107c375c9	3e8f851df9319891fb9849c922437468df98915d	
+Bas122fr.pch	bios\oricutron\Bas122fr.pch	61e9414a2c0e2f71b5a25233506b4bf3	c92aa5e5fedf94a01519867fd8235f33731b8191	
+Bas122uk.pch	bios\oricutron\Bas122uk.pch	120a23e1566195050983764e7d4543ce	ee9dc592128ff337be5ef0bfb6d059752296b445	
+basic10.pch	bios\oricutron\basic10.pch	c3944a435cc249196db09290aa17e9cf	6c62326403ecdf3d120fa7ffea47f4f1d5b40020	
+basic10.rom	bios\oricutron\basic10.rom	ebe418ec8a6c85d5ac32956c9a96c179	333116e6884d85aaa4dfc7578a91cceeea66d016	
+basic11b.pch	bios\oricutron\basic11b.pch	120a23e1566195050983764e7d4543ce	ee9dc592128ff337be5ef0bfb6d059752296b445	
+basic11b.rom	bios\oricutron\basic11b.rom	a330779c42ad7d0c4ac6ef9e92788ec6	9451a1a09d8f75944dbd6f91193fc360f1de80ac	
+bd500.rom	bios\oricutron\bd500.rom	2b6498fd29a0adbf1c529762c02c33ab	447975ed022379fb6b80a22fa37c2d188ca3aa88	
+empty_orix.rom	bios\oricutron\empty_orix.rom	af3cec316a4960be1c9987599066c792	e7c32e4f75a58c87de1672e4dbd0794083535a60	
+hyperbas.rom	bios\oricutron\hyperbas.rom	364bf095e0dc4222d75354d50b8cddfc	f5f70a0eb59f8cd6c261e179ae78ef906f68ed63	
+jasmin.rom	bios\oricutron\jasmin.rom	5136f764a7dbd1352519351fbb53a9f3	70e59b8abd67092f050462abc6cb5271e4c15f01	
+kernel.rom	bios\oricutron\kernel.rom	1d63b6289c7e3566d411cf0682e401bc	01f7a84d5a1973623eabd2be6c2cbac1ce5096a6	
+microdis.rom	bios\oricutron\microdis.rom	df864344d2a2091c3f952bd1c5ce1707	0d2ef6e67322f48f4b7e08d8bbe68827e2074561	
+pravetzt-1.0.pch	bios\oricutron\pravetzt-1.0.pch	c3944a435cc249196db09290aa17e9cf	6c62326403ecdf3d120fa7ffea47f4f1d5b40020	
+pravetzt.pch	bios\oricutron\pravetzt.pch	6bebef1a2540aeb79d95542f5d5a72cb	d0b6df373270f68d658ee1bc58da21f0afd29594	
+pravetzt.rom	bios\oricutron\pravetzt.rom	8712a22e7e078de3343667d9fc1f2390	7afc276cb118adff72e4f16698f94bf3b2c64146	
+shell.rom	bios\oricutron\shell.rom	642e8504adc72e7c16384dbdc1665fa2	926b95e1cb574d4914dbed0681729a7c1a4bc68d	
+teleass.rom	bios\oricutron\teleass.rom	2324c9cc227c1327a72a667c97ed2990	9e9af51dae3199cccf49ab3f0d47e2b9be4ba97d	
+telmatic.rom	bios\oricutron\telmatic.rom	0a814078410353744e2947a8e9342e4e	35f92a0477a88f5cf564971125047ffcfa02ec10	
+telmon24.pch	bios\oricutron\telmon24.pch	82a22231d402cd3284c698ba16a51d1d	d8ce5b1405b6428969493efeb6f3aa2027c41bdc	
+telmon24.rom	bios\oricutron\telmon24.rom	9a432244d9ee4a49e8ddcde64af94e05	86fc8dc0932f983efa199e31ae05a4424772f959	
+gecard.pce	bios\pcenginecd\gecard.pce	6d2cb14fc3e1f65ceb135633d1694122	014881a959e045e00f4db8f52955200865d40280	
+gexpress.pce	bios\pcenginecd\gexpress.pce	6d2cb14fc3e1f65ceb135633d1694122	014881a959e045e00f4db8f52955200865d40280	
+syscard1.pce	bios\pcenginecd\syscard1.pce	9f770275393b8627cf9d24e5c56d2ab9	008cf0f5cd5e2000b9f2ebf5e4ee84097e6aef74	
+syscard2.pce	bios\pcenginecd\syscard2.pce	424f1d6bf93259bf255afa7d1dc9f721	3ca4a3b8d8a7f08492e684064c6fa362e914c1af	
+syscard2u.pce	bios\pcenginecd\syscard2u.pce	94279f315e8b52904f65ab3108542afe	2bea3dac98f84b2f2f469fa77ea720b8770d598d	
+syscard3.pce	bios\pcenginecd\syscard3.pce	38179df8f4ac870017db21ebcbf53114	79f5ff55dd10187c7fd7b8daab0b3ffbd1f56a2c	
+syscard3u.pce	bios\pcenginecd\syscard3u.pce	0754f903b52e3b3342202bdafb13efa5	d02611d99921986147c753df14c7349b31d71950	
+prboom.wad	bios\prboom\prboom.wad	72ae1b47820fcc93cc0df9c428d0face	5f4aed208301449c2e9514edfd325fe9dead76fa	
+ps2-0230a-20080220.bin	bios\ps2\ps2-0230a-20080220.bin	21038400dc633070a78ad53090c53017	f9229fe159d0353b9f0632f3fdc66819c9030458	
+ps2-0230e-20080220.bin	bios\ps2\ps2-0230e-20080220.bin	dc69f0643a3030aaa4797501b483d6c4	9915b5ba56798f4027ac1bd8d10abe0c1c9c326a	
+ps2-0230h-20080220.bin	bios\ps2\ps2-0230h-20080220.bin	30d56e79d89fbddf10938fa67fe3f34e	a277b456849697abec11285c6b35bc734598c220	
+ps2-0230j-20080220.bin	bios\ps2\ps2-0230j-20080220.bin	80ac46fa7e77b8ab4366e86948e54f83	fbd54bfc020af34008b317dcb80b812dd29b3759	
+disk.rom	bios\quasi88\disk.rom	793f86784e5608352a5d7f03f03e0858	bb7103a0818850a039c67ff666a31ce49a8d516f	
+n88.rom	bios\quasi88\n88.rom	22be239bc0c4298bc0561252eed98633	3518193b8207bdebf22c1380c2db8c554baff329	
+n88jisho.rom	bios\quasi88\n88jisho.rom	2e548679423370262f36cbde38a22789	deef0cc2a9734ba891a6d6c022aa70ffc66f783e	
+n88knj1.rom	bios\quasi88\n88knj1.rom	d81c6d5d7ad1a4bbbd6ae22a01257603	82e11a177af6a5091dd67f50a2f4bafda84d6556	
+n88knj2.rom	bios\quasi88\n88knj2.rom	41d2e2c0c0edfccf76fa1c3e38bc1cf2	7e6591cd465cbb35d6d3446c5a83b46d30fafe95	
+n88n.rom	bios\quasi88\n88n.rom	5d6854624dd01cd791f58727fc43a525	063609dd518c124a4fc9ba35d1bae35771666a34	
+n88_0.rom	bios\quasi88\n88_0.rom	e28fe3f520bea594350ea8fb00395370	d1ae642aed4f0584eeb81ff50180db694e5101d4	
+n88_1.rom	bios\quasi88\n88_1.rom	e844534dfe5744b381444dbe61ef1b66	8528eef7946edf6501a6ccb1f416b60c64efac7c	
+n88_2.rom	bios\quasi88\n88_2.rom	6548fa45061274dee1ea8ae1e9e93910	b7c8bcea219b77d9cc3ee0efafe343cc307425d1	
+n88_3.rom	bios\quasi88\n88_3.rom	fc4b76a402ba501e6ba6de4b3e8b4273	efce0b51cab9f0da6cf68507757f1245a2867a72	
+SGB1.sfc	bios\sgb\SGB1.sfc	b15ddb15721c657d82c5bab6db982ee9	973e10840db683cf3faf61bd443090786b3a9f04	
+SGB2.sfc	bios\sgb\SGB2.sfc	8ecd73eb4edf7ed7e81aef1be80031d5	e5b2922ca137051059e4269b236d07a22c07bc84	
+Model3-0.235_NoClones_V1.0 barhi.zip	bios\supermodel\Model3-0.235_NoClones_V1.0 barhi.zip	d6864677bb119ce3651dd00fae9d10d5	9359d214726b42dd0622eb7f7d42a0532609ab89	
+spchrom.bin	bios\ti994a\spchrom.bin	7adcaf64272248f7a7161cfc02fd5b3f	382292295c00dff348d7e17c5ce4da12a1d87763	
+TI-994A.ctg	bios\ti994a\TI-994A.ctg	412ecbf991edcb68edd0e76c2caa4a59	4e764ab67dfcbee8adc5b7d98e7b2926a008b9d8	
+ti-disk.ctg	bios\ti994a\ti-disk.ctg	04714f43347cefb2a051a77116344b3f	693f5b4fe1e5eb6429fd6614fb7bb14350939814	
+alice32.rom	bios\trs80coco\alice32.rom	79ea46603d716578d5f2b52eb4c33ca2	f34e61c3cf711fb59ff4f1d4c0d2863dab0ab5d1	
+alice4k.rom	bios\trs80coco\alice4k.rom	78af465c2f31cf4e05dec1efda77da01	c2166b91e6396a311f486832012aa43e0d2b19f8	
+bas10.rom	bios\trs80coco\bas10.rom	a74f3d95b395dad7cdca19d560eeea74	1f08455cd48ce6a06132aea15c4778f264e19539	
+bas11.rom	bios\trs80coco\bas11.rom	c73fb4bff9621c5ab17f6220b20db82f	cecb7c24ff1e0ab5836e4a7a8eb1b8e01f1fded3	
+bas12.rom	bios\trs80coco\bas12.rom	c933316c7d939532a13648850c1c2aa6	0f14dc46c647510eb0b7bd3f53e33da07907d04f	
+bas13.rom	bios\trs80coco\bas13.rom	c2fc43556eb6b7b25bdf5955bd9df825	28b92bebe35fa4f026a084416d6ea3b1552b63d3	
+coco3.rom	bios\trs80coco\coco3.rom	7233c6c429f3ce1c7392f28a933e0b6f	e0d82953fb6fd03768604933df1ce8bc51fc427d	
+coco3p.rom	bios\trs80coco\coco3p.rom	4ae57e5a8e7494e5485446fefedb580b	631e383068b1f52a8f419f4114b69501b21cf379	
+disk10.rom	bios\trs80coco\disk10.rom	a64b3ef9efcc066b18d35b134068d1cc	04115be3f97952b9d9310b52f806d04f80b40d03	
+disk11.rom	bios\trs80coco\disk11.rom	8cab28f4b7311b8df63c07bb3b59bfd5	10bdc5aa2d7d7f205f67b47b19003a4bd89defd1	
+extbas10.rom	bios\trs80coco\extbas10.rom	fda72f415afe99b36f953bb9bc1253da	7275f1e3f165ff6a4657e4e5e24cb8b817239f54	
+extbas11.rom	bios\trs80coco\extbas11.rom	21070aa0496142b886c562bf76d7c113	ad927fb4f30746d820cb8b860ebb585e7f095dea	
+hdbdw3bck.rom	bios\trs80coco\hdbdw3bck.rom	ef750d93d24d7bc87a8ecd6e5a15a845	8fd64f1c246489e0bf2b3743ae76332ff324716a	
+mc10.rom	bios\trs80coco\mc10.rom	f29e94ff36577ffb6a787959e45bfe85	4afff2b4c120334481aab7b02c3552bf76f1bc43	
+mx1600bas.rom	bios\trs80coco\mx1600bas.rom	88d1504e93366f498105a846cdbf7fb7	70a464edf3a654ed4ffe687e6dee4f0d2acc758b	
+JiffyDOS_1541-II.bin	bios\vice\JiffyDOS_1541-II.bin	1b1e985ea5325a1f46eb7fd9681707bf	b1a5b826304d3df2a27d7163c6a81a532e040d32	
+JiffyDOS_1571_repl310654.bin	bios\vice\JiffyDOS_1571_repl310654.bin	41c6cc528e9515ffd0ed9b180f8467c0	d4b79b60cf1eaa399d0932200eb7811e00455249	
+JiffyDOS_1581.bin	bios\vice\JiffyDOS_1581.bin	20b6885c6dc2d42c38754a365b043d71	65bbf2be7bcd5bdcbff609d6c66471ffb9d04bfe	
+JiffyDOS_C128.bin	bios\vice\JiffyDOS_C128.bin	cbbd1bbcb5e4fd8046b6030ab71fc021	7d1898f32beae4b2ae610d469ce578a588efaa7c	
+JiffyDOS_C64.bin	bios\vice\JiffyDOS_C64.bin	be09394f0576cf81fa8bacf634daf9a2	31e73e66eccb28732daea8ec3ad1addd9b39a017	
+scpu-dos-1.4.bin	bios\vice\SCPU64\scpu-dos-1.4.bin	cda2fcd2e1f0412029383e51dd472095	3422a7735f0f959d990ab39512d8815a5d8eab7a	
+scpu-dos-2.04.bin	bios\vice\SCPU64\scpu-dos-2.04.bin	b2869f8678b8b274227f35aad26ba509	6aa529a7b1b6de53e8979e407a77b4d5657727f5	
+Complex_4627.bin	bios\xbox\Complex_4627.bin	39cee882148a87f93cb440b99dde3ceb	3944392c954cfb176d4210544e88353b3c5d36b1	
+mcpx_1.0.bin	bios\xbox\mcpx_1.0.bin	d49c52a4102f6df7bcf8d0617ac475ed	5d270675b54eb8071b480e42d22a3015ac211cef	
+IPLROM.X1	bios\xmil\IPLROM.X1	eeeea1cd29c6e0e8b094790ae969bfa7	d3395e9aeb5b8bbba7654dd471bcd8af228ee69a	
+IPLROM.X1T	bios\xmil\IPLROM.X1T	56c28adcf1f3a2f87cf3d57c378013f5	44620f57a25f0bcac2b57ca2b0f1ebad3bf305d3	
+gamelist.xml	roms\neogeo\gamelist.xml	d84ce629a37ab681eaecba13c28ab707	1d8c3983f0b38b679612c3b93e6b126c18d8c0aa	
+neogeo.zip	roms\neogeo\neogeo.zip	67682655fa5fb32831e28429643e26c7	cdbde4e73d49ed3a682b99f66c231eb3dfd90dc7	
+_lisezmoi.txt	roms\neogeo\_lisezmoi.txt	f13856aa698cd9e97d5715e7cbe9aad8	561db7b8259cef60c10f38ca839123f970f4a6d3	
+_readme.txt	roms\neogeo\_readme.txt	d11ec80301029df3a0cd3a5182180765	913c82e16bb71c45eafcffc5448a96c2ceaa96a8	
+neogeo.png	roms\neogeo\media\images\neogeo.png	a7bc69bf94102f73b9b5cd53d23bd582	3445e1adeb1d46421410fb1f587d5955b62b49fa	
+gamelist.Missing.Serial.txt	roms\neogeocd\gamelist.Missing.Serial.txt	89e77948206b9e63918f89beff41ce46	51dc3b18ae3bcaf361d74ed96bf18fe83f0e2755	
+gamelist.xml	roms\neogeocd\gamelist.xml	bd823b1b09ed053b18a1c5f78598a11c	aed2b7c965400301b182790bbdbc012d8f4a061f	
+neocdz.zip	roms\neogeocd\neocdz.zip	a7cca75f3d5af6acc85efcce589ab04f	891407e147b2c022ebedf8c51fe3a2f497304906	
+_lisezmoi.txt	roms\neogeocd\_lisezmoi.txt	cd0c478d2c15d89b3ec266213033ab8b	65e00222ea855c839a01fae665a5899ddf58161e	
+_readme.txt	roms\neogeocd\_readme.txt	eacf2acdb8081bb82ac2809e94d3234e	845b3a8abbc09611569a7c3c10a5dc3bafdb343c	
+tama.b	roms\ports\tamagotchi\tama.b	3fce172403c27274e59723bbb9f6d8e9	4b4979cf92dc9d2fb6d7295a38f209f3da144f72	
